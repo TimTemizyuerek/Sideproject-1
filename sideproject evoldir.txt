@@ -1,0 +1,7 @@
+-> 2003-present
+-> subset grad student
+-> isolate indiviual position
+-> words (count per month)
+	-> methods, species different taxonomic levels, concepts, location, ...
+-> data file
+-> plot
