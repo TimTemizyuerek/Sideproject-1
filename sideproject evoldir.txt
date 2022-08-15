@@ -4,7 +4,7 @@ loop starts ...
 	open/extract text (individually all the way downstream)
 	extract PhD positions (one object) (track fileID)
 	separate individual PhD positions (x objects) (track PhDID, track total_word_count)
-	analysis on each object (individual PhD position)
+	analysis on each object (individual PhD position) (make playin text here?)
 		words: evolution, microbiome, gender, experiment*, simulation, modelling, computational*, microsatelite, sequencing, sanger*, illumina*, conservation, eDNA, aDNA, *omics, transcriptomics, proteomics, genomics, metabolomics, 
 		       drosophila, melanogaster, caenorhabditis, elegans, mus, musculus, gasterosteus, aculeatus, atta, vollenweideri, cichlid, arabidopsis, thaliana, apis, mellifera, danio, rerio, anolis
 		       fruit fly, mouse/mice, stickleback*, zebrafish, thale cress, bee, ant, mammal, primate, birds, invertrebrate, mollusk, insect, arachnid, reptile, rice, wheat, maize/corn, 
