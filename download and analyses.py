@@ -18,7 +18,7 @@ for link in soup.select("a[href$='.pdf']"):
     with open(filename, 'wb') as f:
         f.write(requests.get(urljoin(url,link['href'])).content)
 
-## import pdf files
+## import pdf file
 import PyPDF2
 
 # load the pdf, make it a pdf object (don't really know what that is)
