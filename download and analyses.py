@@ -5,9 +5,10 @@ from urllib.parse import urljoin
 from bs4 import BeautifulSoup
 
 url = "https://evol.mcmaster.ca/cgi-bin/my_wrap/brian/evoldir/Archive/"
+#folder_location = 'C:/Users/akhil/Desktop'
+folder_location = 'C:/Users/timte/Documents/GitHub/Sideproject_1/downloaded'
 
 #If there is no such folder, the script will create one automatically
-folder_location = r'C:/Users/akhil/Desktop'
 if not os.path.exists(folder_location):os.mkdir(folder_location)
 
 response = requests.get(url)
