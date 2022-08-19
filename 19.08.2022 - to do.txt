@@ -1,0 +1,18 @@
+Have: 
+- folder with all downloads
+- way to extract PhD position en block from single file
+
+To do:
+
+loop (runs through the number of downloaded files)
+
+	- adapt PhD position extraction to all downloaded files
+	- extract number of PhD positions from first file
+	- set up df
+	
+	loop (runs through the number of PhD positions per file)
+		- extract individual PhD position
+		- count target words
+		- store count in dataframe
+		- identifier (file_ID (file name), position_ID (name of the position - spaces removed))
+
