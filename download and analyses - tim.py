@@ -61,7 +61,7 @@ for link in soup.select("a[href$='.pdf']"):
 for n in fnmatch.filter(os.listdir(folder_location), '*.pdf*'):
 
     ## load individual file and make into a pdf object
-    runner_file_location = (folder_location + "/" + fnmatch.filter(os.listdir(folder_location), '*.pdf*')[n])
+    runner_file_location = str(folder_location + "/" + fnmatch.filter(os.listdir(folder_location), '*.pdf*')[n])
     runner_file = open(runner_file_location, 'rb')
     runner_pdf = PyPDF2.PdfFileReader(runner_file)
 
@@ -93,6 +93,9 @@ for n in fnmatch.filter(os.listdir(folder_location), '*.pdf*'):
     starter_overview_int = int(extract_first_page_raw.find("GradStudentPositions") + 21)
 
     ## end of PhD positions overview
+
+    ## stop at the dots instead
+
     ## take the first 15 char of the first position name
     first_PhD_position = extract_first_page_raw[starter_overview_int:starter_overview_int + 15]
     ## find second instance (to identify end of the PhD overview on page 1
@@ -145,7 +148,8 @@ for n in fnmatch.filter(os.listdir(folder_location), '*.pdf*'):
                 PhD_start_page[m] = i
                 PhD_start_position[m] = re.search(runner_PhD_names, text)
                 
-            re.search(runner_PhD_names, text)
+        
+        re.search(runner_PhD_names, text)
 
         
         
