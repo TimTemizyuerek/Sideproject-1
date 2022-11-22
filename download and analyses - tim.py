@@ -92,4 +92,32 @@ for n in fnmatch.filter(os.listdir(folder_location), '*.pdf*'):
     ## add first PhD_position
     PhD_names.insert(0, first_PhD_position)
 
+    ## extract PhD adverts
+    for m in PhD_names:
+
+
+    ## function to make pdf (all pages) to txt 
+
+    pdf_file_location = runner_file_location
+
+
+def pdf_to_txt(pdf_file_location):
+    
+    ## read pdf file
+    pdffileobj=open(pdf_file_location,'rb')
+    pdfreader=PyPDF2.PdfFileReader(pdffileobj)
+
+    ## make txt filename
+    txt_name = pdf_file_location.split("/")[-1]
+    txt_name = txt_name[:-3]
+    txt_name = "".join(["/",txt_name, "txt"])
+    ## create txt file
+    runner_file = open(r"".join([folder_location, txt_name]),"a",encoding='utf-8')
+    
+    ## loop through the pages of the PDF
+    for m in [i for i in range(pdfreader.numPages)]:
+        pageobj = pdfreader.getPage(m)
+        runner_page = pageobj.extractText()
+        runner_file.writelines(runner_page)
+
 ## plot
