@@ -61,33 +61,36 @@ for link in soup.select("a[href$='.pdf']"):
 for n in fnmatch.filter(os.listdir(folder_location), '*.txt*'):
 
     ## load individual file and make into a pdf object
-    runner_file_location = str(folder_location + "/" + fnmatch.filter(os.listdir(folder_location), '*.txt*')[n])
+    runner_file_location = (folder_location + "/" + fnmatch.filter(os.listdir(folder_location), '*.txt*')[n])
     runner_file = open(runner_file_location, 'rb')
-    runner_pdf = PyPDF2.PdfFileReader(runner_file)
+    all_in_one_string = runner_file.read()
+    
+    ## find second "GradStudentPositions"
+    second_GradStudentPositions_index = [i for i in range(len(all_in_one_string)) if all_in_one_string.startswith(b"\nGradStudentPositions", i)][1]
+    ## find second "Jobs"
+    second_Jobs_index = [i for i in range(len(all_in_one_string)) if all_in_one_string.startswith(b"\nJobs", i)][1]
+    
+    ## extract relevant text
+    all_GradStudentPositions_string = all_in_one_string[second_GradStudentPositions_index:second_Jobs_index]
 
-    # get first page (to extract the PhD position pages from)
-    first_page_raw = runner_pdf.getPage(0).extractText()
+    ## no name can be after this index
+    end_of_PhD_names = [i for i in range(len(all_GradStudentPositions_string)) if all_GradStudentPositions_string.startswith(b" . . . ", i)][-1]
 
-    ## identify start and end page of PhD positions from first page
-    starter_PhDpage_str = first_page_raw.find("\nJobs")
-    starter_PhDpage = int(first_page_raw[(starter_PhDpage_str-2):(starter_PhDpage_str)])
-    ender_PhDpage_str = first_page_raw.find("\nOther")
-    ender_PhDpage = int(first_page_raw[(ender_PhDpage_str-2):(ender_PhDpage_str)])
+    ## extract table of content
+    PhD_table_of_content = all_GradStudentPositions_string[:end_of_PhD_names].split(b"\n")
+    
 
-    ## extract PhD position en block from original file
-    writer = PdfFileWriter()
-    start = starter_PhDpage-1
-    end = ender_PhDpage-1
 
-    ## loop over all pages to extract
-    while start <= end:
-        ## add pages one by one
-        writer.addPage(runner_pdf.getPage(start))
-        ## increase counter
-        start = start + 1
+    ## bookmark
 
-    ## extract number of positions in PhD position extract (which is stored in "writer")
-    extract_first_page_raw = writer.getPage(0).extractText()
+
+
+
+
+
+    all_GradStudentPositions_string[1:800]
+    var = [i for i in range(len(all_in_one_string)) if all_in_one_string.startswith(b" .", i)]
+
 
     ## start of PhD position overview
     starter_overview_int = int(extract_first_page_raw.find("GradStudentPositions") + 21)
