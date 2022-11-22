@@ -8,6 +8,8 @@ from bs4 import BeautifulSoup
 import PyPDF2  ## handles pdf files
 from PyPDF2 import PdfFileWriter ## handles pdf file
 import fnmatch ## count files in directory
+import re
+import pandas
 
 ## custom functions
 
@@ -47,13 +49,13 @@ for link in soup.select("a[href$='.pdf']"):
         f.write(requests.get(urljoin(url,link['href'])).content)
 
 ## ## transform files into txt
-## for n in list(range(1,len(fnmatch.filter(os.listdir(folder_location), '*.pdf*')))):
+## for n in list(range(0,len(fnmatch.filter(os.listdir(folder_location), '*.pdf*')))):
 ## 
 ##     ## load individual files
 ##     runner_file_location = (folder_location + "/" + fnmatch.filter(os.listdir(folder_location), '*.pdf*')[n])
 ##     
 ##     ## do the transformation
-##    pdf_to_txt(runner_file_location)
+##     pdf_to_txt(runner_file_location)
 
 ## extract PhD position section from all files
 for n in fnmatch.filter(os.listdir(folder_location), '*.pdf*'):
@@ -124,13 +126,36 @@ for n in fnmatch.filter(os.listdir(folder_location), '*.pdf*'):
     ## add first PhD_position
     PhD_names.insert(0, first_PhD_position)
 
-    ## extract PhD adverts
-    for m in PhD_names:
+    ## extract PhD adverts m = PhD_names[0]
+    
+    PhD_start_page = [None] * (total_number_positions - 1)
+    PhD_end_page = [None] * (total_number_positions - 1)
+    PhD_start_position = [None] * (total_number_positions - 1)
+    PhD_end_position = [None] * (total_number_positions - 1)
+    
+    for m in list(range(0,len(PhD_names))):
 
+        runner_PhD_names = PhD_names[m]
 
-    ## function to make pdf (all pages) to txt 
+        # extract text and do the search
+        for i in list(range(0, writer.getNumPages())):
+            pageObj = writer.getPage(i)
+            text = pageObj.extractText() 
+            if re.search(runner_PhD_names, text):
+                PhD_start_page[m] = i
+                PhD_start_position[m] = re.search(runner_PhD_names, text)
+                
+            re.search(runner_PhD_names, text)
+
+        
+        
+        
+
+    
 
     ## pdf_file_location = runner_file_location
+
+
 
 
 ## plot
