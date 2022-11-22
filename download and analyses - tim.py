@@ -92,11 +92,4 @@ for n in fnmatch.filter(os.listdir(folder_location), '*.pdf*'):
     ## add first PhD_position
     PhD_names.insert(0, first_PhD_position)
 
-    for m in PhD_names:
-
-
-
-
-
-
 ## plot
