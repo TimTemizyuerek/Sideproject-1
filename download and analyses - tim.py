@@ -58,10 +58,10 @@ for link in soup.select("a[href$='.pdf']"):
 ##     pdf_to_txt(runner_file_location)
 
 ## extract PhD position section from all files
-for n in fnmatch.filter(os.listdir(folder_location), '*.pdf*'):
+for n in fnmatch.filter(os.listdir(folder_location), '*.txt*'):
 
     ## load individual file and make into a pdf object
-    runner_file_location = str(folder_location + "/" + fnmatch.filter(os.listdir(folder_location), '*.pdf*')[n])
+    runner_file_location = str(folder_location + "/" + fnmatch.filter(os.listdir(folder_location), '*.txt*')[n])
     runner_file = open(runner_file_location, 'rb')
     runner_pdf = PyPDF2.PdfFileReader(runner_file)
 
