@@ -46,11 +46,20 @@ for link in soup.select("a[href$='.pdf']"):
     with open(filename, 'wb') as f:
         f.write(requests.get(urljoin(url,link['href'])).content)
 
+## ## transform files into txt
+## for n in list(range(1,len(fnmatch.filter(os.listdir(folder_location), '*.pdf*')))):
+## 
+##     ## load individual files
+##     runner_file_location = (folder_location + "/" + fnmatch.filter(os.listdir(folder_location), '*.pdf*')[n])
+##     
+##     ## do the transformation
+##    pdf_to_txt(runner_file_location)
+
 ## extract PhD position section from all files
 for n in fnmatch.filter(os.listdir(folder_location), '*.pdf*'):
 
-    ## load individual file and make it a pdf object
-    runner_file_location = (folder_location + "/" + fnmatch.filter(os.listdir(folder_location), '*.pdf*')[1])
+    ## load individual file and make into a pdf object
+    runner_file_location = (folder_location + "/" + fnmatch.filter(os.listdir(folder_location), '*.pdf*')[n])
     runner_file = open(runner_file_location, 'rb')
     runner_pdf = PyPDF2.PdfFileReader(runner_file)
 
@@ -121,7 +130,7 @@ for n in fnmatch.filter(os.listdir(folder_location), '*.pdf*'):
 
     ## function to make pdf (all pages) to txt 
 
-    pdf_file_location = runner_file_location
+    ## pdf_file_location = runner_file_location
 
 
 ## plot

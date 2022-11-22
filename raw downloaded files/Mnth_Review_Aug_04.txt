@@ -1,0 +1,3856 @@
+E v o l D i r
+August 1, 2004
+M o n t h i n R e v i e w
+Forward
+This listing is intended to aid researchers in population genetics and evolution. To add your name to the directory
+listing, to change anything regarding this listing or to complain please send me mail at Golding@McMaster.CA.
+Listing in this directory is neither limited nor censored and is solely to help scientists reach other members in
+the same ﬁeld and to serve as a means of communication. Please do not add to the junk e-mail unless necessary.
+The nature of the messages should be “bulletin board” in nature, if there is a “discussion” style topic that you
+would like to post please send it to the USENET discussion groups.
+Instructions for the EvolDir are listed at the end of this message.
+/
+Forward . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1
+Conferences . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+GradStudentPositions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+Jobs . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16
+Other . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25
+PostDocs . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 36
+WorkshopsCourses . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 45
+Instructions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 48
+Afterward . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 482 EvolDir August 1, 2004
+Conferences
+BertinoroItaly ComparativeGenomics Oct16-19 . . . . . 2
+Gordon Jul31-Aug5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+Hinxton TranscriptDiversity Nov22-23 . . . . . . . . . . . . . . 3
+KansasCity Genes Ecology Oct2-3 . . . . . . . . . . . . . . . . . . 4
+Krakow EuropeanSocietyEvolBiol 2005 . . . . . . . . . . . . . 5
+Leiden Endosymbionts Sep6 . . . . . . . . . . . . . . . . . . . . . . . . 5
+MEEGID VII . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+Marseilles EvolBiol . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6Marseilles EvolBiol Sep22-24 2 . . . . . . . . . . . . . . . . . . . . . 6
+NorthCarolina SEEPAGE Sept10-12 . . . . . . . . . . . . . . . . 7
+QuebecCity PlantGenomics Aug29-Sep1 . . . . . . . . . . . . 7
+ReadingUK PopGenetics Dec14-17 . . . . . . . . . . . . . . . . . 7
+SandbjergDenmark EvolStress Aug22-26 2 . . . . . . . . . . 8
+SandbjergDenmark EvolStress Aug22-26 3 . . . . . . . . . . 9
+Shropshire EvolBiol Aug29-Sept3 . . . . . . . . . . . . . . . . . . 10
+BertinoroItaly
+ComparativeGenomics Oct16-19
+Call For Papers
+Second RECOMB Satellite Workshop on Comparative
+Genomics
+Location: BICI Bertinoro International Center for In-
+formatics, Bertinoro, Italy, see
+http://www.cs.unibo.it/bici/ IMPORTANT DATES:
+Submission Deadline: August 30, 2004. Notiﬁcations
+to Authors: September 16, 2004. Workshop: October
+16-19, 2004 Information on participation, registration,
+accommodations, and travel can be found at:
+http://www.nada.kth.se/ ˜ jensl/recombcg2004.html
+Organizers: Jens Lagergren, Stockholm Bioinformat-
+ics Center & KTH; Aoife McLysaght, Trinity College;
+Nancy Moran, University of Arizona Bernard Moret,
+University of New Mexico; David Sankoﬀ, University
+of Ottawa.
+Scope: The increasing availability of complete genomes
+from diverse organisms oﬀers unprecedented research
+opportunities. Intergenomic comparison of various
+kinds of maps is revelatory of many types of genomic
+events central to biological, medical and bioinformatics
+research in the post-genomic era. Computational biol-
+ogy has a key role to play in many aspects of this work:
+understanding patterns and processes of genomic evo-
+lution, mapping genome-level mutational events, andthe eﬀective use of these maps by bioinformatics tools.
+Genomic data oﬀer an alternative approach to phylo-
+genetic reconstruction, based on genome-level events
+rather than nucleotide or amino-acid substitutions.
+The core of comparative genome analysis is the estab-
+lishment of the correspondence between genes (orthol-
+ogy analysis) or other genomic features in diﬀerent or-
+ganisms. It is these intergenomic maps that make it
+possible to trace the evolutionary processes responsible
+for the divergence of two genomes. A multitude of evo-
+lutionary events acting at various organizational levels
+shape genome evolution. At the lowest level, point mu-
+tations aﬀect individual nucleotides. At a higher level,
+large chromosomal segments undergo duplication, lat-
+eral transfer, inversion, transposition, deletion and in-
+sertion. Ultimately, whole genomes are involved in pro-
+cesses of hybridization, polyploidization and endosym-
+biosis, often leading to rapid speciation. The complex-
+ity of genome evolution poses many exciting challenges
+to developers of mathematical models and algorithms,
+who have recourse to a spectra of algorithmic, statis-
+tical and mathematical techniques, ranging from ex-
+act, heuristic, ﬁxed parameter and approximation al-
+gorithms for problems based on parsimony models to
+Monte Carlo Markov Chain algorithms for Bayesian
+analysis of problems based on probabilistic models.
+The RECOMB Satellite Workshop on Comparative Ge-
+nomics is a forum on all aspects and components of this
+ﬁeld, ranging from new quantitative discoveries about
+genome structure and process to theorems on the com-
+plexity of computational problems inspired by genome
+comparison.
+David Sankoﬀ <sankoﬀ@uottawa.ca >August 1, 2004 EvolDir 3
+Gordon Jul31-Aug5
+The Gordon Conference on evolutionary and ecological
+functional genomics (EEFG) is focused on the genes
+that aﬀect ecological success and evolutionary ﬁtness
+in natural environments and populations. This inter-
+disciplinary research area seeks to understand the func-
+tional signiﬁcance of genomic variation for wild organ-
+isms (microbial, plant, and animal) in natural biolog-
+ical communities. The EEFG Gordon Research Con-
+ference will showcase the successes and achievements of
+the ﬁeld to date; examine novel models of collabora-
+tion, interdisciplinary training, and information man-
+agement; and map out future directions and priorities.
+When: Jul 31 - Aug 5, 2005
+Where: Queen’s College, Oxford, UK
+Organizers: Chair - Thomas Mitchell-Olds Vice-Chair
+- Greg Wray
+We are soliciting suggestions and advice for out-
+standing potential speakers in this area. Self-
+nominations are welcome. Beginning about 25 July
+2004 we plan to organize the list of invited speak-
+ers for this conference. Please send suggestions to
+<mailto:tmo@ice.mpg.de >tmo@ice.mpg.de. Thanks
+for your help.
+Thomas Mitchell-Olds <tmo@ice.mpg.de >
+Hinxton TranscriptDiversity
+Nov22-23
+Title: Symposium on Alternate Transcript Diver-
+sity - Data, Biology, and Therapeutics Date : Nov
+22-23, 2004 Venue: European Bioinformatics Insti-
+tute, Hinxton, Cambridgeshire, UK URL : http://-
+www.ebi.ac.uk/information/events/atd-sympo/ Alter-
+native splicing is a major versatile mechanism that gen-
+erates diversity in the human transcriptome. Its regu-
+lation is complex and is an important means of physi-
+ological control. Its disruption is associated with many
+diseases, including cancer, multiple sclerosis, heart fail-
+ure and neurodegenerative disorders. The realizationthat alternative splicing is an important way of con-
+trolling gene expression has spawned several large-scale
+eﬀorts to create bioinformatics resources on alternate
+transcripts and protein isoforms. These include: com-
+putational methods and tools to delineate and charac-
+terize alternate transcript structures; databases of al-
+ternate transcripts and protein isoforms; and annota-
+tions that describe the physiology, pathology and evo-
+lution of alternate transcript generation. These eﬀorts
+require community-based collaborations involving com-
+putational biologists, bioinformaticians and experimen-
+tal biologists. This symposium aims to bring together
+this community to discuss these resources.
+–== Programme Committee ==–
+Ewan Birney (EMBL-EBI, UK) Ian Dix (AstraZeneca,
+UK) Daniel Gautheret (INSERM, France) Stefan
+Stamm (University of Erlangen, Germany) Alphonse
+Thanaraj Thangavel (EMBL-EBI, UK) - Chair
+–== Local Organizing Committee (all at EMBL-EBI,
+UK) ==–
+Cath Brooksbank Liz Ford Paul Matthews Lisa Mul-
+lan - Chair Jean-Jack Riethoven Alphonse Thanaraj
+Thangavel Eleanor Whitﬁeld
+–== Speakers ==–
+* Ewan Birney (EMBL-EBI, UK) * Laurent Bracco
+(ExonHit Therapeutics, France) * Steven Brenner
+(Univ. California Berkeley, USA) * John Castle
+(Rosetta Inpharmatics, USA) * Ian Dix (AstraZeneca,
+UK) * Daniel Gautheret (INSERM, France) * Winston
+Hide (SANBI, South Africa) * Tim Hubbard (Sanger
+Institute, UK) * Tadashi Imanishi (NIAIST, Japan) *
+Adrian Krainer (CSHL, USA) * Christopher Lee (Univ.
+California Los Angeles, USA) * Christopher Smith
+(Univ. Cambridge, UK) * Rotem Sorek (Compugen,
+Israel) * Stefan Stamm (Univ. Erlangen, Germany) *
+Alphonse Thanaraj (EMBL-EBI, UK) * Eleanor Whit-
+ﬁeld (EMBL-EBI, UK) This list will be updated as fur-
+ther speakers are conﬁrmed.
+In addition to the talks by invited speakers, oral presen-
+tations of selected poster submissions will be arranged.
+–== Programme ==–
+The full programme will be posted in due course
+on the symposium web pages http://www.ebi.ac.uk/-
+information/events/atd-sympo/ . The programme will
+include a combination of invited talks, poster sessions
+and talks selected from poster abstracts. Topics in-
+clude, but are not limited to:
+* High-throughput identiﬁcation and computational
+documentation of alternate transcripts and protein iso-
+forms * Regulation of alternative splicing and computa-4 EvolDir August 1, 2004
+tional tools to identify regulatory motifs * Elucidating
+the causes and eﬀects of variant formation * Disease-
+relevant variants and therapeutic applications
+Abstracts of the invited talks and poster presentations
+will be made available in the symposium proceedings.
+–== Registration ==–
+DEADLINE: 30 September, 2004.
+Please register online using the form at www.ebi.ac.uk/-
+information/events/atd-sympo/registration . When
+you register you will be sent an automatically generated
+e-mail message that includes your registration number.
+Please keep a record of this as you will need it to submit
+your poster abstract.
+The registration fee is £GBP 150. This covers the cost
+of lunches and refreshments, an abstract book and the
+conference dinner. Registration payments should be
+made in GBP (pounds sterling) by bank transfer or
+personal cheque.
+Payment by cheque: Please make personal cheques
+payable to ’Industry Workshops’ and send with your
+name and registration number (this will be sent to you
+when you register online) to the following address:
+Liz Ford EMBL-EBI Wellcome Trust Genome Campus
+Hinxton Cambridge, CB10 1SD UK
+Payment by bank transfer: If you wish to pay your reg-
+istration fee by bank transfer, please contact Liz Ford,
+ford@ebi.ac.uk for more details Bottom of Form
+–== Poster-abstract submission instructions ==–
+ABSTRACT-SUBMISSION DEADLINE: 30 Septem-
+ber 2004
+Abstracts will be considered for presentation in poster
+sessions. Selected posters will be included for oral pre-
+sentation. * Authors whose abstracts are selected for
+poster and/or oral presentation will be notiﬁed by Oc-
+tober 20, 2004. * Please submit your abstract using the
+online submission form at
+/
+This message has been arbitrarily truncated at 5000 characters.
+To read the entire message look it up at http://life.biology.-
+mcmaster.ca/˜brian/evoldir.html
+KansasCity Genes Ecology Oct2-3Please help us inform members of your EvolDir Direc-
+tory about our upcoming Ecological Genomics Sympo-
+sium. Detailed information can be found at our web-
+site, www.ksu.edu/ecogen . You are invited to attend
+the 2nd Annual “Genes in Ecology, Ecology in Genes”
+Symposium on October 2 & 3, 2004, at the DoubleTree
+Hotel in Overland Park, Kansas (Kansas City metro
+area). Ecological Genomics is an emerging ﬁeld at
+the interface of ecology, evolution and genomics that
+seeks to place the functional signiﬁcance of genes and
+genomics into an ecological and evolutionary context.
+Symposium participants will learn about this new in-
+terdisciplinary ﬁeld from leaders at the forefront of eco-
+logical and evolutionary functional genomics. (See the
+featured speaker list below.) The Kansas ecological ge-
+nomics initiative comprises over 30 faculty from three
+universities. Learn about their research, too.
+Participants are invited to share their own research at
+a poster session on Saturday. Poster topics are not lim-
+ited to Ecological Genomics.
+If you have any questions, please contact us at (785)
+532-3482 or ecogen@ksu.edu. The attached brochure
+and links for registration and hotel reservations are now
+posted to our website, www.ksu.edu/ecogen . Please
+share this announcement with colleagues and students
+who are interested in learning more about the emerging
+ﬁeld of Ecological Genomics.
+Act now to ﬁnalize your Symposium registration and
+hotel reservation before 5 p.m. on Tuesday, August
+31st.
+“Ecology in Genes, Genes in Ecology” Featured Speak-
+ers: Joy Bergelson, University of Chicago, “The evolu-
+tion of disease resistance in Arabidopsis” Hopi Hoek-
+stra, University of California, San Diego, “Genetic ar-
+chitecture of adaptive coloration in beach mice” Robert
+B. Jackson, Duke University, “Ecological genomics and
+ecosystems” Michael Lynch, Indiana University, “The
+origins of genome complexity” Alison E. Murray, Desert
+Research Institute, “Microbial genomics goes to the en-
+vironment - where some like it hot, and others like
+it cold” Michael Purugganan, North Carolina State
+University, “Ecological genomics of Arabidopsis ﬂower-
+ing” W. Kelley Thomas, Hubbard Center for Genome
+Studies, University of New Hampshire, “Daphnia: An
+emerging model system for ecological and evolutionary
+genomics” Thomas G. Whitham, Merriam-Powell Cen-
+ter for Environmental Research, Northern Arizona Uni-
+versity, “Community and ecosystem genetics: A conse-
+quence of the extended phenotype”
+Funding for this symposium is provided by Kansas NSF
+EPSCoR and The Kansas Technology Enterprise Cor-
+poration.August 1, 2004 EvolDir 5
+Thank you!
+Doris R. Merrill Administrative Assistant Ecological
+Genomics of Kansas KSU Division of Biology 231
+Ackert Hall Manhattan, KS 66506-4901 Voice: 785-
+532-3482 Fax: 785-532-6653 E-mail: dmerrill@ksu.edu
+http://www.ksu.edu/ecogen/
+Doris Merrill <dmerrill@ksu.edu >
+Krakow EuropeanSocietyEvolBiol
+2005
+REMINDER: CALL FOR SYMPOSIA for the 10th
+Congress of the European Society for Evolutionary Bi-
+ology, Krakow, Poland, 2005
+We would like to kindly inform that the dead-
+line of symposia submission is July 31, 2004: All
+submissions should be made by website http://-
+www.eko.uj.edu.pl/eseb/ . Any enquiries should be
+send to eseb2005@eko.uj.edu.pl with “symposium”
+written as a subject.
+INTERNET RESOURCES: Congress website: http:/-
+/www.eko.uj.edu.pl/eseb/ Full text of symposia
+call available at: http://www.eko.uj.edu.pl/eseb/-
+call.html PDF version of symposia call: http://-
+www.eko.uj.edu.pl/eseb/Call forsymposia.pdf
+10th Congress of the European Society for
+Evolutionary Biology Krakow, Poland, 2005
+www: http://www.eko.uj.edu.pl/eseb/ email:
+eseb2005@eko.uj.edu.pl
+Leiden Endosymbionts Sep6
+This is a ﬁrst announcement for the one-day sympo-
+sium:
+Acquired Genomes: Evolutionary consequences of en-
+dosymbionts 6 september 2004 Leiden, The Nether-
+lands
+The role of symbiosis in the creation of biodiversity has
+been amply demonstrated by Lynn Margulis in her re-
+cent book Acquired Genomes and in her previous work
+in which she has compiled convincing evidence that mi-
+tochondria of the eukaryotic cell and chloroplasts inplant cells have evolved into essential organelles from
+a free living micro-organisms. These acquired genomes
+represent major innovative steps in evolution.
+Exploring how the acquisition and domestication of ini-
+tially free-living organisms proceeds is an exciting ﬁeld
+of study. Intracellular symbionts and their eukaryotic
+hosts have initially conﬂicting interests, and the evolu-
+tionary arms races between them do not necessarily re-
+sult in mutualistic relations between previous enemies,
+as the Eukaryotes might lose the race and end up being
+hijacked by the symbiont.
+This symposium aims at bringing together researchers
+in the ﬁeld of endosymbionts.
+Conﬁrmed invited speakers (titles and abstracts will fol-
+low, check the website http://wwwbio.leidenuniv.nl/-
+˜eew/G1/index.html for details):
+Lynn Margulis (University of Massachussets/Amherst,
+U.S.A.) Fabrice Vavre (Universit´ e de Claude Bernard-
+Lyon 1, France) Richard Stouthamer (University of
+California Riverside, USA) Rob Butcher (University of
+Bath, UK) Hans Breeuwer (University of Amsterdam,
+The Netherlands) Bart Pannebakker (Leiden Univer-
+sity, The Netherlands)
+Contributed presentations in the form of poster pre-
+sentations are welcome. Posterboards will be available
+during the breaks.
+Please registrer by sending an e-mail with your contact
+details and whether you wish to present a poster to:
+Gerdi Dijkstra: oecologie@rulsfb.leidenuniv.nl
+We aim at keeping the symposium free of charge.
+Kind regards,
+Bart Pannebakker
+Bart A. Pannebakker Institute of Biology - Leiden
+University Van der Klaauw Laboratory - Section
+of Animal Ecology / Section of Evolutionary Biol-
+ogy P.O. Box 9516, 2300 RA Leiden, The Nether-
+lands Tel. (+31) 71 527 4990 ; Fax (+31) 71 527
+4900 Email: pannebakker@rulsfb.leidenuniv.nl http:/-
+/wwwbio.leidenuniv.nl/˜pannebakker/index.html
+Bart Pannebakker <pannebakker@rulsfb.leidenuniv.nl >
+MEEGID VII
+Dear All:6 EvolDir August 1, 2004
+FINAL SCIENTIFIC PROGRAMME OF MEEGID
+VII A total of 455 Abstracts have been accepted for
+MEEGID VII, including papers for both MEEGID Ses-
+sions and MEEGID-EMOP shared sessions. The Or-
+ganising Committee apologies for the delay in making
+this programme available, only due to several keynote
+speakers sending their summaries very late (up to even
+the beginning of July). The very large number of del-
+egates makes it impossible to send an email to each
+participant individually notifying details about their
+communications. Therefore, we kindly request you to
+look for the details in the entry “Deﬁnitive Scientiﬁc
+Programme of MEEGID VII” of the NEWS of the
+MEEGID VII web-site:
+http://www.uv.es.emop9/MEEGID HOW TO KNOW
+DATE, TIME, SESSION AND ROOM FOR YOUR
+PRESENTATION(S) To ﬁnd a paper and know date,
+time, session and room for presentation, proceed as fol-
+lows: 1.- Enter in http://www.uv.es.emop9/MEEGID
+2.- Click “Deﬁnitive Scientiﬁc Programme of MEEGID
+VII” in the NEWS. 3.- Click MEEGID VII PRO-
+GRAMME to directly obtain the whole MEEGID VII
+Programme on your computer desktop (Acrobat Reader
+ﬁle). 4.- In this Programme, MEEGID sessions include
+Abstract Nos. 1-43 and can be easily followed by look-
+ing at Plenary Sessions, Express Debates and MEEGID
+Symposia directly at the beginning of the Programme,
+as abstracts are numbered consecutively. 5.- MEEGID-
+EMOP shared Symposia, Workshops and Monographic
+Sessions include Abstracts Nos. 44-455. MEEGID-
+EMOP shared communications show the MEEGID VII
+number at left and the EMOP IX number at the end
+of the title in parentheses. To know date, time, session
+and room for presentation in MEEGID-EMOP shared
+communications, whether download the MEEGID VII
+PROGRAMME pdf ﬁle to your computer and simply
+use search for name in your Acrobat Reader program
+or go to the entry “Deﬁnitive Scientiﬁc Programme of
+EMOP IX” in the NEWS of the EMOP web-site <<
+http://www.uv.es/emop9 >> and follow the instruc-
+tions noted by using the Author Index.
+PRESENTATION GUIDELINES Details about com-
+munications for (i) Keynote presentations, (ii) Express
+debates, (iii) Oral papers and (iv) Poster presentations
+available in the entry “Presentation Guidelines” in the
+NEWS.
+HONORARY COMMITTEE Already available in the
+corresponding entry “Honorary Committee” in the
+NEWS.
+NEW INFORMATION Details on Doc Reception and
+Last Registration, a modiﬁcation related to the Get
+Together Party of Sunday July 18, the Time Tableand Transport for Social Events, and the Shuttle Ser-
+vice available in the entry “Modif.& New Info” in the
+NEWS.
+According to the very large number of papers received
+from very numerous delegates from countries from all
+continents, we are pleased to say that this meeting has
+been very successful. We hope you will enjoy the very
+rich scientiﬁc programme and wish you a pleasant stay
+in Valencia.
+MEEGID VII Organising Committee
+Marseilles EvolBiol
+Dear all,
+The 8th evolutionary biology meeting’s preliminary
+program is already aviable for consultation on our
+web site www.up.univ-mrs.fr/evol/congres and we in-
+vite you to come and see it!
+Considering the great number of participants to this
+new appointment, we had this year to look for a new
+place to meet and found a very conveniant localisa-
+tion near the main train station of the town. Thus,
+the meeting will take place at Saint Charles University,
+place you will also be able to discover on our web site.
+To conclude, we draw your attention to the fact that
+you still have the possibility to present one poster,
+therefore, we invite you not to hesitate if you wish to
+do so.
+Hoping hearing from you very soon,
+Gaelle, for the organizers of the 8th evolutionary biol-
+ogy meeting. congres evolution@hotmail.com
+Marseilles EvolBiol Sep22-24 2
+Association pour l’´ etude de l’´ evolution biologique. Uni-
+versit´ e Aix-Marseille I centre Saint Charles Laboratoire
+EGEE (Evolution, G´ enome, Environnement) 3 place
+Victor Hugo 13331 Marseille cedex 03 FRANCE
+Dear colleagues, I inform you that the deﬁnitive scien-
+tiﬁc program of the 8th evolutionary biology meeting at
+Marseilles as well as the social events are now avaibleAugust 1, 2004 EvolDir 7
+onhttp://www.up.univ-mrs.fr/evol/congres/ . More-
+over, we exceptionaly still accept a few inscription for
+posters. If you were interested, please send us an ab-
+stract and register directly on the meeting web site.
+Best regards,
+Pierre Pontarotti. congres evolution@hotmail.com
+NorthCarolina SEEPAGE Sept10-12
+SEEPAGE 2004
+September 10-12, Swannanoa, North Carolina
+Please note the corrected URL for the SEEPAGE 2004
+website:
+http://salamander.uky.edu/SEEPAGE/ David
+Weisrock, Ph.D. University of Kentucky T.
+H. Morgan School of Biological Sciences
+http://salamander.uky.edu David Weisrock
+<weisrock@uky.edu >
+QuebecCity PlantGenomics
+Aug29-Sep1
+Final Announcement The 2nd Canadian Plant Ge-
+nomics Workshop is being held in Qu´ ebec City, August
+29 - September 1st 2004, at the Loews Le Concorde
+Hotel.
+Keynote Speakers: Marc Vidal, Harvard Medical
+School, Boston MA Interactome Networks John Quack-
+enbush, The Institute for Genomic Research, Rockville,
+MD Expression proﬁling for the analysis of biological
+systems Joseph Ecker, The Salk Institute, La Jolla, CA
+Genome-wide discovery of transcription units and func-
+tional elements in Arabidopsis James Zhang, Mendel
+Biotechnologies, Hayward, CA Functional genomics of
+plant transcription factors - from Arabidopsis in the lab
+to tomatoes in the ﬁeld Fathey Sarhan, Universit´ e du
+Qu´ ebec ` a Montr´ eal, Montr´ eal, QC Functional genomics
+and discovery of novel genes associated with abiotic
+stresses in cereals Gerald Tuskan, Oak Ridge National
+Laboratory, Oak Ridge, TN The International Populus
+Genome Consortium Intended to promote and enhance
+networking, this workshop will bring together renownedinternational and Canadian genomics researchers, all
+within the context of one of the most historic cities in
+North America. Functional genomics will be the major
+theme, with prominent speakers addressing a diverse
+range of subjects, spanning from the C. elegans inter-
+actome to the International Populus Genome Consor-
+tium. Morning symposia will be followed by concurrent
+workshops in the afternoon that will address a number
+of technical and biological topics. These will include
+proteomics, metabolomics, transgenomics, expression
+proﬁling and bioinformatics.
+Deadline for the reduced rate for the Loews Le Con-
+corde hotel (800-463-5256) has been extended to Thurs-
+day, 29July04 and the early registration extended to
+30July04.
+The complete program, registration instructions, list of
+partners and organizing committee members are avail-
+able at www.cpgw-acgp.ca .<<Final Announcement-
+En.pdf >>
+“Rutledge, Bob” <BRutledge@exchange.cﬂ.forestry.ca >
+ReadingUK PopGenetics Dec14-17
+This is a preliminary announcement that the the 38th
+Population Genetics Group Meeting (Pop Group) will
+be held in Reading, UK, from the evening of Tuesday
+14 December to lunchtime Friday 17 December, 2004.
+Invited speakers are
+Rasmus Nielsen (Cornell/Copenhagen) Steve Oliver
+(Manchester) Sara Via (Maryland)
+The cost of board and lodging plus conference fee will
+be around 190 GBP. Registration details will be an-
+nounced at the beginning of August.
+Mark Beaumont
+– Mark A. Beaumont, School of Animal and Microbial
+Sciences, University of Reading, Whiteknights, P.O.
+Box 228, Reading RG6 6AJ, UK
+Tel 0118 987 5123 X 7707 Fax 0118 931 0180
+Email: m.a.beaumont@reading.ac.uk WWW: http://-
+www.rubic.rdg.ac.uk/˜mab/8 EvolDir August 1, 2004
+SandbjergDenmark EvolStress
+Aug22-26 2
+Second announcement:
+Symposium
+Progress in Environmental Stress, Adaptation and Evo-
+lution
+August 22-26, 2004 at Sandbjerg, Denmark
+Sponsors:
+European Society of Evolutionary Biology (ESEB)
+Center for Environmental Stress Research and Faculty
+of Sciences, University of Aarhus (DK)
+Aim:
+Most organisms and populations have to cope with hos-
+tile environments, threatening their existence. Their
+ability to respond phenotypically and genetically to
+these challenges and to evolve adaptive mechanisms is,
+therefore, crucial. The aim of the symposium is to un-
+derstand, from an evolutionary perspective, the impact
+of stress on biological systems. We have invited speak-
+ers that at diﬀerent organizational levels, from genes
+to individuals and populations, explore how organisms
+adapt to (extreme) environments genetically and phys-
+iologically, how stress changes genetic structure and af-
+fects life histories and how environmental and genetic
+stress shape selection pressure and causes extinction of
+populations.
+These issues have already been dealt with in a sym-
+posium on stress and evolutionduring the 5th Interna-
+tional Congress of Evolutionary Biology and System-
+atics in Budapest (1966), and in the end resulted in
+a book edited by us Environmental Stress, Adaptation
+and Evolution (1997)published in the Birkh¨ auser EXS
+series (EXS 83). It is now nearly ten years later and
+knowledge and (genomic) techniques in this research
+ﬁeld have progressed rapidly. Therefore, we are think-
+ing a follow-up to be timely and are organising this
+small, 3 day symposium on the same issues
+Structure:
+The number of participants will be limited to around
+50, of which 15 are reserved for invited speakers (for list
+see below). There will be room for maximal 40 presen-
+tations of which 25 are open for contributed talks (25
+min.). In conjunction with the symposium a specialthematic issue of the Journal of Evolutionary Biology
+will be published on the topic that will contain high
+quality papers by the invited speakers. In addition, it
+will be possible for contributed papers to be included
+in this special issue of JEB. This will ensure that the
+papers get lots of exposure in this thematic setting. Pa-
+pers for the special issue will be selected by the organis-
+ers of the symposium and the chief editor of JEB, Juha
+Merila. Mind that all manuscripts, including those of
+the invited speakers, will not be treated favourably for
+this special issue. They are subject to normal, rigor-
+ous peer-review and scope limits of the journal: they
+have to address important evolutionary, and not purely
+functional, problems.
+Participation:
+Those that are interested in the symposium topic
+and want to participate and/or present a paper are
+kindly invited to contact the organisers from now
+on. Please do send your application to Corneel
+Vermeulen ( <mailto:c.j.vermeulen@biol.rug.nl >
+c.j.vermeulen@biol.rug.nl) who will collect
+and structure applications (but for safety
+do send also a cc to both Volker Loeschcke
+(<mailto:volker.loeschcke@biology.au.dk >
+volker.loeschcke@biology.au.dk) and Kuke
+Bijlsma ( <mailto:r.bijlsma@biol.rug.nl >
+r.bijlsma@biol.rug.nl)), not later than the 7th of
+June. As we, in addition to the invited speakers,
+can only accommodate around 35 participants, the
+symposium might easily become full. If this is
+the case the organisers will select participants and
+contributions that seem to ﬁt that symposium and
+the special volume of JEB the best. Therefore it is
+important that tentative participants provide a few
+lines about their research interests, and if they want to
+present a contribution, please provide also a title and
+a substantial abstract (up to 200 words). Membership
+of ESEB is not prerequisite, but gives a discount of the
+conference fee and might give some priority.
+Practical information:
+Title: Progress in Environmental Stress, Adaptation
+and Evolution
+Date: August 22-26, 2004
+Deadline: June 7, 2004 (you will hear about acceptance
+not later than June 15, 2004).
+Organisers: Volker Loeschcke, Dept. of Ecology and
+Genetics, University of Aarhus (DK)
+Kuke Bijlsma, Evolutionary Genetics, University of
+Groningen (NL)
+Place: Sandbjerg Manor House, in the south of Jutland,August 1, 2004 EvolDir 9
+Denmark. This is a conference centre of the Univer-
+sity of Aarhus in a very nice and rural setting, easily
+reached by train and plane. For info see: <http://-
+www.sandbjerg.dk/en/ >www.sandbjerg.dk/en/ .
+Participants: maximal number approximately 50 (ex-
+cept for some invited speakers allotted to ESEB mem-
+bers).
+Costs: The conference fee is Euro 450 for ESEB mem-
+bers Euro 550 for non-members. (Thus ESEB members
+get a discount of Euro 100, which is more than twice
+the yearly membership fee including the printed version
+of
+/
+This message has been arbitrarily truncated at 5000 characters.
+To read the entire message look it up at http://life.biology.-
+mcmaster.ca/˜brian/evoldir.html
+SandbjergDenmark EvolStress
+Aug22-26 3
+Due to late withdrawl we have still 3 to 4 places vacant
+for the ESEB sponsored workshop on environmental
+stress, adaptation and evolution, Aug. 22-26, Sandb-
+jerg, Denmark; for further information on the sympo-
+sium see below; if you are interested to attend, send
+asap an email to Corneel with cc to Kuke and me (for
+email addresses see below); if you want to give an oral
+presentation, also send an abstract; we will accept on
+ﬁrs com ﬁrst served basis to ﬁll the last spots. kind
+regards Kuke and Volker
+Symposium:
+Progress in Environmental Stress, Adaptation and Evo-
+lution
+August 22-26, 2004 at Sandbjerg, Denmark
+Sponsors:
+European Society of Evolutionary Biology (ESEB)
+Faculty of Sciences and Center for Environmental Stress
+Research, University of Aarhus (DK)
+Aim:
+Most organisms and populations have to cope with hos-
+tile environments, threatening their existence. Their
+ability to respond phenotypically and genetically to
+these challenges and to evolve adaptive mechanisms is,therefore, crucial. The aim of the symposium is to un-
+derstand, from an evolutionary perspective, the impact
+of stress on biological systems. We have invited speak-
+ers that at diﬀerent organizational levels, from genes
+to individuals and populations, explore how organisms
+adapt to (extreme) environments genetically and phys-
+iologically, how stress changes genetic structure and af-
+fects life histories and how environmental and genetic
+stress shape selection pressure and causes extinction of
+populations.
+These issues have already been dealt with in a sympo-
+sium on stress and evolution during the 5th Interna-
+tional Congress of Evolutionary Biology and System-
+atics in Budapest (1966), and in the end resulted in
+a book edited by us Environmental Stress, Adaptation
+and Evolution (1997) published in the Birkh¨ auser EXS
+series (EXS 83). It is now nearly ten years later and
+knowledge and (genomic) techniques in this research
+ﬁeld have progressed rapidly. Therefore, we are think-
+ing a follow-up to be timely and are organising this
+small, 3 day symposium on the same issues
+Structure:
+The number of participants will be limited to around
+50, of which 15 are reserved for invited speakers (for list
+see below). There will be room for maximal 40 presen-
+tations of which 25 are open for contributed talks (25
+min.). In conjunction with the symposium a special
+thematic issue of the Journal of Evolutionary Biology
+will be published on the topic that will contain high
+quality papers by the invited speakers. In addition, it
+will be possible for contributed papers to be included
+in this special issue of JEB. This will ensure that the
+papers get lots of exposure in this thematic setting. Pa-
+pers for the special issue will be selected by the organis-
+ers of the symposium and the chief editor of JEB, Juha
+Merila. Mind that all manuscripts, including those of
+the invited speakers, will not be treated favourably for
+this special issue. They are subject to normal, rigor-
+ous peer-review and scope limits of the journal: they
+have to address important evolutionary, and not purely
+functional, problems.
+Participation:
+Those that are interested in the symposium topic
+and want to participate and/or present a paper are
+kindly invited to contact the organisers from now
+on. Please do send your application asap to Corneel
+Vermeulen ( <mailto:c.j.vermeulen@biol.rug.nl >
+c.j.vermeulen@biol.rug.nl) who will collect
+and structure applications (but for safety
+do send also a cc to both Volker Loeschcke
+(<mailto:volker.loeschcke@biology.au.dk >
+volker.loeschcke@biology.au.dk) and Kuke10 EvolDir August 1, 2004
+Bijlsma ( <mailto:r.bijlsma@biol.rug.nl >
+r.bijlsma@biol.rug.nl)). As we, in addition to the
+invited speakers, can only accommodate around 35
+participants, the symposium might easily become over-
+booked. If this is the case the organisers will select
+participants and contributions that seem to ﬁt that
+symposium and the special volume of JEB the best.
+Therefore it is important that tentative participants
+provide a few lines about their research interests, and
+if they want to present a contribution, please provide
+also a title and a substantial abstract (up to 200
+words). Membership of ESEB is not prerequisite, but
+gives a discount of the conference fee and might give
+some priority.
+Practical information:
+Title: Progress in Environmental Stress, Adaptation
+and Evolution
+Date: August 22-26, 2004
+Organisers: Volker Loeschcke, Dept. of Ecology and
+Genetics, University of Aarhus (DK)
+Kuke Bijlsma, Evolutionary Genetics, University of
+Groningen (NL)
+Place: Sandbjerg Manor House, in the south of Jutland,
+Denmark. This is a conference centre of the University
+of Aarhus in a very nice and rural setting, easily reached
+by train and plane. For info see:/
+This message has been arbitrarily truncated at 5000 characters.
+To read the entire message look it up at http://life.biology.-
+mcmaster.ca/˜brian/evoldir.html
+Shropshire EvolBiol Aug29-Sept3
+Final announcement for participants
+10th Meeting of PhD Students in Evolutionary Biol-
+ogy 29th August-3rd September 2004 Preston Montford
+Field Centre, Shropshire, UK
+There are around 15 places still available on this con-
+ference. It aims to bring together PhD students from
+all over Europe to discuss current topics in evolution-
+ary biology; topics range from molecular evolution to
+conservation biology.
+Please see http://students.bath.ac.uk/bspght for fur-
+ther details. As the conference is quite soon please
+note that, once registration has been conﬁrmed, pay-
+ment should be set up within 5 days.
+GradStudentPositions
+France INRA AnimalGenomeExpression . . . . . . . . . . . 10
+Leuven FishGenomics . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+Paris EvoDevo NerveCells . . . . . . . . . . . . . . . . . . . . . . . . . 12
+UBern AdaptiveRadiation . . . . . . . . . . . . . . . . . . . . . . . . . 12
+UEastAnglia MHC . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+UEdinburgh GenomeAnalysis . . . . . . . . . . . . . . . . . . . . . 14UNewSouthWales ConservationBiology . . . . . . . . . . . . 14
+UPotsdam EvolBiol . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+USussex NeuralGeneEvol . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+UWalesBangor ConservationGenetics . . . . . . . . . . . . . . 16
+France INRA
+AnimalGenomeExpressionDear colleagues,
+We are pleased to inform you that the INRA Jouy-en-
+Josas research centre site ( www.jouy.inra.fr ) has been
+accepted as a Marie Curie Early Stage Training siteAugust 1, 2004 EvolDir 11
+in the ﬁeld of the Regulation and Variability of Ani-
+mal Genome Expression (named the RIVAGE project)
+. We will soon welcome several students for Ph.Ds
+and shorter training stages. You will ﬁnd more infor-
+mations at the following internet address: http://mc-
+opportunities.cordis.lu/results.cfm fellowships number:
+63 to 75
+Information on the RIVAGE project will be posted
+at the following address: http://www.jouy.inra.fr/-
+europe/rivage/index.shtml Eligibility conditions are
+explained at http://europa.eu.int/comm/research/-
+fp6/mariecurie-actions/action/level en.html# we are
+a non-international organisation and a mono partner
+EST .
+At present, 5 Ph-D fellowships are open to european
+students :
+Genetic variability and immunity in hens, contact
+pinard@dga2.jouy.inra.fr
+Replication or propagation of TSE infectious agent:
+role of speciﬁc cell types contact vilotte@jouy.inra.fr
+Mechanisms involved in melanoma regression, contact
+VINCENTN@dsvidf.cea.fr
+Genome expression and cell diﬀerentiation, contact vi-
+gnon@jouy.inra.fr
+Role of fatty acids in embryonic development, contact
+Gilles.Charpigny@jouy.inra.fr
+If you are aware of students that could be inter-
+ested, could you please pass on the information to
+them. Please do not hesitate to contact us at ri-
+vage@jouy.inra.fr
+Thanking you very much in advance for your help,
+Yours sincerely,
+On behalf of the RIVAGE committee, Etienne Verrier
+–
+Prof. Etienne VERRIER verrier@inapg.fr UMR Gene-
+tique et Diversite Animales INA Paris-Grignon /
+Depnt. Sciences Animales / GER Genetique Elevage
+et Reproduction INRA / Depnt. Genetique Animale
+16 rue Claude Bernard, 75235 PARIS cedex 05, France
+verrier@inapg.fr
+Leuven FishGenomics
+MARINE GENOMICS EUROPE FP6 Network of Ex-cellence funded by the European Commission
+PhD studentship in bioinformatics and ﬁsh genomics
+A 3 year PhD studentship funded by the FP6
+NoE “Marine Genomics Europe” ( <http://-
+www.sb-roscoﬀ.fr/marine-genomics-europe/MGE-
+PhD-announcement-KULeuven.pdf >http://www.sb-
+roscoﬀ.fr/marine-genomics-europe/MGE-PhD-
+announcement-KULeuven . pdf) is available at
+the Laboratory of Aquatic Ecology of the Katholieke
+Universiteit Leuven starting 1 October 2004. Topic:
+analysis of EST data from seabass and seabream.
+Initial training in bioinformatics and programming
+will be provided at Bielefeld University (Prof. Folker
+Meyer) and advanced training in genomic analysis at
+NERC-British Antarctic Survey (dr. Melody Clark).
+You will have access to the “Marine Genomics Europe”
+ﬁsh EST data and in doing so will work closely with
+CCMAR, Univ. do Algarve, Faro (Prof. Adelino
+Canario). You will learn how to automatically analyse,
+annotate and submit EST data and prepare a database
+to combine the ﬁsh ESTs. Examples of analysis
+include: overall statistics, gene discovery/diversity
+ratios, gene content by tissue, gene functional content,
+comparative analysis of both the seabass and seabream
+ESTs, cluster analysis, polymorphism screening,
+plus comparison to publicly available data in Fugu,
+Zebraﬁsh and Medaka. There will be time to follow
+a related project of his/her own choosing such as
+population SNP frequencies.
+The K.U.Leuven was founded in 1325 and has a
+student enrollment of 28,000. Leuven ( <http://-
+www.leuven.be/ >http://www.leuven.be ) is an histori-
+cal university town with a very high and pleasant stan-
+dard of living.
+Candidates with a M.Sc. or equivalent in either life
+or engineering sciences and some training in bioin-
+formatics, a very strong academic record, an inter-
+est in marine sciences and perfect knowledge of En-
+glish (TOEFL score of at least 580), should send a
+letter of motivation, their CV (including course tran-
+scripts) and three letters of recommendation before 15
+August 2004 to: Prof. Filip Volckaert Katholieke Uni-
+versiteit Leuven Laboratory of Aquatic Ecology, Re-
+search Group on Fish Genetics Ch. de B´ eriotstraat 32
+B-3000 Leuven, BELGIUM Phone: +32 16 32 39 72
+(oﬃce) or +32 16 32 39 66 (secretariat) Fax: +32 16
+32 45 75 <mailto:ﬁlip.volckaert@bio.kuleuven.ac.be >
+Mailto:ﬁlip.volckaert@bio.kuleuven.ac.be
+URL:<http://www.kuleuven.ac.be/bio/eco >http://-
+www.kuleuven.ac.be/bio/eco >12 EvolDir August 1, 2004
+Paris EvoDevo NerveCells
+Paris, EvoDevo Nerve cell
+Ph-D position in Universite Pierre et Marie Curie, Paris
+A three years Ph-D fellowship is available in our team
+“Evolution and Development” (Department Systemat-
+ics, Evolution, Adaptation), University Pierre et Marie
+Curie, Paris, to work on the origin and early evolu-
+tion of nerve cells. The work will aim at isolating
+and characterizing molecules involved in the process
+of neuronal diﬀerentiation in selected species of phyla
+Ctenophora and Cnidaria. Currently we work with
+Pleurobrachia pileus (a ctenophoran), Clytia hemis-
+phaerica and Podocoryne carnea (hydrozoan cnidari-
+ans). Experimental strategies will involve the search
+for homologues of key molecules, known from bilate-
+rian models to act in neuronal diﬀerentiation, by PCR
+search and through the analysis of EST sequences (4000
+EST sequences from P. pileus and 4000 from C. hemis-
+phaerica will be available next fall at the beginning of
+the Ph-D). Candidate molecules will be further charac-
+terized through expression pattern studies and func-
+tional experiments (mRNA injection, RNAi / mor-
+pholino). Together with embryos and adults of the
+model species, gene function will be tested in the con-
+text of in vitro transdiﬀentiation of jellyﬁsh muscle cells
+into neurons. Results will be interpreted in a phyloge-
+netic framework in order to formulate hypotheses on the
+origin and early evolution of nerve cells. Our collabora-
+tions include Evelyn Houliston (Villefranche, France),
+Volker Schmidt (Bale, Switzerland) and Mark Martin-
+dale (Hawai, USA). The Ph-D will start at the begin-
+ning of next October. The salary will be 1 040 &#8364;
+monthly. Candidates should be under 25 years old at
+the end of 2004, and be citizens of the European Union,
+or at least they should have obtained their Master de-
+gree in a country belonging to the European Union
+or one of the following European countries: Andorra,
+Bulgaria, Croatia, Russia, Iceland, Norway,Rumania,
+Switzerland, Turkey, Vatican. Candidates should be
+highly motivated and have a good background in de-
+velopmental biology and genetics, and an experience
+with molecular biology techniques. Competences in
+zoology, phylogeny and genomics will be appreciated.
+To apply send a CV, motivation letter and a letter of
+recommendation to Michael.Manuel@snv.jussieu.fr (or
+by post mail to the address below) before August 25.
+There will be an interview of pre-selected candidates onMonday 6th September in Paris.
+Dr. Michael MANUEL Maitre de Conferences (As-
+sistant Professor) Universite Pierre et Marie Curie
+(Paris 6) Equipe Evolution et Developpement, UMR
+7138 “Systematique, Adaptation, Evolution” Bat. B,
+7eme etage, piece 705 9 quai St Bernard 75 005 Paris,
+FRANCE
+tel. 33 (0) 1 44 27 34 69 33 (0) 6 14 65 48 05 fax 33 (0)
+1 44 27 32 58 e-mail Michael.Manuel@snv.jussieu.fr
+“ ( Michael Manuel 25/04/2001 ) ”
+<mmanuel@snv.jussieu.fr >
+UBern AdaptiveRadiation
+Two PhD positions in Ecology and Genetics of Adap-
+tive Radiation
+Two 3-years PhD projects are available in the research
+group of Ole Seehausen in both the Aquatic Ecology
+section of the Institute of Zoology, University of Bern,
+Switzerland and the Limnological Research Station of
+the EAWAG, Kastanienbaum, Switzerland, to investi-
+gate the interaction between ecological processes and
+geographical events in the speciation and adaptive di-
+versiﬁcation of whiteﬁsh (Coregonidae) in alpine lakes.
+One PhD project would involve building a molecular
+phylogeny for many populations and ecotypes of alpine
+coregonids using AFLPs and mitochondrial DNA se-
+quence variation and collection of morphological and
+ecological data for the same populations. The data
+will be used to reconstruct colonization and hybridiza-
+tion scenarios and test hypotheses for morphological
+and ecological adaptation. Another project will re-
+volve around quantiﬁcation of ecological resource pro-
+ﬁles available for whiteﬁsh populations in diﬀerent lakes
+and experimental quantiﬁcation of diet preference pro-
+ﬁles to generate adaptive landscapes. These will be
+used to predict ecological whiteﬁsh diversity. Morpho-
+logical and ecological diversity and gene ﬂow (molecu-
+lar markers) will be quantiﬁed between ecotypes within
+lakes, and will be compared with predictions derived
+from the environment.
+We are looking for enthusiastic, dedicated students
+with a master’s degree or equivalent (e.g. Diplom) in
+Biology and background in evolutionary and ecological
+theory and/or population genetics. The phylogeny
+project will involve a large amount of work in the
+laboratory, extracting DNA, PCR, fragment separationAugust 1, 2004 EvolDir 13
+and sequencing on automated sequencers, genetic data
+analysis and phylogenetic methods. The project will
+also involve morphometric data collection and analysis
+and some ﬁeldwork for collection of samples. Some
+experience in the molecular lab and/or with genetic
+data analysis will be advantagous. The population
+project will involve work in the molecular lab too,
+but will also have a large component of ﬁeld work
+in Swiss lakes, morphometrics, and a component of
+experimental work with life ﬁsh in aquaria. Expe-
+rience with quantitative aquatic ﬁeld work, and/or
+morphometric or population genetic data analysis will
+be advantageous, as will be experience with handling
+and maintaining life ﬁsh. A clean driving licence will
+be required, and a diving licence might be helpful.
+Both students must be able to work independently,
+as well as in small teams. They will interact with
+the large community of population biologists, ecol-
+ogists and geneticists at the Institute of Zoology
+(<http://www.zoology.unibe.ch/index.php >http://-
+www.zoology.unibe.ch/index.php ) and the population
+and system ecologists at the Limnological Re-
+search Station ( <http://www.eawag.ch/research e/-
+kastanienbaum/e index.html >http://www.eawag.ch/-
+research e/kastanienbaum/e index.html ). Besides
+research, PhD students are expected to contribute to
+undergraduate teaching and supervision (teaching load
+not exceeding 10 percent of working time). Salaries
+will be according to Swiss National Science Foundation
+(SNF) salary schemes.
+Conceptual background: The theory of speciation has
+often been polarized between the views that speciation
+is driven by external (geographical) events that isolate
+populations, or by environmental pressures and eco-
+logical processes within populations. The geographi-
+cal hypothesis came to the forefront during the modern
+synthesis and dominated speciation theory for several
+decades. The ecological hypothesis, which originated
+in the early days of evolutionary theory, has seen a re-
+vival in the last decade. The mechanisms associated
+with these alternative ideas have often been studied
+in isolation, except in the framework of reinforcement.
+A diﬀerent and possibly more general form of interac-
+tion between ecological processes and external events
+is now in discussion: that the merging of lineages after
+periods of independent evolution (hybridization) gen-
+erates populations with genetic properties that allow
+adaptive sympatric diversiﬁcation in response to eco-
+logical pressures, and that are unlikely to arise in con-
+tinuously panmictic populations. Although speciation
+would be sympatric, driven by ecology, transient geo-
+graphical isolation would generate the genetic variation
+that makes adaptive evolutionary responses possible.Our research group been investigating the adaptive ra-
+diations of African cichlid ﬁsh, e.g. the roles of ecology,
+historical contingency and hybridization in speciation.
+Alpine radiations of salmoniform ﬁsh are
+/
+This message has been arbitrarily truncated at 5000 characters.
+To read the entire message look it up at http://life.biology.-
+mcmaster.ca/˜brian/evoldir.html
+UEastAnglia MHC
+Gastrointestinal parasites, MHC genes and ﬁtness in a
+wild avian population
+Within vertebrates, the major histocompatibility com-
+plex (MHC) genes within an individual determine how
+well it copes with the array of parasites it encoun-
+ters in its environment. An individuals’ ﬁtness (sur-
+vival and reproductive success) will therefore, at least
+in part, depend upon the MHC genes it contains. Gas-
+trointestinal parasites (GI) occur worldwide and can
+be extremely detrimental to the ﬁtness of individuals.
+Few studies have assessed the impact of GI parasites
+from an evolutionary perspective, and even fewer have
+taken into account the aﬀect of the MHC. None have
+done so using birds. This project will investigate the
+aﬀect of GI parasites and their interaction with the
+MHC in the simple and isolated system provided by the
+Cousin Island population of Seychelles warbler (Acro-
+cephalus sechellensis). PCR-based molecular protocols
+will be used to screen MHC, while microscopic inves-
+tigation of eggs within faecal samples will provide a
+non-invasive method for determining the intensity of
+GI parasites within individuals. Fieldwork to continue
+the population monitoring and the collection of samples
+and ﬁtness data will be done in conjunction with the
+Seychelles warbler research project team. The results
+will contribute towards determining the importance of
+MHC variation and parasite-mediated selection in wild
+animal populations.
+Dr David S. Richardson and Prof. Jan Komdeur:
+Jointly funded by UEA and JK (University of Gronin-
+gen, Holland) for three years starting January 2005.
+Further details
+We are looking for an enthusiastic, dedicated and re-
+silient student with an interest in evolutionary and
+molecular ecology. The student will spend a large part14 EvolDir August 1, 2004
+of their time in the laboratory, isolating parasite eggs
+from faeces, extracting DNA and using basic molec-
+ular techniques such as PCR and DGGE. Therefore,
+although not essential, molecular lab experience will be
+an advantage, as will good organisational skills. Field-
+work will be for 2-3 months per year and, as the ﬁeld
+site is small and isolated, the student must be able to
+work well independently, or within a small group. The
+studentship will be based at UEA with D. S. Richard-
+son, but will visit Groningen each year.
+This PhD is being re-advertised as the start date has
+now been delayed until January 2005. Previous appli-
+cants do not need to re-apply. This position is open to
+all EU citizens. Although there is no oﬃcial deadline
+please apply ASAP. We expect to interview candidates
+in early September
+Please send the completed UEA application form, two
+references (completed reference forms) ASAP. Both
+forms and application details are available at http://-
+www.uea.ac.uk/bio/studentships/welcome.html When
+complete, please sign, date and return the form with all
+the necessary documentation to:
+Graduate Studies Oﬃce +44 (0)1603 593002
+Science Group Fax +44 (0)1603 593045
+University of East Anglia Email scipg@uea.ac.uk
+Norwich NR4 7TJ UK Web site 0000,0000,FF00 http:/-
+/www.uea.ac.uk For informal enquiries contact
+Dr. David S. Richardson
+Telephone 01603 591496
+email david.richardson@uea.ac.uk
+FAX 01603 592250
+Dr. David S. Richardson School of Biological Sciences,
+University of East Anglia, Norwich NR4 7TJ England
+Telephone 01603 591496 email
+david.richardson@uea.ac.uk FAX 01603 592250
+UEdinburgh GenomeAnalysis
+Dear Everyone
+The MSc Quantitative Genetics and Genome Analysis
+course ( www.QGen.co.uk ) at the University of Edin-
+burgh has been awarded 3 BBSRC and 6 NERC stu-
+dentships from September to students from the UK.
+This year there has been a high number of non-UK stu-dents applying to attend the MSc course and for some
+reason a low number of UK applicants.
+As a result, there are three NERC studentships cur-
+rently unallocated and I would appreciate if you could
+direct any students, whose interests lay in the relevant
+subject area, towards the MSc course.
+Many thanks Neil Cameron
+———————————————————–
+Neil Cameron Institute of Cell, Animal and Population
+Biology University of Edinburgh King’s Buildings,
+West Mains Road, Edinburgh EH9 3JT Direct line
++44 131 650 5490 FAX +44 131 650 6564 E-mail
+n.cameron@ed.ac.uk Web www.QGen.co.uk
+———————————————————–
+UNewSouthWales
+ConservationBiology
+2 x Ph. D. positions (ARC Australian Postgraduate
+Awards-Industry)
+Conserving our Carnivores: the application of molecu-
+lar genetics to the conservation management of quolls
+The University of New South Wales, in conjunction
+with its research partners (NSW Department of Envi-
+ronment and Conservation, Vic Department of Sustain-
+ability and Environment, WA Department of Conser-
+vation and Land Management, NT Department of In-
+frastructure, Planning and Environment, Environment
+ACT, TAS Department of Primary Industries, Wa-
+ter and Environment, and the Zoological Parks Board
+of New South Wales) is seeking two PhD students
+in molecular ecology, population genetics and forensic
+identiﬁcation of quolls.
+Quolls, the largest native marsupial predators on main-
+land Australia, occupy a pivotal ecological niche. All
+species are declining and are threatened by a variety
+of interacting environmental processes. This program
+brings together seven wildlife agencies in a nationwide
+partnership for understanding and protecting quolls.
+We will provide new genetic data to test current pop-
+ulation and conservation theories using four species of
+quolls as model taxa to inform us about past histories of
+populations and to measure parameters of importance
+to on-ground managers. Results of these projects will
+help guide management practices for both short- and
+long-term conservation of these species.August 1, 2004 EvolDir 15
+Both scholarships oﬀer an annual tax-free stipend of
+$23,294, relocation and thesis production expenses, and
+ample ﬁeld work in spectacular but remote and rugged
+regions. These positions are available from July 2004.
+Applicants must be permanent residents in Australia
+or Australian/NZ citizens and should hold a ﬁrst class
+honours degree, or equivalent qualiﬁcation in a disci-
+pline such as molecular ecology, conservation genetics,
+ecology or a related ﬁeld. Interested applicants should
+submitted a cover letter with a detailed CV (including
+two referees) to Dr Karen Firestone, Zoological Parks
+Board of New South Wales, PO Box 20, Mosman, NSW
+2088. Applications will be accepted until the positions
+are ﬁlled. Further details and enquiries should be di-
+rected to kﬁrestone@zoo.nsw.gov.au or phone (02) 9978
+4608.
+Dr. Karen Firestone
+Conservation Biologist Adjunct Lecturer Zoological
+Parks Board of NSW Biological Earth & Environmen-
+tal Sciences PO Box 20 University of NSW Mosman,
+NSW 2088 Sydney, NSW 2052 Australia Australia
+ph: +61 2 9978 4608 ph: +61 2 9385 2198 fax:
++61 2 9978 4613 fax: +61 2 9385 1558 email: kﬁre-
+stone@zoo.nsw.gov.au email: kﬁrestone@unsw.edu.au
+“Firestone, Karen” <KFirestone@zoo.nsw.gov.au >
+UPotsdam EvolBiol
+PhD grant for 30 months (prolongation possible)
+A PhD grant for 30 months (prolongation possible) is
+immediately available in the newly established gradu-
+ate school “Earth Surface Processes”:
+“Recent and fossil DNA as indicators of past environ-
+mental change”
+In this project, the distribution of limnic organisms will
+be assessed in lake sediments of diﬀerente age (recent to
+several 10,000 years old), making use of modern molec-
+ular genetic techniques. The project objective is to re-
+veal the impact of climatic change on limnic organisms.
+This is a joint project of the Institute of Biochemistry
+and Biology and the Institute of Geosciences at the Uni-
+versity of Potsdam.
+Applicants must hold a university degree (Diplom oder
+Master of Science, preferably in biology or biochem-
+istry). They should appreciate interdisciplinary re-
+search. Familiarity with modern molecular genetictechniques (PCR etc.) is desired.
+The University of Potsdam is an equal opportunity em-
+ployer. If equally qualiﬁed, disabled applicants will be
+preferably considered. The University of Potsdam aims
+at increasing the number of female researchers and en-
+courages qualiﬁed females to apply.
+Please send your application before 31st of July 2004
+to: Prof. Dr. Ralph Tiedemann, University of Pots-
+dam, Institute of Biochemistry and Biology, Evolution-
+ary Biology/Systematic Zoology, Karl-Liebknecht-Str.
+24-25, Haus 26, D-14476 Potsdam, Germany, Email:
+tiedeman@rz.uni-potsdam.de
+Prof. Dr. Ralph Tiedemann Universitaet Pots-
+dam Institut fuer Biochemie und Biologie Evolutions-
+biologie/Spezielle Zoologie Karl-Liebknecht-Str. 24-
+25, Haus 25 D-14476 Potsdam Germany Tel: +49-
+331-977-5249, -5253 (Sekretariat) Fax: +49-331-
+977-5070 Email tiedeman@rz.uni-potsdam.de http://-
+www.bio.uni-potsdam.de/spezzoo/index.htm
+USussex NeuralGeneEvol
+The University of Sussex has a BBSRC funded PhD
+position open for this coming year on the “Evolution
+of Neural Genes”. The content of the project is
+ﬂexible but topics which might be considered are
+adaptive evolution of neural genes, and the evolu-
+tion of neural gene speciﬁc anti-sense RNA genes.
+The PhD will be supervised by Adam Eyre-Walker
+(http://www.lifesci.sussex.ac.uk/CSE/members/-
+aeyrewalker/ aeyrewalker.htm) and Michael O’Shea
+(http://www.sussex.ac.uk/biology/proﬁle2007.html ).
+It is funded by the BBSRC so UK citizens receive
+fees and a stipend (EU citizens only get their fees
+paid). Please send a CV to Adam Eyre-Walker
+(a.c.eyre-walker@sussex.ac.uk) with a list of three
+referees. Applications must be received by the end of
+end of July.
+Adam Eyre-Walker Centre for the Study of Evolution
+& School of Biological Sciences University of Sussex
+Brighton BN1 9QG
+tel : 01273 67848016 EvolDir August 1, 2004
+UWalesBangor
+ConservationGenetics
+UWales Bangor: Conservation genetics/forensics stu-
+dentship
+Title: The development and application of genetic
+markers for wildlife forensics.
+University of Wales Bangor, School of Biological Sci-
+ences. PhD Studentship available to eligible EU per-
+sons with an intended start date of 4 Oct 2004.
+The supervisor Prof. R.S. Thorpe and the small busi-
+ness sponsor is Wildlife DNA Services Limited.Project outline: This project aims to explore the ap-
+plication of population genetic markers to the problem
+of individual identiﬁcation in wildlife crime. The work
+will focus on investigating the ability of species-speciﬁc
+markers to discriminate between closely related indi-
+viduals, and determining the minimum size of reference
+population necessary to present DNA proﬁles as foren-
+sic evidence. Some work will be carried out on birds of
+prey but the remit is broader.
+For application forms contact Stu-
+dentship.enquiries@sbs.bangor.ac.uk it is in-
+tended to lodge further information on http://-
+biology.bangor.ac.uk/research/opportunities/ –
+Professor R S Thorpe School of Biological Sciences
+University of Wales Bangor Gwynedd LL57 2UW
+Tel 01248 382312 Fax 01248 371644 email
+r.s.thorpe@bangor.ac.uk
+“Prof. R S Thorpe” <r.s.thorpe@bangor.ac.uk >
+Jobs
+ETHZurich HostParasite . . . . . . . . . . . . . . . . . . . . . . . . . . 37
+LeidenU Phycologist . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+LincolnU Entomology . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+MelbourneU GeneticsLecturer . . . . . . . . . . . . . . . . . . . . . 17
+NSF Director . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+PurdueU LabManager . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+Seattle FishGenetics . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19
+UAlaska Fairbanks MammalianEcol . . . . . . . . . . . . . . . 19
+UAngers EvolBiology . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20
+UBritishColumbia MicrobialGenomics . . . . . . . . . . . . . 20UFribourg EcolEvol . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21
+UHawaii Tech . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21
+UHawaiiHilo TempAssistProf . . . . . . . . . . . . . . . . . . . . . . 22
+UHouston EvolBiol . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 22
+ULausanne ResTech . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 23
+UMontreal programmer . . . . . . . . . . . . . . . . . . . . . . . . . . . 23
+UMuenster PlantEvolEcol 2 . . . . . . . . . . . . . . . . . . . . . . . 23
+UNebraska Fisheries . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 24
+URochester ResearchTech . . . . . . . . . . . . . . . . . . . . . . . . . 24
+ETHZurich HostParasite
+ASSISTANT POSITION Evolutionary ecology of host-
+parasite interactions
+ETH Zurich
+We seek to ﬁll the position of an Assistant (senior re-searcher) in the group of Ecology & Evolution (Exper-
+imental Ecology, P. Schmid-Hempel). The ideal can-
+didate works in the ﬁeld of evolutionary ecology of
+host-parasite interactions, which can also include the
+study of immune defences. Interest in using insects as
+a model system and experience in molecular techniques
+is advantageous. We expect willingness to collaborate
+with other people in the group and to contribute to its
+teaching commitments. Salary according to qualiﬁca-
+tion and local scale; starting date negotiable. PositionsAugust 1, 2004 EvolDir 17
+are typically held for 2 - 6 years. More information on
+www.eco.ethz.ch and by email (psh@env.ethz.ch - after
+15 Aug). Review of applications with CV, publication
+list and addresses of referees starts 25 Sept 2004.
+Prof. Paul Schmid-Hempel ETH Zurich, Ecol-
+ogy & Evolution ETH-Zentrum NW CH-8092 Zurich
+Ph: +41 1 633 6033 or 6048 Fax: +41 1 632
+1271 psh@env.ethz.ch www.eco.ethz.ch Paul Schmid-
+Hempel <psh@env.ethz.ch >
+LeidenU Phycologist
+SYSTEMATIC PHYCOLOGIST (tenure track) Va-
+cancy number: 4-169
+The candidate should have a PhD degree and sub-
+sequent experience in the taxonomy and molecular
+systematics of algae, an excellent publication record,
+and knowledge of herbarium curation. The candidate
+should also have experience in integrating molecular
+data into traditional systematics. The establishment
+of an active research program and pursuit of external
+funding is part of the job requirements. A strong com-
+mitment to the teaching of undergraduate and graduate
+students is mandatory. Supervision of the molecular
+research of PhD and MSc students working on higher
+plants and macrofungi will also belong to the tasks of
+the successful candidate. The ability to speak Dutch or
+the willingness to learn Dutch is required.
+Salary in the ﬁrst two years ranging from EURO 2179,-
+/ 3344,- per month depending on experience. The
+tenure track formula implies that following a proba-
+tionary period of two years, a further three year con-
+tract with adapted salary scale will lead to tenure if all
+task elements of the job descriptions are successfully
+fulﬁlled.
+Please send your application, stating research interests
+and speciﬁc research goals/targets (the research goals
+should ﬁt into the general mission statement and re-
+search programme of the NHN and PCNE (see our
+website at www.nationaalherbarium.nl ), a CV and the
+names of 3 references to: Prof. dr. P. Baas, Einstein-
+weg 2, room A216, 2333 CC Leiden The Netherlands
+or mailto:BAAS@NHN.leidenuniv.nl
+publicatiedatum WEB: 26-7-2004 closing date: 1
+September 2004
+–Joe Zuccarello <zuccarello@nhn.leidenuniv.nl >
+LincolnU Entomology
+Lecturer in Entomology Bio-Protection and Ecology
+Division Lincoln University, New Zealand Vacancy
+04/59
+Due to a recent retirement, we are seeking a Lecturer in
+Entomology. The successful candidate will have ento-
+mological skills and experience in one or more of the fol-
+lowing areas: biodiversity, evolutionary biology, biosys-
+tematics, biosecurity, molecular biology. The appointee
+will teach ﬁrst year biology and advanced entomology
+classes, make a contribution to Masters level subjects,
+as well as supervise the research of postgraduate stu-
+dents.
+Research activity is an important part of academic per-
+formance, and the appointee will be encouraged to pub-
+lish widely and actively seek external research funding.
+To support this outcome, the appointee will be closely
+associated with the Entomological Research Museum
+and the National Centre for Advanced Bio-Protection
+Technologies.
+For an Information Pack please visit our website
+www.lincoln.ac.nz/jobs , or contact the Human Re-
+sources Section, phone +64 3 325-3613, fax +64 3 325-
+3870, email trottc@lincoln.ac.nz Please quote the cor-
+rect vacancy number on your application.
+Adrian Paterson
+Patersoa@lincoln.ac.nz
+MelbourneU GeneticsLecturer
+LECTURER POSITION - The Department of Genet-
+ics at the University of Melbourne seeks a Lecturer who
+will conduct research in the area of Genetics and will be
+expected to teach in the areas of evolutionary and pop-
+ulation genetics, genomics and bioinformatics. The po-
+sition will be expected to conduct research which leads
+to publication in quality international journals and will
+contribute to teaching and course design at undergrad-
+uate and postgraduate levels including supervision of
+B.Sc(Hons) and postgraduate students. For more in-18 EvolDir August 1, 2004
+formation contact Assoc. Prof. James Camakaris or
+Assoc. Prof Chris Cobbett, tel: + 61 3 8344 6246,
+email genetics-info@unimelb.edu.au or for a position
+description and details on how to apply please go to:
+http://www.hr.unimelb.edu.au/jobs/ Many thanks
+–
+Veronique Bergeron Manager Department of Genet-
+ics The University of Melbourne Ph: +61 (0)3
+8344 6250 Fax: +61 (0)3 8344 5139 Email: berg-
+eron@unimelb.edu.au
+Veronique Bergeron <bergeron@unimelb.edu.au >
+NSF Director
+Directorate for Biological Sciences Oﬃce of the Assis-
+tant Director
+June 28, 2004
+Dear Colleague:
+The Directorate for Biological Sciences (BIO) an-
+nounces a nationwide search to ﬁll the position of
+Deputy Director, Division of Environmental Biology
+(DEB).
+The Deputy Division Director works closely with the
+Division Director in overseeing and carrying out the
+day-to-day operations and management of the Division.
+They work together as a team providing strong advo-
+cacy for program activities within the context of BIO
+long range plans and NSF’s strategic plan and manag-
+ing resources eﬀectively to nurture new and emerging
+science opportunities as well as ongoing eﬀorts. In the
+absence of the Division Director, the Deputy must be
+prepared to assume this role.
+The Division of Environmental Biology (DEB) is re-
+sponsible for programs with a total annual budget of
+approximately $108 million. These programs are cur-
+rently identiﬁed by four clusters- ecosystem science
+which supports investigations of whole-system ecologi-
+cal processes and relationships in ecosystems across a
+diversity of spatial and temporal scales; ecological biol-
+ogy which supports studies of community ecology and
+population interactions that reveal causal mechanisms
+and patterns for a wide range of habitats and taxa;
+population and evolutionary processes which supports
+studies of population properties that lead to variation
+within and among populations; and systematic biology
+and biodiversity inventories which supports general sci-ence of systematics, including the inventory of global
+species diversity and studies of predictive classiﬁcation
+systems that reﬂect the history of life.
+Deputy Division Directors in the BIO Directorate come
+to their positions with an established record of scien-
+tiﬁc research and demonstrated leadership experience.
+Deputy Division Directors must work well with people,
+be eﬀective communicators and act as mentors to con-
+tinuously develop the diversity of talents and skills of
+their colleagues, especially those representing underrep-
+resented minority groups and persons with disabilities.
+This position is a career appointment in the Federal
+Senior Executive Service. You may access the position
+announcement that includes information on application
+procedures at
+http://www.nsf.gov/pubs/2004/s20040091/-
+s20040091ac.pdf General inquires should be directed
+to:
+Dr. Michael R. Willig Division of Environmental Biol-
+ogy Tel: (703) 292-8480 Fax: (703) 292-9064 E-Mail:
+mwillig@nsf.gov
+Applications may be transmitted electronically to ex-
+ecsrch@nsf.gov or mailed to :
+National Science Foundation Executive Personnel and
+Development Branch Division of Human Resource
+Management 4201 Wilson Boulevard, Room 315 Ar-
+lington, VA 22230
+The Executive Personnel and Development Branch may
+be reached by telephone at (703) 292-8755.
+I look forward to any help you may be able to oﬀer
+in this search for outstanding candidates and encour-
+age you to consider your interest in this position. The
+deadline for receipt of applications is July 23, 2004.
+Sincerely,
+Mary E. Clutter Assistant Director mcourtne@nsf.gov
+PurdueU LabManager
+A Lab Manager is needed to help run a large genetics
+lab at Purdue University. This is a multi-investigator
+lab-not a core facility-that serves four Principal Inves-
+tigators (PIs) and their associated staﬀ. The incum-
+bent will: maintain supplies and equipment; train stu-
+dents and staﬀ in laboratory procedures and equipment
+operation; develop and improve laboratory protocols;August 1, 2004 EvolDir 19
+maintain laboratory equipment and ensure compliance
+with radiation and other safety requirements; submit
+compliance paperwork as required; and provide regular
+brieﬁngs to PIs.
+The position requires a degree in Biology, Botany, Zo-
+ology, Genetics or a closed related ﬁeld. One year ex-
+perience in molecular biology and the previous super-
+vision of technical personnel is required, as is ﬂuency
+in spoken and written English. Experience with mi-
+croarrays and automated DNA sequencers desired. In-
+terested parties should contact J. Andrew DeWoody
+(dewoody@purdue.edu), Dept. of Forestry & Natural
+Resources, 1159 Forestry Building, Purdue University,
+West Lafayette IN 47907-1159. Women and minorities
+are encouraged to apply. Purdue University is an equal
+opportunity employer.
+Seattle FishGenetics
+The Genetics and Evolution Program at the North-
+west Fisheries Science Center, Seattle, is looking for
+a highly motivated recent graduate (undergraduate or
+masters) for an internship in ﬁshery genetics. The suc-
+cessfully applicant will work in our genetics laboratory
+on a project using genetic techniques to estimate ﬁsh
+abundance. The one year position is funded through
+the Oak Ridge Institute for Science and Education
+(ORISE – http://www.orau.gov/orise.htm ), and pays
+approximately $40,000. We are looking for someone
+with molecular genetics experience who is interested in
+applying molecular methods to problems in natural re-
+source management. If interested, please send a CV
+and brief (1/2 page or less) letter of interest to Michael
+Ford (mike.ford@noaa.gov). Position is limited to US
+citizens. We are looking for some to start as soon as
+possible, and the position will remain open until ﬁlled.
+Seehttp://www.nwfsc.noaa.gov/ for more information
+about the Northwest Fisheries Science Center.
+mike.ford@noaa.gov mike.ford@noaa.gov
+UAlaska Fairbanks MammalianEcol
+The Department of Biology and Wildlife and the In-
+stitute of Arctic Biology at the University of AlaskaFairbanks seeks applications for a tenure-track posi-
+tion in Wildlife Ecology at any level. Applicants must
+have earned a Ph.D. in Wildlife Ecology or a closely re-
+lated discipline. Postdoctoral and teaching experience,
+a strong record of extramural funding, the ability to
+supervise graduate students, to collaborate with fellow
+faculty, and to interact with state and federal resource
+management agencies are preferred.
+We seek a broadly trained mammalian ecologist to con-
+duct quantitative research that addresses basic and
+applied questions relevant to sustainability, harvested
+species, or predator-prey systems that have applicabil-
+ity at the state, national, and international levels. This
+position is 50% research and requires a teaching load
+of two courses per year, to include an undergraduate
+wildlife course and development and collaboration on
+graduate oﬀerings. Numerous ﬁeld stations and labo-
+ratory facilities are available at IAB to conduct research
+on captive and wild animals, including the R.G. White
+Large Animal Research Station, Animal Quarters, Too-
+lik Field Station, Bonanza Creek LTER site, Spatial
+Ecology Laboratory, Alaska Center for Environmental
+Statistics, Alaska Geobotany Center, and the DNA Se-
+quencing Core Facility. Extensive collections are avail-
+able for study at the Univ. of Alaska Museum. The
+successful candidate will have the opportunity to inter-
+act and collaborate with 30 faculty studying a diverse
+array of topics. The Biology and Wildlife department
+has approximately 300 undergraduate and 110 graduate
+students, including 40 Ph.D. students. Applicants are
+encouraged to consult the Institute/departmental web-
+site, and faculty proﬁles at http://mercury.bio.uaf.edu
+before applying.
+Applications will be reviewed starting 17 Septem-
+ber 2004. Please provide an applicant form
+(http://www.alaska.edu/hr/forms/PDF ent/-
+applicant form ent.pdf ), cover letter, curriculum
+vitae, statement of research interests, statement of
+teaching interests, letters from 3 references and submit
+to: Eric Rexstad, C/O UAF Human Resources, P.O.
+Box 757860, Fairbanks, Alaska 99775-7860, Phone
+(907) 474-7700, Fax (907) 474-5859. Please reference:
+PCN#20245, REQ# FF20424501 . If you have speciﬁc
+questions about this announcement, please contact
+Eric Rexstad, (907) 474-7159, e.rexstad@uaf.edu.
+The University of Alaska Fairbanks is an Equal Oppor-
+tunity/Aﬃrmative Action Employer and Educational
+Institution. Women, protected, and minority appli-
+cants are encouraged to apply.
+Link Olson <Link.Olson@uaf.edu >20 EvolDir August 1, 2004
+UAngers EvolBiology
+Position in Evolutionary biology at University of
+Angers (France)
+Un poste de maˆ ıtre de conf´ erence en biologie animale
+´ evolutive est susceptible dˆ etre ouvert ` a luniver-
+sit´ e dAngers (section 68 CNU). La date de prise
+en fonction serait le 01/02/05 ou le 01/09/05. Il
+concerne des candidats ayant r´ ealis´ e un stage post-
+doctoral, justiﬁant dune exp´ erience en ´ ecologie et
+maˆ ıtrisant les techniques de g´ en´ etique des populations.
+Le candidat devra ´ egalement ˆ etre inscrit sur les
+listes daptitude au poste de maˆ ıtre de conf´ erence.
+(http://www.education.gouv.fr/personnel/-
+enseignant superieur/enseignant chercheur/-
+antares.htm )
+Enseignement: lenseignant-chercheur devra participer
+` a la formation des ´ etudiants en biologie animale et
+´ ecologie et plus particuli` erement dans les domaines de
+l´ ecologie des zones humides, de la syst´ ematique et de la
+biologie des populations. Une bonne connaissance du
+fonctionnement des zones humides et lutilisation des
+outils de g´ en´ etique ´ ecologique serait appr´ eci´ ee
+Recherche : le travail de recherche concerne les
+probl´ ematiques de dispersion et de distribution des
+vert´ ebr´ es d´ evelopp´ ees dans lUMR Paysages et Biodi-
+versit´ e. Ce poste sinscrit dans une perspective de spa-
+tialisation des donn´ ees g´ en´ etiques dans les structures
+de paysage. Le chercheur devra travailler notamment
+` a l´ etude de la diversit´ e g´ en´ etique et des ﬂux de g` enes
+` a diﬀ´ erentes ´ echelles (des individus aux esp` eces). Des
+applications ` a l´ ecologie ´ evolutive, la biologie de la con-
+servation ou l´ ecologie comportementale sont possibles.
+Une exp´ erience de la mod´ elisation constituerait un
+plus appr´ eci´ e. Pour des informations compl´ ementaires,
+veuillez contacter(voir ci-dessous)
+A permanent position in evolutionary biology is
+expected to start at the university of Angers (France)
+on February 1st 2005 or September 1st 2005. This
+position (maitre de conferences) includes 192 h teach-
+ing per year. The candidate should be recorded on
+the liste daptitude au poste de maitre de confer-
+ences section CNU 68. Teaching is to be done in
+French. ( http://www.education.gouv.fr/personnel/-
+enseignant superieur/enseignant chercheur/-
+antares.htm )Teaching: the applicant will teach animal biology and
+ecology, with a special focus on wetland ecology, sys-
+tematics, and population biology. Good knowledge on
+wetland ecology and population genetics would be much
+appreciated.
+Research: the applicant should have a post-doctoral
+experience in ecology and justify skills in population
+genetics. Research will focus on vertebrate dispersion
+and distribution and is to be integrated in the themes of
+the research unit Landscapes and Biodiversity. The re-
+searcher will focus on the study of genetic diversity and
+gene ﬂow at diﬀerent scales (from individuals to species)
+with the main objective to analyze genetic data in rela-
+tion with lanscape structure (landscape genetics). Ap-
+plications to evolutionary ecology, conservation biology
+or behavioral ecology are possible. Experience in mod-
+elisation would be welcome. For further information,
+please contact:
+Professeur Thierry Lod´ e Laboratoire d´ ecologie UMR
+Paysages et Biodiversit´ e Universit´ e dAngers
+thierry.lode@univ-angers.fr Phone: 33.2.41.73.53.53.
+Fax: 33.2.41.73.53.52. http://sciences.univ-angers.fr/-
+ecologie Laboratory of Animal Ecology UMR Land-
+scape and Biodiversity University of Angers Facult´ e
+des Sciences Campus de Belle-Beille 2 bvd Lavoisier
+F-49045 Angers France +33/ 2 41 73 50 30
+http://sciences.univ-angers.fr/ecologie/ Jean Secondi
+<jean.secondi@univ-angers.fr >
+UBritishColumbia
+MicrobialGenomics
+Below I’ve pasted a job ad from the Department of Mi-
+crobiology and Immunology at the University of British
+Columbia.
+I’m not sure exactly what prokaryotic envirogenomics
+is, but I’m sure it overlaps with evolution. Several of us
+in the Dept. of Zoology are working on microbial evolu-
+tion and ecology (myself, Sally Otto, and Michael Doe-
+beli), and we’d love to have another colleague nearby.
+Don’t let the priority given to Canadians put you oﬀ
+- UBC hires on scientiﬁc merit. And you couldn’t ask
+for a better place to live than Vancouver.
+Rosie Redﬁeld
+THE UNIVERSITY OF BRITISH COLUMBIAAugust 1, 2004 EvolDir 21
+The Department of Microbiology and Immunology,
+University of British Columbia, has two tenure track
+positions available for investigators whose research in-
+terests lie within one of the following two broad areas:
+1) prokaryotic gene regulation, envirogenomics of envi-
+ronmentally relevant organisms or communities, ecol-
+ogy, 2) cellular microbiology, innate immunity. At
+least one of the selected candidates would be eligible
+for a Canadian Research Chair, a prestigious funding
+program that was created to attract and retain out-
+standing young scientists. Although we anticipate hir-
+ing at the Assistant Professor level, appointment at a
+more senior level is possible for suitably qualiﬁed appli-
+cants. The Department of Microbiology and Immunol-
+ogy has a strong research record and a thriving grad-
+uate program. The nominated candidates will beneﬁt
+from shared departmental equipment and modern lab-
+oratory facilities within a newly erected Life Sciences
+Building that will be home to more than 100 multi-
+disciplinary research teams. The University of British
+Columbia hires on the basis of merit and is commit-
+ted to employment equity. All qualiﬁed applicants are
+encouraged to apply; however, Canadian citizens and
+permanent residents will be given priority (applicants
+should identify citizenship and/or immigration status).
+Interested individuals should send their CV, summary
+of proposed research activity over the next ﬁve years,
+and the names of three referees to Nancy Kan, Secre-
+tary to the Head, Department of Microbiology and Im-
+munology, 300 - 6174 University Boulevard, Vancouver,
+BC, V6T 1Z3, Canada. Electronic (PDF) submissions
+can also be sent to nancyk@interchange.ubc.ca. The
+deadline for applications is August 15, 2004. is August
+15, 2004.
+UFribourg EcolEvol
+The Faculty of Science of the University of Fribourg
+(Switzerland) invites applications for a position of
+FULL PROFESSOR IN ECOLOGY AND EVOLU-
+TION
+in the Unit of Ecology and Evolution of the Department
+of Biology, starting as soon as possible.
+The successful candidate will conduct his/her own
+research, attract external funding, contribute to the
+teaching programme for students in Biology and En-
+vironmental Sciences and take turns in directing the
+Department. Teaching is in French or German, andthe candidates should be willing to acquire a working
+knowledge of the other language.
+Candidates are requested to send before September 30,
+2004 a curriculum vitae (including a list of publications
+and a record of both funding and teaching experience)
+and a one page description of his/her research projects
+to Prof. Marco Celio, Dean, Faculty of Sciences, Uni-
+versity of Fribourg, Mus´ ee 6a, CH-1700 Fribourg.
+Further information under www.unifr.ch/biol or by
+Jean-Pierre.Metraux@unifr.ch, head of the Depart-
+ment. Jean-Pierre.Metraux@unifr.ch, head of the De-
+partment.
+UHawaii Tech
+http://workatuh.hawaii.edu/zoom job.php?2996 Re-
+search Support PBB, Coral Molecular Biology Research
+Technician, position number 0077572T, UHM Hawaii
+Institute of Marine Biology, (Coconut Island, Kaneohe
+Bay), temporary, NTE Jun-30-2005, renewal subject to
+funding availability, satisfactory performance and pro-
+gram needs Duties: Coordinate and facilitate research
+activities in Dr. Gates’s laboratory; set up microcosms
+for experimental manipulations, collect samples, isolate
+tissues by dissection; perform and troubleshoot molec-
+ular biology tasks including the extraction and quan-
+tiﬁcation of nucleic acids, PCR, 3 and 5’ RACE, cDNA
+library construction, cloning and sequencing; develop,
+hybridize and scan microarrays; analyze DNA sequence
+and microarray data using a variety of software pack-
+ages; perform routine microscopy; implement appro-
+priate university, state, and federal ﬁscal and safety
+policies; perform other duties as assigned. Minimum
+qualiﬁcations: Completion of a pertinent baccalaure-
+ate educational degree and relevant professional experi-
+ence; competency in technical knowledge, critical think-
+ing skills, communication skills and interpersonal skills;
+demonstrated hands-on experience in a biological lab-
+oratory setting; working knowledge of the principles,
+practices and techniques of cell and molecular biology;
+demonstrated ability to operate and maintain personal
+computers, and working knowledge of the software nec-
+essary to complete analyses of the data generated in
+the laboratory; demonstrated ability to supervise sub-
+ordinates, manage work priorities and projects, and
+manage employee relations; alternatively, any equiva-
+lent combination of education and/or professional work
+experience that provides the required education, knowl-
+edge, skills and abilities as indicated. Desirable quali-22 EvolDir August 1, 2004
+ﬁcations: Practical experience with cell and molecular
+techniques including nucleic acid extraction, plasmid
+puriﬁcation and restriction digests, protein and nucleic
+acid analysis, molecular cloning, and sequencing; ex-
+perienced diver and boat operator; knowledge of form
+and style of research analyses and writing. Pay range:
+minimum $3056/month To apply: Submit cover letter
+indicating how you satisfy the minimum and desirable
+qualiﬁcations, oﬃcial transcripts, 3 letters of recom-
+mendation, UH Form 64 Application address: P.O. Box
+1346, Kaneohe, HI 96744 Inquiries: Dr. Ruth D. Gates
+808-236-7420 rgates@hawaii.edu Date posted: Jul-14-
+2004 Closing date: Jul-29-2004
+The University of Hawai’i is an equal opportu-
+nity/aﬃrmative action institution. All qualiﬁed appli-
+cants will be considered, regardless of race, sex, age,
+religion, color, national origin, ancestry, disability, mar-
+ital status, sexual orientation, or status as disabled vet-
+eran or veteran of Vietnam era.
+Employment is contingent on satisfying employment el-
+igibility veriﬁcation requirements of the Immigration
+Reform and Control Act of 1986. Appointments to
+positions are subject to campus recruitment guidelines
+and the collective bargaining agreement.
+APT applicants with re-employment rights or priority
+status are responsible for informing the recruiting unit,
+which will verify eligibility with the employing unit as
+provided by the BU 08 contract.
+Rob Toonen <toonen@hawaii.edu >
+UHawaiiHilo TempAssistProf
+Assistant Professor of Biology: Position No. 86432T,
+University of Hawaii at Hilo, College of Arts & Sciences,
+temporary, nine-month appointment to begin approxi-
+mately August 2004 and NTE July 31, 2005; pending
+position clearance and funding, with possibility of reap-
+pointments.
+Duties: Teach undergraduate courses in cell and molec-
+ular biology, evolution and general ecology and intro-
+ductory biology.
+Minimum Qualiﬁcations: Ph.D. from an accredited col-
+lege or university in a biological science discipline ap-
+propriate to the position, demonstrated expertise in
+conservation biology/genetics.
+Desirable Qualiﬁcations: Teaching experience at thecollege or university level, familiarity with Hawaiian
+ecosystems and conservation issues. Salary: Competi-
+tive. To Apply: Submit curriculum vitae, letter of ap-
+plication, and the names and e-mail addresses of three
+recent references to: Dr. Donald Price, Biology De-
+partment, University of Hawai’i at Hilo, 200 W. Kawili
+St., Hilo, Hawai’i.
+Inquires: Dr. Donald Price, ph. 808-974-7365, fax 808-
+974-7393, email donaldp@hawaii.edu.
+Dr. Donald K. Price co-Project Director - Hawaii
+NSF EPSCoR Program Director - TCBES Masters Pro-
+gram - UH Hilo Associate Professor of Biology - UH
+Hilo Ecology, Evolution and Conservation Biology - UH
+Manoa 200 W. Kawili Street University of Hawaii Hilo,
+HI 96720 808-974-7365 fax 808-974-7693 email: don-
+aldp@hawaii.edu
+UHouston EvolBiol
+FACULTY POSITION IN EVOLUTIONARY BIOL-
+OGY
+The Department of Biology and Biochemistry at the
+University of Houston invites applications for a tenure-
+track Assistant, Associate or Full Professor position in
+Evolutionary Biology to complement existing strengths
+within the Division of Ecology and Evolution. Can-
+didates are welcomed from all areas of evolutionary
+biology, including those using theoretical, molecular,
+ecological, or experimental approaches. The position
+requires an earned doctorate and postdoctoral expe-
+rience. The successful candidate is expected to main-
+tain a nationally competitive externally funded research
+program and participate in graduate and undergradu-
+ate teaching. The Department has spacious laborato-
+ries and oﬀers competitive startup packages. Please
+submit curriculum vitae, list of publications, state-
+ment of research interests, and arrange for three let-
+ters of recommendation to be sent directly to: Dr.
+Dan Graur, Chair, Evolutionary Biology Search Com-
+mittee, Department of Biology and Biochemistry, Uni-
+versity of Houston, Houston, TX 77204-5513 (E-mail:
+dgraur@uh.edu). All materials must be received by Oc-
+tober 1, 2004.
+UH is an Equal Opportunity/Aﬃrmative Action Em-
+ployer. Minorities, women, veterans and persons with
+disabilities are encouraged to apply.
+– Dan Graur, Ph.D. John and Rebecca Moores Profes-August 1, 2004 EvolDir 23
+sor Department of Biology & Biochemistry University
+of Houston Houston, TX 77204 USA
+email: dgraur@uh.edu Tel: 713-743-7236 Fax: 713-743-
+2636 Homepage: nsm.uh.edu/ ~dgraur
+Dan Graur <dgraur@uh.edu >
+ULausanne ResTech
+A research technician position is available at the Uni-
+versity of Lausanne, Switzerland from October 1st or
+later, as part of a project on the evolution of reproduc-
+tive traits in the plant Silene latifolia, Caryophyllaceae
+(http://www.unil.ch/dee/page7005 en.html ). Appli-
+cants would ideally have laboratory experience and fa-
+miliarity with experimental work. The tasks include
+laboratory work (microsatellite DNA; assays of pollen
+viability, pollen tube growth rates, enzyme activity),
+and collaboration with greenhouse experiments. The
+position is for initially 2 years, and may prolonged.
+If interested, please contact:
+Dr. G. Bernasconi Swiss NSF Professorial Fellow Cur-
+rent address: Institute of environmental Sciences Uni-
+versity of Zurich Winterthurerstr. 190 CH 8057 Zurich
+Switzerland Email: bernasco@uwinst.unizh.ch
+Application deadline: 15th August 2004 For application
+send: CV, name and address of two referees.
+The Department of Ecology and Evolution of the
+University of Lausanne, Switzerland, provides a very
+lively intellectual and social environment ( http://-
+www.unil.ch/dee/page5090 en.html ).
+Lausanne, located in Switzerland at the shore of Lake
+Geneva, oﬀers very high quality of life and outstand-
+ingly beautiful surroundings (Alps, Jura mountains,
+Lake; see http://www.lausanne-tourisme.ch/ ).
+UMontreal programmer
+Company/Institution: Robert-Cedergren Centre for
+Bioinformatics & Genomics, Universite de Montreal
+Job Title: Development Programmer
+Job Description: The position entails primary respon-sibility for the maintenance and development of web
+interfaces for the two bioinformatics databases GOB-
+ASE ( http://megasun.bch.umontreal.ca/gobase/ ) and
+PEPdb ( http://amoebidia.bcm.umontreal.ca/public/-
+pepdb/agrm.php ), written principally in PHP but also
+involving Java. The candidate will further be respon-
+sible for the maintenance of existing bioinformatics-
+related software and development of new code, includ-
+ing Perl scripts and C programs. The development will
+occur in a primarily Linux-based environment. The
+successful candidate will be a member of a closely inte-
+grated development team comprised of other program-
+mers and database curators.
+Requirements:
+At least 3 years’ programming experience Proﬁciency in
+Perl/PHP and SQL Familiarity with C and Java Strong
+Linux background Good communication skills A work-
+ing familiarity with the concepts of molecular biology
+would be highly useful
+Availability: The position is available immediately.
+Contact:
+Emmet A. O’Brien, Database Group Leader Departe-
+ment de Biochimie Universite de Montreal Pavil-
+lon Roger Gaudry (P. principal) H-307-13 2900
+Edouard-Montpetit Montreal QC, H3T 1J4 eo-
+brien@bch.umontreal.ca
+Emmet O’Brien <eobrien@BCH.UMontreal.CA >
+UMuenster PlantEvolEcol 2
+The University of Muenster (Germany) seeks to appoint
+a
+Full Professor of Botany (C4/W3 salary scale)
+in succession of Prof. von Willert.
+Candidates should have an excellent track record of re-
+search in EVOLUTIONARY ECOLOGY and should
+have worked on genotypic and phenotypic adaptation
+in natural populations using experimental techniques.
+The candidate is expected to contribute in part to com-
+pulsory teaching units, including basic botany (plant
+evolution; plant functional morphology and adaptation;
+ﬁeld trips). Applicants must hold a doctorate and have
+a postdoctoral track record of independent academic
+research and teaching (German Habilitation or equiv-
+alent experience). Foreign candidates are expected to24 EvolDir August 1, 2004
+acquire suﬃcient language skills for teaching in German
+within 2 years after taking up the position.
+The position is substantially equipped, comprising an
+annual budget and core funding for scientiﬁc and tech-
+nical posts.
+The professorship will play a central role in a new in-
+stitute in evolutionary biology and biodiversity studies
+which will be formed by the merger of the existing in-
+stitutes of “Plant Ecology and “Animal Evolution and
+Ecology. In 2005 another professorship in the area of
+Botany will be advertised in this unit.
+The WWU seeks to increase the proportion of female
+staﬀ members in the faculty and therefore urges in-
+terested female candidates to apply. In case of equal
+qualiﬁcations, preference will be given to disabled ap-
+plicants.
+Applicants should send their CV, copies of transcripts
+and degree certiﬁcates, a list of publications and grant
+income to date, and a research plan not later than
+6 August 2004 to the Dean of the School of Biologi-
+cal Sciences, University M¨ unster, Hindenburgplatz 55,
+48143 M¨ unster, Germany. Electronic submissions in
+pdf-format and informal inquiries should be sent to:
+dekanat.bio@uni-muenster.de.
+Prof. Dr. Nico K. Michiels Institute of Animal Evo-
+lution and Ecology Westphalian Wilhelms-University
+Muenster Hueﬀerstrasse 1, D-48149 Muenster, Ger-
+many
+Tel. +49 (0)251 83 24661 Mobile +49 (0)170 4758003
+Fax. +49 (0)251 83 24668
+michiels@uni-muenster.de http://www.uni-
+muenster.de/Biologie.EvoEco/Evolbio/ Nico Michiels
+<michiels@uni-muenster.de >
+UNebraska Fisheries
+FISHERIES ECOLOGIST
+The School of Natural Resources (SNR), University
+of Nebraska-Lincoln, invites applications for a tenure-
+track, 12-month assistant professor faculty position in
+ﬁsheries ecology (50% research/50% teaching). Re-
+search focus on ﬁsh ecology with a quantitative, in-
+terdisciplinary approach to addressing critical issues
+such as species-habitat interactions, predator-prey dy-
+namics, and community bioenergetics preferred. Posi-
+tion complements and interacts with faculty in ﬁsheriesand wildlife, the new Cooperative Fish and Wildlife
+Research Unit, SNR hydrological sciences, and the
+Nebraska Game and Parks Commission. Research
+responsibilities include development of a successful
+research program; publications in refereed journals;
+strong record of extramural grant funding; and su-
+pervision of graduate students and post doctoral re-
+search associates. A key faculty for the Fisheries and
+Wildlife major, this person must be strongly committed
+to undergraduate and graduate teaching. Teaching re-
+sponsibilities include Ichthyology; Fisheries Science; a
+new graduate-level course in area of specialization (e.g.,
+Reservoir Fisheries Ecology and Management, River
+Fisheries Ecology and Management, Ecological Statis-
+tics); and participation in undergraduate and graduate
+seminars. Requires a Ph.D. in ﬁsheries ecology, ecol-
+ogy, or related ﬁeld, with expertise in quantitative ap-
+proaches to population, community, and/or ecosystem
+research, and experience with interdisciplinary and col-
+laborative research. More information at SNR website:
+http://snr.unl.edu . Interested candidates should send
+a signed letter of application, curriculum vitae, state-
+ments of teaching and research interests, and three let-
+ters of reference to:
+Chair, Fisheries Ecologist Search Committee School
+of Natural Resources University of Nebraska-Lincoln
+307 Biochemistry Hall Lincoln, NE 68583-0758 E-mail:
+pfreeman1@unl.edu
+Review of applications begins on September 15, 2004
+and continues until the position is ﬁlled or the search
+is closed.
+The University of Nebraska is committed to a pluralis-
+tic campus community through aﬃrmative action and
+equal opportunity and is responsive to the needs of dual
+career couples. We assure reasonable accommodation
+under the Americans with Disabilities Act. Contact
+Sharon Kelly at (402) 472-9873 for assistance.
+gorti1@unl.edu
+URochester ResearchTech
+Description: A research technician IV position is avail-
+able at the University of Rochester, in Rochester New
+York conducting studies of intracellular bacteria in in-
+sects. The position is part of a 5-year NSF funded
+project to investigate molecular genetics, ecology and
+evolution of Wolbachia, a widespread and important
+group of intracellular bacteria found in invertebrates.August 1, 2004 EvolDir 25
+Duties/Qualiﬁcations:The ideal applicant will be famil-
+iar with standard molecular genetic techniques such as
+DNA and RNA preparations, diagnostic and quantita-
+tive PCR, cloning, and sequencing. Some experience
+with programs for sequence reactions and alignments
+is desirable. Other duties will include maintenance of
+insect cultures, ordering supplies, reagent preparation,
+and other tasks as assigned. Must be able to work
+independently and maintain good records of work com-
+pleted. B.S. or M.S. in Biology or related disipline.Conditions: This position is available now and will be
+funded through the life of the grant (2003-2008) and
+possibly beyond.
+Instructions: Send resume and cover letter to Cathy
+Westbrook via email at cwestbro@mail.rochester.edu
+or mail at the University of Rochester, Dept. of Biol-
+ogy, 226 Hutchison hall, River campus, Rochester, N.Y.
+14627-0211. Phone:585-275-3889. fax 585-275-2070
+Other
+AFLP sea anemones . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25
+BSA and PCR . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25
+BSA inhibition PCR answers . . . . . . . . . . . . . . . . . . . . . . 26
+Bulked Samples . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 26
+Cephus samples . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 26
+Collecting plants . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 27
+DNA Barcoding . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 27
+Dried leaves extraction answers . . . . . . . . . . . . . . . . . . . 28
+Flow cytometry . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 29
+Fluorescent Labelling . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 29
+Gel extraction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 29
+Hawaiian Gobies . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 30Hybridization Studies . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 30
+MOLPHY problems . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 31
+SNP data analysis . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 31
+Seed Ovule ratios . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 31
+Software Tree-Puzzle v5 2 . . . . . . . . . . . . . . . . . . . . . . . . . 31
+Speciation Bottlenecks answers . . . . . . . . . . . . . . . . . . . . 33
+Speciation bottleneck . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 34
+Speciation bottleneck 2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . 34
+Tetraploid micros answers . . . . . . . . . . . . . . . . . . . . . . . . . 34
+Water voles . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 35
+AFLP sea anemones
+Dear all,
+I am about to start AFLP analysis on a population of
+the anemone Condylactis gigantea. There is little men-
+tion of AFLP analysis on Cnidarians in the literature
+as far as I can see.
+I would be really interested to hear from anyone who
+may have attempted AFLP with any type of Cnidar-
+ian. I am currently struggling with the joys of getting
+a good yield of reasonably intact genomic DNA, but
+getting there I think.
+Hope someone can oﬀer some advice.Best regards
+Alex
+Alexander Venn Ph.D. Candidate Department of Biol-
+ogy (area 2) University of York PO Box 373 York YO10
+5YW UK E: Alexandervenn@yahoo.com T: +44 1904
+438611
+BSA and PCR
+Hi all, Does anybody know if too much BSA (used to
+counter inhibition in PCR) can actually inhibit PCR
+itself? If yes, does anybody have a feel for the concen-26 EvolDir August 1, 2004
+tration at which it becomes detrimental? Thanks for
+your help Tom Gilbert
+Dr Tom Gilbert Ecology and Evolutionary Biology Uni-
+versity of Arizona Tucson AZ 85721-0088
+Tel: 520-621-1960 Fax: 520-621-9190
+mtpg@email.arizona.edu
+BSA inhibition PCR answers
+Dear All, Last week I wrote and asked ’Can too much
+BSA inhibit PCR’. I got back a lot of very useful in-
+formation, and most people who wrote to me asked if I
+could summarize the ﬁndings. So, here goes....
+The simple answer seems to be deﬁnitely yes, if its
+acetylated and people should be warned that a lot of
+the BSA that comes with restriction enzymes is acety-
+lated, so for PCR buy speciﬁc non-acetylated BSA! New
+England Biolabs supplies a popular ready made solu-
+tion. I personally have been using Sigma’s powdered
+form (#B6917) that I dilute to 10mg/ml and freeze
+(and use 1ul in a 25ul RXN).
+As for whether non-acetylated BSA inhibits, the answer
+seems to be yes, but the concentration at which inhibi-
+tion starts all depends on the particular extract (which
+naturally contains a whole host of variables), and the
+enzyme being used for the PCR.
+It seems that usual’ levels of BSA used for PCR to
+counter inhibition are about 0.1-0.4mg/ml ﬁnal concen-
+tration, but some people have observed success at up
+to 10mg/ml (readers should note that such cases were
+accidental’ application, not done for any beneﬁt!). The
+highest level that anybody speciﬁcally seemed to use
+was 3mg/ml, on unpuriﬁed alkali lysed plant extracts.
+In contrast however, at least one person who replied
+has speciﬁcally tested the issue, and in his case found
+BSA inhibited at any level above 0.1mlg/ml.
+On a further note, various people mentioned observ-
+ing the PCR becoming gelatinous during cooling above
+certain concentrations (eg 5mg/ml), and becoming so
+gelatinous above 10mg/ml that the PCR couldn’t be
+run on a gel. From my own personal experience I will
+add that the concentration that this seems to become a
+problem appears to depend on the enzyme (or at least
+its buﬀer). For example, I have seen PCRs using ABI’s
+Taq Gold’ and Invitrogen’s Platinum Taq’ ﬁll with what
+we like to call snot’ during the PCR process, at BSA
+levels where Invitrogen’s Platinum Taq Hiﬁ’ is ﬁne. Oneobservation that may explain the diﬀerence it is that
+Gold and Platinum use MgCl2 as a buﬀer, whereas Hiﬁ
+uses MgSO4 (I’ve no idea why, but it correlates nicely)
+As for the actual inhibition, most people reported a
+peak’ of eﬃciency at particular concentrations, either
+side of which the ampliﬁcation success drops oﬀ (al-
+though fairly slowly it would seem). So overall it seems
+that it anyone really cares, they will need to optimize
+for particular sample/extraction method/enzyme com-
+binations.
+Thanks to all those who replied with very useful infor-
+mation: Anne Chenuil, Rob Cruickshank,Will Goodall-
+Copestake,Alistair Jump, Jeﬀ Lozier, Connie Mulligan,
+Olivier Rasp´ e, Dominik Refardt, Scott Santos, Henri
+Thomassen, Rajenda Whitlock, Sam Wisely, Craig
+Wilding
+Hope this summary is of use to some people out there
+Tom Gilbert Tom Gilbert
+Bulked Samples
+Hello Everyone,
+I am a phd student working with microsatellite markers
+in oat. I work with bulked samples and am experiencing
+problems with entering these data in ordinary programs
+for analysis, since these only accept two possible alleles
+for codominant data. I get on occation three and could
+in theory get even more - since the data derive from
+thirty individuals bulked into one test-sample. Does
+anyone have experience with entering this kind of data
+into e.g. ntsys or phylip?
+thank you Louise Nersting
+Cand. Scient. Louise Grau Nersting Risoe National
+Laboratory DK-4000 Roskilde phone +45 46 77 41 89
+louise.grau.nersting@risoe.dk
+Cephus samples
+A student in our lab is working on a wide scale DNA
+based -phylogeographic study of the wheat stem sawﬂy
+(Cephus cinctus), a destructive insect pest of wheat inAugust 1, 2004 EvolDir 27
+the Northern Great Plains. We are also interested in
+the relationship between Cephus species using mt and
+nuclear gene sequences. However, we do not have any
+sample from C. hyalinatus which is known from east-
+ern Asia including Japan. Is there someone who have
+well conserved specimen of this species (or closely re-
+lated species) and is ready to send specimens to us to
+complement our analysis? 95%-96% ethanol is suitable
+for storing and shipping the material. However, we will
+also accept samples that have been ﬁxed in formalin or
+dried.
+Please contact me on the address given below.
+Many thanks and best wishes,
+Marie-Claude BON, PhD European Biological Control
+Laboratory USDA, ARS Campus International of Bail-
+larguet 34980 Montferrier sur Lez France Tel: (33) 4 99
+62 30 41 Fax: (33) 4 99 62 30 49 mcbon@ars-ebcl.org
+Collecting plants
+Dear All.
+A few weeks ago I posted a summary of the responses
+I received following my queries about high throughput
+methods of preparing dried leaves for PCR. Based on
+these responses (from people largely working on decidu-
+ous trees and some Mediterranean shrubs)and my own
+experience, I suggested collecting the youngest leaves
+available.
+I’ve since been contacted by Mike Fay (head of genetics
+at the Jodrell lab at RBG Kew) who reports diﬃculty in
+obtaining ampliﬁable DNA from young leaves in some
+groups of species. This highlights the importance of
+checking the methods to be used with unfamiliar species
+before embarking on large-scale collections of material.
+Mike’s advice follows:
+*********
+In our experience, in some groups of plants, at least,
+young leaves give unampliﬁable DNA due to the pres-
+ence of inhibitory chemistry not present in more more
+tissues. This is deﬁnitely the case in some legumes
+among others. It is probably due to the plant produc-
+ing compounds to prevent insect predation before the
+leaves have hardened oﬀ.
+Our standard advice is to collect fully expanded leaves
+that have not begun to senesce. This works well for the
+vast majority of plants (our DNA bank contains nearly20K samples extracted following this recommendation).
+Flowers can be used as an alternative - they produce
+far less by way of secondary chemistry, cuticle etc. than
+leaves in most cases, and in really problematic cases
+(e.g. some tropical orchids) for which we get next to no
+amp. from leaves, ﬂoral DNA performs well. It is also a
+way round problems with plants with succulent leaves
+or other tissues - e.g. cacti, many terrestrial orchids
+etc. We routinely extract from ﬂowers of Dactylorhiza,
+Orchis etc. when these are available in preference to
+leaves.
+********
+— Dr. A.S. Jump
+Aﬃliation: Centre de Recerca Ecol` ogica i Aplicacions
+Forestals (CREAF)
+Current address:
+Departamento de Gen´ etica Molecular IBMB-CSIC
+C/Jordi Girona 18 08034 Barcelona Spain Tel: 0034
+934006100 ext 256 Fax: 0034 932045904 Fax: 0034
+932045904
+DNA Barcoding
+Dear Evoldir / Taxacom / PEET members,
+ANNOUNCEMENT AND REQUEST FOR HELP
+Special Debate: DNA Barcoding, Thursday, 23rd
+September, Univ. of Illinois, Champaign-Urbana, Illi-
+nois As part of the forthcoming PEET meetings this
+September ( http://www.conferences.uiuc.edu/peet/ ) I
+will be chairing a debate on DNA barcoding at the Uni-
+versity of Illinois. Speaking in defense of barcoding will
+be Paul Hebert (University of Guelph), arguably the
+founder of the barcoding movement. Speaking against
+will be Kip Will (University of California), a voice of
+caution who has recently published on the pitfalls of
+molecular taxonomy. I am keen to engage the wider
+taxonomic community beyond PEET grant holders in
+this debate and this is where you can help...
+I am looking for a diverse selection of questions that
+can be put to Paul and Kip by a student panel as part
+of the debate. These questions should cover the full
+spectrum of issues associated with the application of
+DNA barcoding, from its use in taxon identiﬁcation and
+discovery, through to its practical and political ram-
+iﬁcations if barcoding is to become more widely ap-
+plied within taxonomy. If you would like to submit a28 EvolDir August 1, 2004
+question, reply to me personally (OFF LIST PLEASE)
+at “vsmith@inhs.uiuc.edu”, preferably with the subject
+line “DNA Barcoding Debate”.
+The proceedings of this meeting will be published (sub-
+ject to peer review) in question and answer format in a
+forthcoming issue of Systematic Biology. All questions
+selected will be credited with their author unless they
+would prefer to remain anonymous. This is an excellent
+opportunity to ask questions to two of the leading au-
+thorities on genetic barcoding and get a direct answer
+- don’t miss it!
+All questions will be considered, and just to make things
+more interesting they will not be disclosed to Paul
+Hebert or Kip Will until they are asked on the day
+of the debate!
+Thanks and apologies for cross posting,
+Vince Smith
+–NOTE MY NEW ADDRESS AS OF JULY 04–
+Dr. Vincent S. Smith Illinois Natural History Survey
+607 East Peabody Drive Champaign, IL 61820-6970
+USA Phone (until end of July ’04): +1 (217) 244-
+9267 Phone (Aug ’04 onwards): +1 (217) 265-0831 Fax:
++1 (217) 333-4949 E-mail: vsmith@inhs.uiuc.edu Web:
+http://darwin.zoology.gla.ac.uk/˜vsmith/
+Dried leaves extraction answers
+Dear all.
+Several weeks ago I posted a query regarding techniques
+and potential pitfalls of high-throughput systems of
+DNA extraction from silica-gel dried leaves. I received
+almost as many questions as answers in reply; the ques-
+tions regarded just about every aspect of working with
+dried leaves from collection through to genotyping. Be-
+low is a summary of information from my experience
+and that of all who replied to my original query.
+Regards.
+Alistair Jump
+1) Sample collection: Collect the youngest tissue you
+can. In newly unfolding leaves there are more cells per
+area and therefore you get a higher yield of DNA from
+the same mass of leaf. Even more important, the tissue
+is likely to contain far fewer secondary metabolites and
+therefore it is much easier to obtain clean DNA from
+young tissue. For some species it may be near impossi-ble to use simple methods to purify DNA from mature
+leaves.
+2) Preservation: Dry rapidly using an excess of silica gel
+(for example a 10:1 ratio gel:leaf by mass) a mixture of
+20-200 mesh size silica gel with 6-16 mesh indicating gel
+is ideal. The faster the leaf samples dry - the better the
+DNA quality, so dry small pieces of leaf (around 2 cm2)
+and cut out ﬂeshy midribs if necessary. If you have
+to collect very succulent tissue using desiccants then
+separate and discard the water storage layer and dry
+the photosynthetic layer of the leaf/stem. Calcium sul-
+phate (’Drierite’) can also be used to dry samples (but
+requires higher temperatures to reactivate it if reused).
+Store dried leaves with some active desiccant at room
+temperature or in a cold room if you have access to one.
+Protect them from light. When reusing desiccants, they
+can be baked to sterilise them. If you bake either type
+at too high a temperature it destroys the indicator and
+can impair their ability to absorb water - so check the
+instructions ﬁrst! Chase and Hill (1991) Taxon 40:215-
+220 give more information on using silica gel for drying
+leaves for DNA extraction.
+3) Sample disruption: Several people sounded almost
+tearful in their description of how much the tissue
+lyser/mixer mill had reduced the labour involved in pro-
+cessing hundreds of samples! The consensus is that it
+works well as long as you get the sample into the bottom
+of the tube and the steel (or preferably tungsten) bead
+on top (a ﬂat piece of leaf adhering to the side of the
+tube will not be ground). Cooling the rack of tubes in
+liquid nitrogen before grinding in the machine will im-
+prove the grinding of tougher dried samples. A common
+problem when working with dried leaves is the build up
+of static electricity. This may be solved by grinding the
+leaves after cooling the racks in liquid N. Where this re-
+mains a problem, be very careful when opening the caps
+to avoid losing sample and consequent risk of cross con-
+tamination. Grinding dried leaves in extraction buﬀer
+may produce degraded DNA, whereas grinding them
+after freezing with liquid nitrogen will yield excellent
+quality DNA if they have been dried rapidly.
+4) Extraction/puriﬁcation method: Do not presume
+that the method you use for extracting DNA from fresh
+leaves will work as well if the same leaves are dried. In
+some cases, changes in the leaf chemistry during dry-
+ing can cause problems. If you are going to carry out
+a large scale sample collection, the cautious approach
+is to check you can get useable DNA from dried leaves
+before you collect them!
+In general: the Quiagen DNeasy plant 96 kit
+was considered well worth the money and has
+been used with a variety of often diﬃcult species.August 1, 2004 EvolDir 29
+Other multiple extraction and puriﬁcation proto-
+cols suggested were Mogg and Bond (2003) Molec-
+ular Ecology Notes 3: 666-668 and one from
+the Somers lab at U Minnesota - to be found
+at: http://bioplasticscollaborative.coafes.umn.edu/-
+uniplate DNA extraction.htm#
+Another approach is to PCR from crude plant ex-
+tracts without purifying the DNA (simple alkaline ly-
+sis) - in combination with a modiﬁed PCR buﬀer. This
+has more limited applicability, but it can save a huge
+amount of time and money when useable. In all cases
+when working with crude extracts you should check the
+reliability of such methods against ’clean DNA’ con-
+trols before commencing a large scale genotyping op-
+eration. Inhibition of PCR by components of the ex-
+tract may be locus speciﬁc, so it is unwise to use them
+with multi-locus markers such as ISSR or for markers
+requiring digestion/ligation steps such as AFLP. How-
+ever, they may be used with single locus markers such
+as microsatellites if tested properly. See Jump et al.
+(2003) New Phytologist 160: 359-370 and Xin et al.
+(2003) Biotechniques 34: 820-826 for methods.
+— Dr. A.S. Jump
+Aﬃliation: Centre de Recerca Ecol` ogica i Aplicacions
+Forestals (CREAF)
+Current address:
+Departamento de Gen´ etica Molecular
+/
+This message has been arbitrarily truncated at 5000 characters.
+To read the entire message look it up at http://life.biology.-
+mcmaster.ca/˜brian/evoldir.html
+Flow cytometry
+Dear EvolDir members,
+Has anyone of you had any experience with performing
+ﬂow cytometry (DAPI staining) on leaf material that
+has been dried with silica gel? Any hints on how to
+optimize the procedure as well as other experiences are
+highly appreciated.
+We use a PA from Partec with their standard mutual
+extraction/staining buﬀer, normally on fresh leaf mate-
+rial, with great satisfaction. However, with dried ma-
+terial we do not get consistent results so far. The highresolution kit does not seem to provide any better re-
+sults than the regular kit.
+Thanks in advance, cheers, Marc Stift.
+Institute for Biodiversity en Ecosystem Dynamics Ex-
+perimental Plant Systematics Universiteit van Amster-
+dam stift@science.uva.nl
+stift@science.uva.nl
+Fluorescent Labelling
+I am after advice...
+I have a collection of tail feathers obtained from Long-
+tailed wagtails. If possible I would like to look at extra-
+pair paternity using these samples.
+I have been unable to ﬁnd microsatellite markers for
+this species or the genus and in any case do not have
+the funds to purchase microsatellite primers. But for
+future reference, I would like to know if there are any
+developed for this or closely related species or if any
+microsatellites have been used in this species.
+As an alternative to radioactivity I have been looking at
+ﬂuorescent labelling of minisatellites and wonder if any-
+one can tell me if ﬂuorescent labelling might be more
+sensitive than radiolabelling?
+If anyone has expereince in using feathers in minisatel-
+lite analysis?
+My reason for asking is I am wondering if the use of ﬂu-
+orescent labelling might provide a way to analyse these
+samples using minisatellite analysis.
+201302042@ukzn.ac.za
+Gel extraction
+Dear all,
+we currently have a problem with puriﬁcation of PCR
+products from gels: bands cut from gels are no longer
+suitable for downstream applications such as restriction
+digests or sequencing although the puriﬁed DNA looks
+okay on the gel afterwards (which makes the gel extrac-
+tion kits quite useless). What we already tried to solve
+the problem: - use diﬀerent batches of kits (Qiagen,30 EvolDir August 1, 2004
+Macherey Nagel). The kits shouldn’t be the problem:
+using exactly the same procedure and buﬀers for the
+direct puriﬁcation of PCR products, the DNA works
+perfectly afterwards. - use of the diluted restriction en-
+zyme buﬀer for elution of DNA from columns instead
+of the provided elution buﬀer did not change the re-
+sults (after the last washing step, the columns were
+left open and incubated at 50 degrees centrigrade for
+a few minutes in order to completely evaporate resid-
+ual ethanol from the last wash buﬀer - directly puriﬁed
+PCR products work perfectly after this treatment) -
+using diﬀerent agaroses, diﬀerent buﬀers (plus checking
+buﬀer components in turn), diﬀerent sources of ultra-
+pure water for electrophoresis, diﬀerent loading dyes
+etc. did not solve the problem. - using three diﬀer-
+ent UV tables (all 312 nm), putting intensity to 70%,
+minimizing exposure time of bands to UV during cut-
+ting etc. also did not solve the problem. - trying it in
+a diﬀerent lab (with our/their buﬀers, our/their kits,
+their agarose and UV table also did not improve the
+digest. Digests work perfectly when samples are not
+electrophoresed and cut from gel, but directly puriﬁed
+from the PCR product. But of course, if you do have
+extra bands in some PCRs which you can’t get rid of
+by optimizations, you would like to use the option to
+excise the proper product. There is some digestion, and
+there is also some result from sequencing, but incom-
+plete and of very bad quality. (In my former lab this
+worked as it should, for restriction digests as well as for
+sequencing.)
+We and also the technical support from Qiagen (Czech
+Republic and Germany) don’t have any idea left what
+could be wrong. The odd thing is that quality and
+yield of puriﬁed gel-extracted DNA when visualized on
+gel seem completely ordinary. So what is inhibiting the
+enzymes then? We suspect some damage done to the
+DNA somewhere in the procedure, but which and at
+what step does it occur?
+Is anybody out there who has an additional idea or who
+has had the same problem and has solved it?
+Best wishes,
+Judith
+Dr. Judith Fehrer Institute of Botany CZ-25243
+Pruhonice
+phone +420 2 71015215 fax +420 2 67750031 email:
+fehrer@ibot.cas.cz
+Judith Fehrer <fehrer@ibot.cas.cz >Hawaiian Gobies
+Microsatellite Folks -
+I’m an undergraduate at Clemson University doing my
+honors thesis project under Dr. Margaret Ptacek and
+Dr. Richard Blob looking at the genetic diversity of
+three diﬀerent species of Hawaiian gobies (Sicyopterus
+stimpsoni, Awaous guamensis, and Lentipes concolor).
+I am looking for previously developed microsatellite
+primers that could be used for these or any closely re-
+lated species (such as Stenogobius hawaiiensis). If you
+have any information that would assist me in my search,
+please contact me at LSDURHA@clemson.edu. Thank
+you.
+Sincerely, Lisa Durham LSDURHA@clemson.edu
+“Margaret B. Ptacek” <mptacek@CLEMSON.EDU >
+Hybridization Studies
+I am doing a meta-analysis on hybridization in animal
+taxa looking at various factors that contribute to the
+frequency of hybridization and success of hybrids.
+I am trying to gather all the papers I can on animal hy-
+bridization that have been conducted for any purpose
+(hybrid zones, repro isolation, etc).
+My purpose for this message is to locate any past, un-
+published studies that are sitting around in ﬁle cabinet
+drawers, or from obscure or non-English language jour-
+nals. I am trying to prevent the “publication bias” that
+can aﬀect meta-analyses, so would like to do a system-
+atic search for any known research.
+Please email me at ecowriter@ev1.net or (alternate)
+holtcamp@rice.edu
+Thanks in advance! Wendee
+Wendee Holtcamp ~~ecowriter@ev1.net Freelance
+Writer & Photographer ~~www.greendzn.com Ph.D.
+Student, Rice University, Ecology & Evolutionary Bi-
+ologyAugust 1, 2004 EvolDir 31
+MOLPHY problems
+I am currently experiencing diﬃculties with the online
+version of MOLPHY 2.3, Programs for molecular phy-
+logenetics based on maximum likelihood (Adachi and
+Hasegawa, 1996), website: http://bioweb.pasteur.fr/-
+seqanal/interfaces/prot nucml.html . Is anyone familiar
+with the workings of this particular interface as I am
+after some advice? Any feedback would be greatly ap-
+preciated.
+Adam Miller
+admiller@deakin.edu.au Postgraduate Research School
+of Ecology and Environment, Deakin University, PO
+Box 423 Warrnambool, 3280 Victoria, Australia –
+Adam Miller Postgraduate Research School of Ecology
+and Environment, Deakin University, PO Box 423 War-
+rnambool, 3280 Victoria, Australia Phone: 03 55633569
+Fax: 03 55633462
+admiller@deakin.edu.au
+SNP data analysis
+Dear Evoldir people, we would like to receive sugges-
+tion about the best statistic analysis for SNP data. We
+have genotyped 60 mammals populations for 12 SNP
+loci and we are wondering wich kind of analysis is the
+most suitable for them and which softwares can be suit-
+able to peerform it. Any suggestion will be welcome.
+Cheers, Irene
+– Dr. Irene Cappuccio Dipartimento di Produzioni
+Animali Laboratorio n 308, II piano Universit` a della
+Tuscia Via S. Camillo de’Lellis 01100 Viterbo Oﬃce
+Tel. Number +390761357447 Mobile Tel. Number
++393404646789 FAX Number +390761357434 E-mail:
+cappucci@unitus.it
+Irene Cappuccio <cappucci@unitus.it >Seed Ovule ratios
+EvolDir members,
+Lawrence Harder, Shane Richards, and I are collecting
+seed-ovule ratios and outcrossing estimates to evaluate
+some predictions we have generated regarding mixed
+mating in plants. These data are occasionally available
+in the literature, but I suspect that the collective expe-
+rience of the EvolDir contains much more. We would
+greatly appreciate any unpublished data or pointers to
+published sources.
+Speciﬁcally, we are looking for three things: 1) The
+number of ovules produced per ﬂower; 2) The number
+of seeds matured per ﬂower; 3) An outcrossing rate esti-
+mate for the species, preferably estimated with genetic
+markers.
+If any of the unpublished data are the result of exper-
+imental manipulations of resources, pollen abundance,
+etc. please include some details of the manipulations.
+Thanks in advance for any data.
+Take care, Matt —– Matthew Routley Post-Doctoral
+Fellow Department of Biological Sciences University of
+Calgary Calgary, AB, Canada T2N 1N4
+Email: routley@ucalgary.ca / mroutley@mac.com
+Web: http://homepage.mac.com/mroutley/ IM:
+mroutley@jabber.org / mroutley@mac.com Phone:
+403 2203557
+Matthew Routley <mroutley@mac.com >
+Software Tree-Puzzle v5 2
+Dear colleage,
+After a more or less ’silent’ release 5.1, I am announcing
+the next TREE-PUZZLE release. (Please note: a bug
+has been ﬁxed, which tended to produce less resolved
+trees. Hence, versions prior to 5.2 should not be used
+anymore!)
+TREE-PUZZLE 5.2 —————
+Heiko A. Schmidt, Juelich, Germany. Korbinian Strim-
+mer, Munich, Germany. Arndt von Haeseler, Duessel-32 EvolDir August 1, 2004
+dorf/Juelich, Germany.
+July 2004
+http://www.tree-puzzle.de DESCRIPTION ———–
+TREE-PUZZLE is a computer program to reconstruct
+phylogenetic trees from molecular sequence data ap-
+plying maximum likelihood. It implements a fast tree
+search algorithm, quartet puzzling, that allows anal-
+ysis of large data sets and automatically assigns esti-
+mations of support to each internal branch. TREE-
+PUZZLE also computes pairwise maximum likelihood
+distances as well as branch lengths for user speciﬁed
+trees. Branch lengths can be calculated with or with-
+out a molecular-clock assumption. In addition, TREE-
+PUZZLE oﬀers likelihood mapping, a method to inves-
+tigate the support of a hypothesized internal branch
+without computing an overall tree and to visualize the
+phylogenetic information content of a sequence align-
+ment. For a set of user provided trees a consensus
+tree can be computed or the trees can be evaluated
+inferring ML value and ML branchlengths. TREE-
+PUZZLE also conducts a number of statistical tests
+on the data set and/or the set of trees provided by
+the user (chi-square test for homogeneity of base com-
+position, likelihood ratio to test the clock hypothe-
+sis, 1- and 2-sided Kishino-Hasegawa test, Shimodaira-
+Hasegawa test, and Strimmer-Rambaut’s expected like-
+lihood weights - ELW). The models of substitution pro-
+vided by TREE-PUZZLE are TN, HKY, F84, GTR, SH
+for nucleotides, Dayhoﬀ, JTT, mtREV24, BLOSUM 62,
+VT, WAG for amino acids, and F81 for two-state data.
+Rate heterogeneity is modeled by a discrete Gamma
+distribution and by allowing invariable sites. The cor-
+responding parameters (except for GTR in this release)
+can be inferred from the data set.
+CHANGES ——-
+What’s new in TREE-PUZZLE 5.2:
+- TREE-PUZZLE has now inplemented a faster recur-
+sive quartet puzzling algorithm giving the same result
+but signiﬁcantly reducing the running time.
+- The GTR model is now available for DNA data. How-
+ever, its free parameters are not (yet) estimated auto-
+matically.
+- The limits on the number of sequences to be 4 <=
+n<= 257 are removed for the estimation of parame-
+ters, pairwise distances as well as likelihood mapping.
+(The lower limit 4 is of course still valid for quartets, as
+is the upper limit for quartet puzzling, due to memory
+addressing problems by overﬂows. However, the second
+limit will be extended soon.)
+- Besides the evaluation (ML branch length, ML value)and testing (Shimodaira-Hasegawa, Kishino-Hasegawa,
+ELW) of a set of usertrees, now also a consensus tree can
+be computed for which branch lengths and ML value are
+estimated.
+- The output ﬁle preﬁx can now be changed using a
+commandline switch (-preﬁx=) to ease, for example,
+batch analyses that are using the same datasets but
+diﬀerent models/parameters.
+- The random number generator has been changed to
+use the free SPRNG library which implements high
+quality random which in turn gives signiﬁcantly better
+time performance (especially in parallel runs) compared
+to the old implementation.
+- The parameter estimation now has been also par-
+allelized (in close collaboration with E. Petzold; cf.
+Schmidt et al. 2003 for more details).
+- Furthermore a number of bugﬁxes have been incor-
+porated: - WAG matrix data has been corrected. - A
+bug that tended to make trees reconstructed less re-
+solved has been rectiﬁed (old TREE-PUZZLE versions
+should, hence, not be used anymore). - The KH tests
+have been altered to not artiﬁcially reject a tree if the
+variance between it and the best tree is too small. - KH
+tests have been ﬁxed in their precision, because they
+tend to reject tree topologies that are almost identi-
+cal to the ’best tree’, i.e., for which the variance is too
+small. - a number of further minor bugs.
+...ﬁnally there will be pre-compiled executables again
+for Linux, Mac OS X, and Windows.
+Best wishes, Heiko Schmidt
+Heiko Schmidt von-Neumann Institut fuer Computing
+Tel.: 02461 / 61-3893 Forschungsgruppe Bioinformatik
+Fax.: FZ Juelich Email: he.schmidt(AT)fz-juelich.de
+D-52425 Juelich Web: http://www.fz-juelich.de/nic/
+Associated member of: Institut fuer Bioinformatik Tel.:
+0211 / 81 - 11 914 HHU Duesseldorf Fax.: 0211 / 81
+- 15 767 Universitaetsstr. 1, Geb. 25.02.02 Email:
+hschmidt(AT)cs.uni-duesseldorf.de
+/
+This message has been arbitrarily truncated at 5000 characters.
+To read the entire message look it up at http://life.biology.-
+mcmaster.ca/˜brian/evoldir.html
+Speciation Bottlenecks answersAugust 1, 2004 EvolDir 33
+Dear all,
+Thank you very much again for all your help with my
+question about bottleneck at speciation. As many of
+you asked me to put the anwers received on the EvolDir
+directory, here they are. Best regards,
+Bego˜ na
+1- Hola Begona,
+lo que nosotros hacemos es calcular por simulacion de
+una poblacion en expansion tras un bottleneck, la prob-
+abilidad (likelihood) de obtener un nivel de polimor-
+ﬁsmo como el que tenemos (te envio el PDF de un paper
+en el que hacemos ese analisis, “Demographic modelling
+of european population”, table 1). Como ves, el bot-
+tleneck puede ser completamente independiente de la
+especiacion (ya que para nosotros no era importante),
+pero si tu sabes el tiempo de especiacion, puedes incluir
+ese parametro en tus simulaciones y ya esta.
+2- Querida Bego˜ na, Intenta DnaSP 4.0 - un programa
+escrito en Universidad de Barcelona
+3- Dear Begona There is a computer programme called
+Bottleneck which I think uses microsatellite data. I’m
+sure someone else will provide the details I don’t have
+them with me at the moment. If no one does then come
+back to me and I will try to ﬁnd the details.
+4- Hi Bego˜ na, Have you tried that program BOTTLE-
+NECK on your microsatellite data yet? it is available
+athttp://www.montpellier.inra.fr/URLB/bottleneck/-
+bottleneck.html 5-http://lifesci.rutgers.edu/˜heylab/-
+HeylabSoftware.htm#WHI don’t think WH does quite
+what you want but perhaps there are modiﬁcations
+ofthat software. At least it estimates the size of the
+ancestral pop. which mayindicate the potential for a
+bottleneck?
+6- Hello Bego˜ na, In response to your questions on the
+evoldir server, Gordon Luikart and Jean-Marie Cornuet
+are the best references I have seen for testing bottle-
+necks (although your use of the word “speciation” I am
+unsure about–I have only used these programs for intra-
+speciﬁc datasets). L & C are incredibly articulate and
+I highly recommend you read anything they have writ-
+ten. They have provided empirical data on a software
+program written by Piry et al. There is also a program
+tested by Garza and Williamson that uses a diﬀerent
+metric for testing for bottlenecks from that of L & C us-
+ing usat data. You will probably have to write to Garza
+directly or ﬁnd his website from his paper for his pro-
+gram (actually supported, I believe, by Williamson).
+Here are the references pasted from my Endnote ﬁle.
+Good luck. Cindy Taylor, PhD Scripps Institution of
+Oceanography UC, San Diego Cornuet, J.-M., and G.Luikart. 1996. Description and power analysis of two
+tests for detecting recent population bottlenecks from
+allele frequency data. Genetics 144:2001-2014. Garza,
+J. C., and E. G. Williamson. 2001. Detection of re-
+duction in population size using data from microsatel-
+lite loci. Molecular Ecology 10:305. Luikart, G., and
+J.-M. Cornuet. 1998. Empirical evaluation of a test
+for identifying recently bottlenecked populations from
+allele frequency data. Conservation Biology 12:228-
+237. Luikart, G., J.-M. Cornuet, and F. W. Allendorf.
+1999. Temporal changes in allele frequencies provide
+estimates of population bottleneck size. Conservation
+Biology 13:523-530. Luikart, G. L., F. W. Allendorf,
+J.-M. Cornuet, and W. B. Sherwin. 1998. Distortion of
+allele frequency distributions provides a test for recent
+population bottlenecks. Journal of Heredity 3:238-247.
+Piry, S., G. Luikart, and J.-M. Cornuet. 1999. BOT-
+TLENECK: a computer program for detecting recent
+reductions in the eﬀective population size using allele
+frequency data. J Hered 90:502-503.
+7- Dear Begona, A number of coalescent-based meth-
+ods can estimate the population size through time of
+a population using genetic data. This would allow you
+to measure the population size at the time of specia-
+tion. BEAST, GENIE, Mark Beaumont’s software and
+BATWING can all do this...
+8- Bego˜ na, Here’s an old one for a specialized case, but
+you may ﬁnd some ideas here: HILTON, H., R. M.
+KLIMAN, and J. HEY, 1994 ˆA Using hitchhiking genes
+to study adaptation and divergence during speciation
+within the Drosophila melanogaster species complex.
+Evolution 48:1900-1913 These guys used hitchiking to
+time the split between sister Drosophilas pp., as I recall.
+9- Bego˜ na, i did not see your original email nor the
+replies sent to you.So this may be something you are
+already aware of, but Laurent Excoﬃer has written
+the simulation software that you need. Its called SIM-
+COAL and is avail at http://cmpg.unibe.ch/software/-
+simcoal/ . With SIMCOAL you can specify times of
+divergence and changes in population size, and then
+generate molecular data under these conditions. Typi-
+cally what you would want to do is draw distributions
+(from the simulations) of common diversity
+/
+This message has been arbitrarily truncated at 5000 characters.
+To read the entire message look it up at http://life.biology.-
+mcmaster.ca/˜brian/evoldir.html34 EvolDir August 1, 2004
+Speciation bottleneck
+Dear colleagues,
+Does someone know a software to test for a bottle-
+neck at speciation either with microsatellite or sequence
+data?
+Thanks!
+Bego˜ na
+Bego˜ na Mart´ ınez-Cruz Phd Student Department of
+Applied Biology Estaci´ on Biol´ ogica de Do˜ nana Avda.
+Mar´ ıa Luisa s/n 41013 SEVILLA Spain Telf. +34 954
+232340 Fax +34 954 621125
+Bego˜ na Mart´ ınez Cruz <bemar@ebd.csic.es >
+Speciation bottleneck 2
+Dear all,
+Thank you very much for your quick answers. How-
+ever, what I am looking for is not to test for a recent
+bottleneck (as Bottleneck or M do) but for an histori-
+cal bottleneck, at the time of speciation of two closely
+related taxa. I am thinking in a software based on the
+coalescent model that simulates the split and estimates
+whether the divergence resulted in a bottleneck for the
+descendant species at the time of split.
+Thanks again,
+Bego˜ na
+Bego˜ na Mart´ ınez-Cruz Phd Student Department of
+Applied Biology Estaci´ on Biol´ ogica de Do˜ nana Avda.
+Mar´ ıa Luisa s/n 41013 SEVILLA Spain Telf. +34 954
+232340 Fax +34 954 621125
+Bego˜ na Mart´ ınez Cruz <bemar@ebd.csic.es >
+Tetraploid micros answers
+Dear Evoldir,Here are the responses I got for the questions regarding
+tetraploid microsatellite problem, which I posted in the
+forum about a month ago.I got some useful suggestions
+but in my opinion the problem is not yet completely
+solved. I am very much thankful to all of you who re-
+sponded my question.
+The question I posted was as following:
+Dear evoldir,
+I am a Ph.D. student in forest genetics and working
+with a forest tree species called sycamore (Acer pseu-
+doplatanus) which is a tetraploid species. I am using
+nuclear microsatellite marker to study the genetic struc-
+ture of above mentioned species. Since the species is
+tetraploid I am getting 1 to 4 bands per locus per sam-
+ple and to score alleles depending on dosage eﬀects is
+not working (diﬃcult to diﬀerentiate alleles). I am get-
+ting diﬃculties to interprate such types of bands. I
+would be grateful if anyone can suggest me how to in-
+terprate such types of bands and what types genetic
+variation parameter can be estimated from such types
+of data using which programme.
+ANSWERS:
+I already noticed your post at the EvolDir, but did not
+reply as I was a bit short on time and thought that
+others might also be able to help you. However, if you
+did not yet get the answers you needed, I can help you
+by giving my view on your problem.
+It was nice of Ruzica to suggest my program to you,
+but I am afraid it might not entirely what you are
+looking for, though it might be of use, depending on
+your research question. My program is in priciple
+meant for use with asexually reproducing species, and
+as most asexuals are polyploid, the program can han-
+dle polyploid data. Most of the program’s function-
+ality is rather useless if you are working on a sexual
+species. However, the program does allow you to cal-
+culate and export genetic distance matrices (also using
+Ruzica’s method). You can use this matrix then to
+make a tree (eg. UPGMA) and draw some conclusions
+from that or to do other things that people usually do
+with genetic distances. You can ﬁnd the program on
+www.science.uva.nl/ ˜ meirmans . More useful hoew-
+ever would be to forget about my program and do an
+Amova. In that case you might score your msats as
+if they were dominant markers and use these as an
+input ﬁle. Someone called JENCZEWSKI published
+something Amova’s on polyploids in Molecular Ecol-
+ogy in 1999, if I remember correctly, but those were on
+RAPDs. If you do want to use your data asd codomi-
+nant, you would have to think of a way to calculate aAugust 1, 2004 EvolDir 35
+chi-square distance matrix for your data to use as an
+input.
+Furthermore there is the excellent program called
+SPAGEDI, written by Olivier Hardy, that can calcu-
+late Fst using polyploid data. However the bias that
+arises from not knowing the dosage of your alleles is
+hard to asses, though I know people who have done Fst
+calculations on data from polyploids like that.
+Just out of interest: are all A. pseudoplatanus polyploid
+or are there also diploids somewhere? And something
+that has been b ugging me for quite sometime: is poly-
+ploidy as frequent in trees as it is in herbs? I never
+before heard of polyploid trees, though I never took
+the eﬀort to look for it...
+Hope I have helped you with this, if you have any fur-
+ther questions, don’t hesitate to ask.
+Greetings, Patrick
+Patrick G. Meirmans Institute for Biodiversity and
+Ecosystem Dynamics Evolutionary Botany University
+of Amsterdam Kruislaan 318 1098 SM Amsterdam The
+Netherlands
+Tel. +31 (0)20 525 7856 Fax. +31 (0)20 525 7832
+http://www.science.uva.nl/˜meirmans
+Hi,
+The short answer is:
+“There is no standard approach to population genetic
+stats in a polysomically inheriting polyploid in which
+you can’t identify allele dosage. The is certainly no
+software to do so.”
+However,
+If you can score allele dosage, then use Spagedi (Hardy
+and vekemans)
+If it has disomic inheritance, then I have an approach
+(and a beta of a text-interface program) that will give
+some statistics.
+My program will work with a polyploid with polysomic
+inheritance (i.e. give you numbers), but inference would
+be harder.
+I have attached the (very ’beta’) doumentation for my
+program. Included are some helpful references.Darren
+Darren Obbard Plant Sciences,Oxford (Currently re-
+siding in Norwich, UK) darren.obbard@plants.ox.ac.uk
+Mobile: +44 07968 838 635 Home: +44 01603 259 670
+I had exactly the same problem when I scored microstel-
+lites in a tetraploid Echium vulgare. I did not trust the
+estimation of number of copies of the alleles, based on
+the signal intensity. I ended up noting only the pres-
+ence or absence of ampliﬁed alleles. I wrote it in my
+primer note. Korbecka G, Vrieling K, Squirrell J, et al.
+(2003) Characterization of six microsatellite
+/
+This message has been arbitrarily truncated at 5000 characters.
+To read the entire message look it up at http://life.biology.-
+mcmaster.ca/˜brian/evoldir.html
+Water voles
+I have a Masters student who wishes to carry out a
+phylogeographic project on the water vole, Arvicola
+terrestris using cytochrome-b sequences. We would be
+very grateful if anybody could send us tissue samples
+(hair follicles, dried tissue...) from areas away from
+North Wales, UK. Please note that in the UK at least,
+a Home Oﬃce license is needed to collect tissue from
+live mammals so please check your national legislation!
+If you are PIT-tagging, we can get enough DNA from
+the hypodermic needle but we would need to supply
+you with appropriate presvation material.
+Thanks in advance.
+Chris
+–
+Dr. Chris Gliddon School of Biological Sciences Uni-
+versity of Wales, Bangor LL57 2UW United Kingdom
+Tel: +44 (0)1248 382533 FAX: +44 (0)1248 382569 Mo-
+bile: +44 (0)7941 06042336 EvolDir August 1, 2004
+PostDocs
+AlbertEinsteinCollegeMed EvolSystemsBiol . . . . . . . 36
+CornellU Drosophila Immunity . . . . . . . . . . . . . . . . . . . . 36
+Dublin GenomeEvolution . . . . . . . . . . . . . . . . . . . . . . . . . 37
+ETHZurich HostParasite . . . . . . . . . . . . . . . . . . . . . . . . . . 37
+Edinburgh AnimalBreeding . . . . . . . . . . . . . . . . . . . . . . . 37
+MidwesternU EvolPhysiology . . . . . . . . . . . . . . . . . . . . . . 38
+NatHistMuseum Polychaetes . . . . . . . . . . . . . . . . . . . . . . 38
+PortlandStateU PlantEvol . . . . . . . . . . . . . . . . . . . . . . . . . 39
+PurdueU MolEvol . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 39
+SUNYStonyBrook Genomics . . . . . . . . . . . . . . . . . . . . . . 39
+UArizona phylogenetics . . . . . . . . . . . . . . . . . . . . . . . . . . . 40
+UBritishColumbia Phylogenetics . . . . . . . . . . . . . . . . . . 40UCDavis PlantEvol . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 41
+UCIrvine SocialInsectGenetics . . . . . . . . . . . . . . . . . . . . . 41
+UCLA 2 EvolBiol . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 41
+UCSantaBarbara LabManager MatingSystemsEvol 42
+UCopenhagen GeneDiversity . . . . . . . . . . . . . . . . . . . . . . 43
+UGeorgia StatMathEpidemiology . . . . . . . . . . . . . . . . . . 43
+ULausanne Reproduction . . . . . . . . . . . . . . . . . . . . . . . . . 44
+USheﬃeld ConservationGenetics . . . . . . . . . . . . . . . . . . . 44
+USussex Postdoc . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 44
+UWalesBangor LizardSpeciationGenetics . . . . . . . . . . 45
+WashingtonU EvolBiol . . . . . . . . . . . . . . . . . . . . . . . . . . . . 45
+AlbertEinsteinCollegeMed
+EvolSystemsBiol
+Post Doctoral Research Fellow in Evolutionary Systems
+Biology Seaver Foundation Program in Bioinformatics,
+Albert Einstein College of Medicine,
+Postdoctoral research position is available in compu-
+tational/systems biology. The program’s focus is the
+study of complex gene networks and their evolution.
+Applicants could have skills in any of several areas of
+evolutionary, molecular, computational, or systems bi-
+ology and/or genetics, and development biology. We
+encourage applicants from any of these ﬁelds. We par-
+ticularly encourage applicants working on model organ-
+isms who are interested in strengthening their theoret-
+ical and computational scholarship.
+The position is available immediately and for the dura-
+tion of 1-3 years; Salary (in the range of $35K to $40K,
+plus beneﬁts) will be commensurate with experience.
+If interested, please send your curriculum vitae and
+the names of at least two references to: Prof. Aviv
+Bergman Department of Pathology Seaver Foundation
+Program in Bioinformatics, Albert Einstein College of
+Medicine, Jack and Pearl Resnick Campus, 1300 Morris
+Park Avenue, Bronx, NY 10461.
+E-mail: abergman@aecom.yu.edu
+– Aviv Bergman Ph.D. Professor Albert Einstein Col-
+lege of Medicine 1300 Morris Park Ave. (Belfer 902A)
+Bronx, NY 10461 Phone (718) 430-2942 Fax: (718) 430-
+8541 e-mail: abergman@aecom.yu.eduAviv Bergman <abergman@aecom.yu.edu >
+CornellU Drosophila Immunity
+POSTDOCTORAL POSITION
+An NSF funded postdoctoral position is available in
+Brian Lazzaro’s lab at Cornell University to study the
+evolution of innate immune responses in Drosophila.
+The successful applicant will be expected to develop his
+or her own research project, but possible broad topic
+areas include a) coevolution between Drosophila and
+its microbial pathogens, or b) the relationship between
+genetic and phenotypic variation in immunity. Ideal
+applicants will have a background in population genet-
+ics, quantitative genetics or evolutionary biology and
+will have some experience in insect immunity, microbi-
+ology, or Drosophila genetics. The Lazzaro lab is in the
+Cornell department of Entomology, and is physically
+and intellectually close to the departments of Molecu-
+lar Biology and Genetics and Ecology and Evolutionary
+Biology. The successful applicant will have the oppor-
+tunity to take advantage of these and other linkages
+across campus.
+Support for this position is available immediately, but
+start date is negotiable. Applications should include a
+CV, a brief statement of research interests and experi-
+ence, and contact information for three references.
+Applications and inquiries may be directed to: Brian
+Lazzaro, Ph.D. 4138 Comstock Hall Cornell University
+Ithaca, NY 14853August 1, 2004 EvolDir 37
+email: bl89@cornell.edu
+Cornell University is committed to creating a more di-
+verse and inclusive campus in which to work, study,
+teach and serve.
+Dublin GenomeEvolution
+Bioinformatics / Molecular Evolution
+Postdoctoral Opportunities
+Postdoctoral fellowships are available in Prof. Ken
+Wolfe’s group at Trinity College Dublin (Ireland). The
+projects will involve using bioinformatics and compar-
+ative genomics methods to study genome evolution in
+eukaryotes. Particular interests in the lab include the
+evolution of polyploid species, clustering of functionally
+related genes, and fungal genomics.
+These fellowships form part of a 5-year research pro-
+gramme supported by Science Foundation Ireland. For
+further information about the lab, see wolfe.gen.tcd.ie.
+Very competitive salaries will be available for outstand-
+ing applicants.
+Previous experience in molecular evolution, bioinfor-
+matics, and/or computer programming experience in C
+/ Perl / SQL is essential. Candidates should submit a
+cover letter and curriculum vitae, including the names
+of two referees, by mail or e-mail to: Prof. Kenneth H.
+Wolfe, Department of Genetics, Smurﬁt Institute, Trin-
+ity College, Dublin 2, Ireland (Tel. +353 1 6081253; e-
+mail khwolfe@tcd.ie). Informal enquiries are welcome.
+Closing date 8 August 2004.
+Trinity College is an Equal Opportunities Employer.
+ETHZurich HostParasite
+POST-DOC POSITION Evolutionary ecology of host-
+parasite interactions ETH Zurich
+In the group of Ecology & Evolution (Experimental
+Ecology, P. Schmid-Hempel) a post-doc position will
+be available by 2005. The project is on the evolution-
+ary ecology of host-parasite interactions, either on ques-
+tions of immune defence strategies, or on the problem
+of genetic interactions, depending on interest and qual-iﬁcation. It most likely will use our established model
+system (bumble bees and their parasites). Experience
+in molecular techniques is advantageous. Salary accord-
+ing to local scale; starting date negotiable, the position
+is for 2 years and may be extendable. More informa-
+tion on www.eco.ethz.ch and by email (psh@env.ethz.ch
+- after 15 Aug). Review of pplications with CV, publi-
+cation list and addresses of referees starts 25 Sept 2004.
+Prof. Paul Schmid-Hempel ETH Zurich, Ecol-
+ogy & Evolution ETH-Zentrum NW CH-8092 Zurich
+Ph: +41 1 633 6033 or 6048 Fax: +41 1 632
+1271 psh@env.ethz.ch www.eco.ethz.ch Paul Schmid-
+Hempel <psh@env.ethz.ch >
+Edinburgh AnimalBreeding
+RESEARCHER, ANIMAL BREEDING & GENETICS
+Scottish Agricultural College, EDINBURGH, UK
+SAC, in conjunction with the Roslin Institute, are seek-
+ing a postgraduate with experience in animal breeding
+or quantitative genetics to work on a project aimed to
+investigate the links between breeding for scrapie re-
+sistance and economically important production and
+health traits in sheep.
+The successful candidate will join a multidisciplinary
+team researching the optimal breeding strategies for
+scrapie resistance in the context of an overall genetic
+improvement programme. The post is available for 3
+years.
+Candidates should hold a postgraduate qualiﬁcation in
+animal breeding, quantitative genetics or a closely re-
+lated discipline. Strong communication, computer and
+mathematical/statistical skills are required. Knowledge
+in epidemiological modelling and animal breeding in-
+dustry and database management skills will be an ad-
+vantage.
+The salary will be in the region of £19,585 - £32,995 per
+annum. A ﬁnal salary Pension Scheme is in operation.
+Applications close 16 August 2004.
+For further details and application packs see our web-
+site: http://www.sac.ac.uk/jobvacancies . Application
+packs are also available from Human Resources, Scot-
+tish Agricultural College, West Mains Road, Edinburgh
+EH9 3JG, UK.
+Tel: (+44) 0131 535 4343 (answering machine), Fax:38 EvolDir August 1, 2004
+(+44) 0131 535 4322, HumanResources@ed.sac.ac.uk.
+Please quote reference R&D/SLS/103/04.
+***********
+Loeske Kruuk Institute of Cell, Animal and Population
+Biology University of Edinburgh Edinburgh EH9 3JT,
+UK Tel. (44) 131 650 5515 Fax (44) 131 650 6564
+***********
+Loeske Kruuk <Loeske.Kruuk@ed.ac.uk >
+MidwesternU EvolPhysiology
+POST-DOCTORAL POSITION IN EVOLUTION-
+ARY PHYSIOLOGY
+An NSF-funded postdoctoral position is immediately
+available for an individual interested in examining the
+evolution of respiratory patterns of terrestrial insects.
+The project is broadly comparative and will include in-
+sects from Arizona and southern Africa. This study will
+be conducted under the guidance of Dr. Michael Quin-
+lan (Midwestern University) and Dr. Allen Gibbs (Uni-
+versity of Nevada at Las Vegas). Dr. Steven Chown
+(University of Stellenbosch, South Africa) is a collab-
+orator on this project and will provide access to the
+African species. The successful candidate will be based
+primarily in the Phoenix area, though he or she will
+be expected to travel to UNLV on occasion. Money
+is available for some travel to the Chown lab at the
+University of Stellenbosch.
+Candidates having experience in one or more of the fol-
+lowing areas will be given preference: (1) respiratory
+physiology, especially of terrestrial invertebrates, (2)
+phylogenetic comparisons of physiological traits, and
+(3) insect metabolism and water balance. A Ph.D.
+in biology or a related discipline is required. Initial
+appointment will be for one year and is renewable
+upon satisfactory performance. Applicants must sub-
+mit a complete curriculum vitae and names and con-
+tact information for two references to Michael Quin-
+lan, Department of Basic Science, Midwestern Univer-
+sity, 19555 N. 59th Ave, Glendale, AZ 85308 (email
+mquinl@midwestern.edu). Review of applications will
+begin immediately.
+Persons interested in this position may also contact
+Allen Gibbs (agibbs@arl.arizona.edu) for more infor-
+mation.NatHistMuseum Polychaetes
+Department of Zoology The Natural History Museum
+Post-Doctoral Research Assistant Polychaete Research
+Group Salary to £23,000
+Molecular genetics of deep-sea polychaetes A 6-month
+research position is available to study polychaete worms
+collected from deep-sea chemosynthetic habitats on the
+California Slope. These habitats include hydrothermal
+vents, whale-carcasses, kelp-parcels and wood-parcels.
+The aim of the project is to obtain a variety of nuclear
+and mitochondrial DNA sequences in order to address
+questions regarding the degree of gene-ﬂow between
+these ephemeral island’ habitats, the genetic structure
+of their populations and the phylogenetic position of the
+species that occupy them. One of the main goals of the
+project is to examine the linkages between chemosyn-
+thetic habitats of geologic origin (such as hydrothermal
+vents and seeps) and those of biogenic origin (such as
+whale-carcasses). A skilled molecular biologist, with
+sound knowledge of phylogenetic, phylogeographic or
+population genetic analysis is required. Knowledge of
+deep-sea ecology and polychaete taxonomy is not re-
+quired, but would be desirable. Although the specimens
+for the project have already been collected, there will
+be an opportunity to collect more on an oceanographic
+research cruise on the California slope.
+This project will be jointly supervised by Dr Adrian
+Glover (The Natural History Museum), Dr Thomas
+Dahlgren (Tj¨ arn¨ o Marine Biological Laboratory, Swe-
+den) and Prof Craig Smith (University of Hawaii).
+For full details of requirements, a full job description
+and equal opportunities form please Email: PDRA@hs-
+scientiﬁc.co.uk, or write to: The Natural History Mu-
+seum, c/o Hudson Shribman Scientiﬁc Recruitment,
+Vernon House, Sicilian Ave, London, WC1A 2QS. Ap-
+plication will be by CV & covering letter including a
+summary of your research interests.
+Closing date: 20th August 2004. Dr Adrian
+Glover Zoology Department The Natural History Mu-
+seum Cromwell Rd, London SW7 5BD, U.K.
+020 7942 5056 (oﬃce) 077 666 484 40 (mobile)
+http://homepage.mac.com/adrianglover http://-
+homepage.mac.com/adriangloverAugust 1, 2004 EvolDir 39
+PortlandStateU PlantEvol
+Post-Doctoral Position in the Evolutionary Ecology of
+Invasive Plants
+A post-doctoral position is available for studies of
+life history evolution in a newly invasive grass in the
+Willamette Valley of Oregon. The work will focus on
+examining evolutionary changes associated with range
+expansion and the transition to an aggressive-invasive
+life history. The work includes a mixture of ﬁeld and
+greenhouse studies with opportunities to participate in
+genetic marker analyses and to develop related projects
+of mutual interest. An individual with a background
+in plant ecology and ﬁeld biology, and an interest in
+molecular markers would be particularly suitable for
+this position.
+The work will be conducted at Portland State Uni-
+versity and at nearby ﬁeld sites in and around the
+Willamette Valley. The successful candidate will join
+an active group of graduate and undergraduate stu-
+dents in the Plant Ecological Genetics lab at PSU
+(http://web.pdx.edu/ ˜ cruzan/ ), and will have the
+opportunity to participate in genetic marker stud-
+ies in collaboration with Alisa Ramakrishnan ( http:/-
+/web.pdx.edu/%7Eramakris/index.htm ). Opportuni-
+ties for interactions and collaborations with a broad
+range of faculty, post-docs, and graduate students
+are available in the Department of Biology ( http://-
+www.bio.pdx.edu/ ), and in related departments at PSU
+and local colleges in Portland.
+Interested applicants should send a CV, statement of
+research interests, and a list of three referees to Mitch
+Cruzan (Cruzan@pdx.edu).
+If you are interested in this position and plan to attend
+the Ecological Society of America meetings in Portland
+next month please contact me so we can arrange a time
+to meet.
+–
+Mitch Cruzan, Associate Professor Department of Bi-
+ology Portland State University, Box 751 Portland, OR
+97207 Phone: 503-725-8391 Fax: 503-725-3888 Web-
+page:<http://web.pdx.edu/˜cruzan/ >PurdueU MolEvol
+A postdoc position in evolutionary genetics is avail-
+able at Purdue University. The successful applicant
+will be highly motivated to develop one of several
+projects in molecular evolution, population genetics,
+or genetic parentage assessment. Demonstrated exper-
+tise in computer programming, automated DNA se-
+quencers, and/or microarrays is required. Purdue is
+a large university ( >38,000 students) and collabora-
+tions with colleagues are common. Salary and ben-
+eﬁts are very competitive. Interested parties should
+send a current CV, relevant reprints, and a statement
+of research interests & experience to Andrew DeWoody
+(dewoody@purdue.edu), Dept. of Forestry & Natural
+Resources, Purdue University, West Lafayette Indiana.
+International applicants will be considered if they hold
+the correct visa(s). Women and minorities are encour-
+aged to apply. Purdue University is an equal opportu-
+nity employer.
+SUNYStonyBrook Genomics
+Postdoc in metabolic genomics and molecular evolution
+An NIH supported postdoctoral position is available to
+work on the molecular evolution, population genetics,
+physiology, and functional genomics of metabolic genes
+in Drosophila. The position is for two years and is avail-
+able starting immediately, although there is ﬂexibility
+in any start date.
+Applicants could possess skills in any of several areas in-
+cluding Drosophila genetics, molecular evolution, pop-
+ulation genetics, or physiological genetics.
+If interested please contact Walt Eanes, Department of
+Ecology and Evolution, Stony Brook University, Stony
+Brook, NY 11794 or e-mail walter@life.bio.sunysb.edu.
+Walter F. Eanes Professor Dept. of Ecology and Evo-
+lution State University of New York Stony Brook, New
+York 11794
+weanes@notes.cc.sunysb.edu40 EvolDir August 1, 2004
+UArizona phylogenetics
+Judith Becerra and I have postdoc funding for someone
+who can work with us on comparative ecology in a phy-
+logenetic framework. The subject areas are plant-insect
+interactions and evolution of plant adaptive traits. Ide-
+ally we want someone who has familiarity and experi-
+ence working with the theory and software used in phy-
+logenetic comparative biology. A good background in
+statistics and computer programming would be a plus.
+This is a one or two year position, with possibility of
+renewal for a third. We have a very strong program
+in ecology and evolutionary biology with may grad stu-
+dents and postdocs, making this a good environment for
+postdoctoral work. Please contact us at Judith Becerra
+<becerra@Ag.arizona.edu >or venable@u.arizona.edu
+The website with the job posting is:
+www.UACareerTrack.com/ . Look under Postdocs,
+Ecology and Evolutionary Biology.
+-Larry Venable and Judith Becerra Departments
+of Ecology & Evolutionary Biology and En-
+tomology University of Arizona Our websites:
+http://eebweb.arizona.edu/faculty/venable/ http://-
+eebweb.arizona.edu/Faculty/Becerra/ Larry Venable
+<venable@email.arizona.edu >
+UBritishColumbia Phylogenetics
+Computational phylogenetics postdoctoral position
+available in the laboratory of Wayne Maddison at the
+University of British Columbia
+We seek a postdoctoral computational biologist or
+computer scientist to contribute to the NSF-funded
+CIPRes project (Cyber Infrastructure for Phylogenetic
+Research, http://www.phylo.org ). The CIPRes project
+is developing a software framework to enable larger and
+more ﬂexible phylogenetics analyses through a modu-
+lar architecture and distributed computing. Candidates
+should be skilled in programming in Java, C++ or re-
+lated languages. Ideally, the successful candidate would
+also be conversant in evolutionary biology.
+The particular duties of this postdoc will be to par-ticipate in the design and programming of (1) the
+general CIPRes framework and (2) Mesquite, http:/-
+/www.mesquiteproject.org . Work on the framework
+will focus on the design of intermodule communication.
+Work on Mesquite will have as goals both the integra-
+tion of Mesquite into the CIPRes system and improve-
+ment of Mesquite’s analytical capabilities. Mesquite’s
+modules span diverse areas of evolutionary analysis,
+from simulations of molecular evolution, to population
+genetics and coalescence, morphometrics and compara-
+tive method, and likelihood ancestral state reconstruc-
+tion. Which area is the target of improvement may
+depend on the background and interests of the candi-
+date.
+Starting date can be as early as September 2004. Salary
+is US$30,000, plus beneﬁts. Funding is available for 3
+years; whether we oﬀer 1, 2 or 3 years to the success-
+ful candidate is a subject for negotiation. The Uni-
+versity of British Columbia ( http://www.ubc.ca ) is lo-
+cated in Vancouver, Canada, a beautiful city nestled be-
+tween mountains and sea ( http://www.ubc.ca/about/-
+vancouver.html ).
+To apply, send to me (wmad-
+disn@interchange.ubc.ca and cc’d to Karen Needham
+<needham@zoology.ubc.ca >) the following: (1) your
+curriculum vitae, (2) statement of research interests,
+(3) statement of expertise relevant for this project, and
+(4) the names of 3 referees and their email addresses.
+Application review will commence as early as August
+1 and continue until the position is ﬁlled.
+I will be in the ﬁeld for the month of July; if you have
+questions please send email both to me and to Karen
+Needham (needham@zoology.ubc.ca).
+–
+——————————————————–
+Wayne Maddison Professor and Canada Research Chair
+Departments of Zoology and Botany 6270 University
+Boulevard University of British Columbia Vancouver,
+BC V6T 1Z4 Canada
+email: wmaddisn@interchange.ubc.ca FAX: (604) 822-
+2416
+Mesquite: http://mesquiteproject.org MacClade:
+http://macclade.org Salticidae: http://salticidae.org
+Tree of Life: http://tolweb.org Home page: http://-
+salticidae.org/wpm/home.html
+UCDavis PlantEvolAugust 1, 2004 EvolDir 41
+Post-Doc on the Evolutionary Genetics of the Invasive
+Barbed Goatgrass
+A two-year post-doctoral position at UC Davis is avail-
+able as part of a project funded by the USDA to
+study range expansion of the invasive barbed goatgrass
+(Aegilops triuncialis). The major focus of the post-
+doctoral research will involve using a variety of molec-
+ular approaches to quantify the genetic bottleneck in-
+volved in the introduction into California, and to exam-
+ine the biogeography of invasive lineages in their native
+range. In addition, because barbed goatgrass is an al-
+lotetraploid with multiple origins, this system is ideal
+to address questions relating to polyploid speciation.
+We are looking for a highly motivated individual with
+a Ph.D. degree and with the demonstrated ability
+to carry out outstanding research. The successful
+candidate must have substantial experience in high-
+throughput genotyping and a strong record in popu-
+lation genetic and phylogenetic analyses. We also em-
+phasize the ability to interact and work collaboratively
+with others, as the post-doc will work closely with a
+technician and undergraduate researchers. In addition
+to the molecular ecology, the project as a whole involves
+substantial quantitative genetic and ecological genetic
+experiments. While no experience in this area is re-
+quired, the candidate can expect to hone their expertise
+in ﬁeld demography.
+The position is available 1 October 2004, but the start
+is ﬂexible to some degree. Salary and beneﬁts are com-
+petitive, and UC Davis is an excellent academic envi-
+ronment for a post-doc in plant evolutionary biology
+and species invasions. Our lab group has excellent in-
+teractions with our colleagues in plant physiology, evo-
+lutionary genetics and molecular biology.
+We will begin reviewing applications on September 1
+2004. Please send a letter of interest and a C.V., and
+the names and contact information for three references
+to:
+Prof. Kevin Rice, Agronomy and Range Science One
+Shields Ave, University of California Davis, Davis, CA
+95616 kjrice@ucdavis.edu
+UCIrvine SocialInsectGenetics
+POSTDOCTORAL POSITION - Genetics and behav-
+ior of social insects.
+The Department of Ecology & Evolutionary Biologyat UC Irvine is currently seeking a Postdoctoral Re-
+searcher in the laboratory of Dr. Neil Tsutsui.
+We are seeking a Postdoctoral Researcher to study the
+genetics, behavior, and social structure of social insects.
+Previous work has focused on the invasive (but charis-
+matic) Argentine ant (Linepithema humile). In this
+species, genetic changes during introduction have al-
+tered individual behavior and, in turn, the social or-
+ganization of introduced populations. These changes
+have contributed to the Argentine ant’s invasive success
+by promoting the formation of massive “supercolonies”
+in the introduced range. Future research will explore
+the ontogenetic and biochemical components of nest-
+mate recognition in both invasive and non-invasive so-
+cial insects. Publications from previous research can be
+downloaded from http://tsutsuilab.bio.uci.edu/ The
+successful applicant must have a strong background
+in molecular techniques, population genetics and data
+analysis, and previous experience in behavioral ecology
+is desired. Salary will be commensurate with experi-
+ence. Generous beneﬁts are included.
+Review of candidates and applications will begin Aug.
+8, 2004. Applicants should submit a curriculum vita,
+a brief statement of research interests, and the name,
+address and phone number of two references to:
+Dr. Neil D. Tsutsui Department of Ecology and Evolu-
+tionary Biology 321 Steinhaus Hall University of Cali-
+fornia, Irvine Irvine, CA 92697-2525
+Applications or queries can also be sent to: ntsut-
+sui@uci.edu.
+UCLA 2 EvolBiol
+TWO POSTDOCTORAL POSITIONS AT UCLA
+Two postdoctoral positions are available in the Cen-
+ter for Tropical Research, Institute of the Environment
+and the Department of Ecology and Evolutionary Bi-
+ology at UCLA. We are seeking two broadly trained
+evolutionary biologists with strong backgrounds in the
+application of molecular genetic techniques to natural
+populations. The positions are available for one year
+with the possibility of renewal.
+EVOLUTIONARY PROCESSES AND CONSERVA-
+TION - We are particularly interested in evolution-
+ary biologists and ecologists with experience working
+at the intra-speciﬁc level and with broad knowledge of
+molecular genetic techniques, especially the application42 EvolDir August 1, 2004
+AFLPs. The successful candidate will work as part of
+an interdisciplinary team investigating the evolution-
+ary processes that give rise to and maintain biologi-
+cal diversity in the western Amazonian region of South
+America, especially Ecuador. The ultimate aim of the
+investigation is to develop a model that can integrate
+biological point locality and process data (e.g., genetic
+and morphological information and estimates of con-
+nectivity among populations) with remotely sensed en-
+vironmental parameters to quantify patterns of species
+range and diversity in tropical regions. These data will
+be combined with data from other taxa to prioritize
+areas for conservation eﬀorts.
+ECOLOGY OF AVIAN DISEASES - The successful
+candidate will work as part of an interdisciplinary team
+investigating the eﬀects of deforestation on the preva-
+lence of blood-borne pathogens in African rainforest
+birds. Using existing CTR samples, as well as collecting
+new ones, and using PCR-based detection methods and
+molecular phylogenetics, the candidate will work col-
+laboratively investigating how long-term anthropogenic
+changes in habitats aﬀect the prevalence of infectious
+diseases in natural populations. The three main objec-
+tives of the study are to: 1) determine how pathogen
+prevalence changes over time within diﬀering rainfor-
+est habitats, some of which have remained unaltered,
+and some of which have gone through habitat conver-
+sion, 2) determine the host- and habitat- speciﬁcities
+of blood-borne pathogens to assess the degree of host-
+switching that may occur in diﬀering habitats, and 3)
+determine, using remote sensing data, the environmen-
+tal variables that best correlate with pathogen preva-
+lence and develop models that will aid in the prediction
+of how ecological change will aﬀect disease prevalence
+and the likelihood of host switching.
+The postdoctoral fellows will also have the opportu-
+nity to explore broader questions related to population
+diversiﬁcation and microevolutionary processes. They
+will be expected to interact and collaborate with post-
+doctoral researchers and graduate students working on
+a broad range of ecological and evolutionary projects.
+Other Center for Tropical Research projects include: 1)
+investigations of the mechanisms of speciation, 2) pop-
+ulation structure and conservation of migrant birds and
+connectivity, and 3) seed dispersal and forest regenera-
+tion. Interested candidates should mail or e-mail a CV,
+a brief description of research interests, and names and
+contact information for three references to:
+Thomas B. Smith, Ph.D. Professor, Ecology and Evolu-
+tionary Biology (formerly Organismic Biology, Ecology,
+and Evolution) Director, Center for Tropical Research
+Institute of the Environment University of California,
+Los Angeles 1609 Hershey Hall Box 951496 Los Ange-les, CA 90095-1496 USA
+E-mail: tbsmith@ucla.edu Phone: (310) 206-6234
+Fax: (310) 825-5446 http://www.ioe.ucla.edu/-
+ctr and http://www.obee.ucla.edu/ tbsmith
+<tbsmith@obee.ucla.edu >
+UCSantaBarbara LabManager
+MatingSystemsEvol
+Postdoctoral Research/Lab Manager Position Depart-
+ment of Ecology, Evolution and Marine Biology Mazer
+Lab University of California, Santa Barbara
+Life History, Developmental, and Mating System Evo-
+lution in the genus Clarkia (Onagraceae)
+A 12-month lab manager/research position beginning in
+January 2005 is available to supervise a comprehensive
+greenhouse experiment while the principal investigator
+is on leave as Program Director at the National Science
+Foundation. The optimal candidate will also partici-
+pate fully in the data management, statistical analy-
+sis, and anticipated publication of this work. While
+a postdoctoral candidate is the most desirable, other
+candidates with suﬃcient research, laboratory, statisti-
+cal and leadership experience will also be considered.
+An individual with a background in plant evolution-
+ary ecology, quantitative genetics, statistical analysis
+of multivariate data, and plant development would be
+particularly suitable for this position.
+The successful candidate will direct and conduct a com-
+parative greenhouse study to measure genetic and on-
+togenetic components of gender allocation in two sub-
+species of Clarkia xantiana (Onagraceae): the predom-
+inantly outcrossing C. xantiana ssp. xantiana, and the
+predominantly selﬁng C. xantiana ssp. parviﬂora (see
+attachment for lovely photos!) The work is also de-
+signed to seek evidence for evolutionary constraints on
+life history and ﬂoral development rates by estimating
+the genetically based correlation between rates of in-
+dividual and ﬂoral development. Experience in image
+analysis and in automated pollen-counting is desirable
+but not necessary (training will be provided).
+The candidate will be expected to recruit and to su-
+pervise 6 - 10 undergraduate assistants at UCSB who
+will participate as research-for-credit interns, assisting
+in sample-collection and - processing in the greenhouse
+and lab. Depending on the experience of the candi-
+date, there may be the opportunity to teach courses inAugust 1, 2004 EvolDir 43
+Botany and Introductory Biology (for additional com-
+pensation).
+The work will be conducted at the University
+of California, Santa Barbara. The successful
+candidate will join an active group of gradu-
+ate and undergraduate students in the Depart-
+ment of Ecology, Evolution, and Marine Biology
+at UCSB ( http://www.lifesci.ucsb.edu/eemb/faculty/-
+mazer/index.html ), and will have the opportunity to
+develop independent or collaborative research.
+Anticipated annual salary: ~$34,400 with beneﬁts (with
+no teaching responsibilities); $38,000 - $44,000 with
+beneﬁts (with one or two one-quarter courses to teach;
+a PhD. and experience teaching plant biology are re-
+quired).
+Interested applicants should send a CV, state-
+ment of research interests, and a list of three
+referees (with e-mail addresses and telephone num-
+bers ) to Susan Mazer (mazer@lifesci.ucsb.edu
+<mailto:mazer@lifesci.ucsb.edu > and
+smazer@nsf.gov). You may also reach me by phone at:
+703-292-7121. In addition, if you plan to attend the
+Ecological Society of America meetings in Portland
+during August 1 - 6, 2004, please contact me so we can
+arrange a time to meet.
+Dr. Susan J. Mazer Program Director Ecological Stud-
+ies Cluster (BIO/DEB) Ecology Program National Sci-
+ence Foundation 4201 Wilson Blvd., rm 614 Arlington,
+VA 22230 Phone: 703-292-7121 FAX: 800-208-8980
+UCopenhagen GeneDiversity
+A post doc position is available at the Department of
+Evolutionary Biology, University of Copenhagen.
+January 2003 the Carlsberg Foundation granted 5 years
+of support for the project Molecular Diversity and Evo-
+lution. The grant includes 10 post doc years, 2 PhD
+stipends and running costs.
+The project has two major components: 1. Evolution of
+processes responsible for gene product diversity. Focus
+will initially be upon alternative splicing in evolution
+and 2. Evolution of regulatory networks based on non-
+coding RNA. The overall perspective for these studies
+is the molecular evolution of organism complexity. The
+intention of this research is to better understand the re-
+lationship between phenotypic evolutionary change and
+the evolution of basic molecular processes. The projectwill focus upon molecular experimentation in collabo-
+ration with on-site bioinformaticians.
+With this post doc position we speciﬁcally wish to focus
+on diﬀerential splicing and its regulation. The candi-
+date will be responsible for the experimental work in
+this connection and supervision of PhD and Msc stu-
+dents. The project is internationally well connected and
+is in a strong bioinformatic and molecular environment.
+The Post doc is potentially for 3 years with a yearly
+renewal. There is a three month probation.
+The position is open until ﬁlled. Send applications to:
+Professor Peter Arctander, parctander@zi.ku.dk
+Information on Danish post doc and PhD rules and reg-
+ulations, including salaries and taxation, are available
+athttp://www.ku.dk/english/ Further information
+from Professor Peter Arctander, parctander@zi.ku.dk
++45 2875 1310 Department of Evolutionary Biology,
+Universitetsparken 15, DK-2100 Copenhagen ?, Den-
+mark
+Arctander <Parctander@bi.ku.dk >
+UGeorgia StatMathEpidemiology
+Postdoctoral Research Associate Institute of Ecology,
+University of Georgia, USA
+Applications are invited for a postdoctoral fellowship
+in Statistical and Mathematical Epidemiology, funded
+by the National Science Foundation. The successful
+applicant will be involved in the development of novel
+statistical and time-series methods to explore potential
+interactions between diseases in epidemiological data.
+Initially, the project will focus on childhood infections
+in Europe and the USA, but there is scope for studying
+other candidate infections in various locations around
+the globe.
+A PhD in statistics, applied mathematics or a highly
+quantitative ﬁeld is essential. Previous experience in
+the analysis of ecological or epidemiological systems
+would be desirable though not essential.
+The position is for three years with a salary of $35,000
+per year, plus fringe beneﬁts.
+Informal enquiries may be addressed to
+Pej Rohani +1 706 542 9249, e-mail:
+<mailto:rohani@uga.edu >rohani@uga.edu.
+Candidates should send a detailed CV, together with a44 EvolDir August 1, 2004
+statement of research interests and three references to
+Pej Rohani, Institute of Ecology, University of Georgia,
+Athens GA 30602. Electronic applications are encour-
+aged.
+Review of applications will start on August 30 and will
+continue until a suitable candidate has been identiﬁed.
+Pejman Rohani <rohani@uga.edu >
+ULausanne Reproduction
+A postdoctoral position is available to work on the evo-
+lution of reproductive traits in the dioecious Silene lat-
+ifolia ( http://www.unil.ch/dee/page7005 en.html ) at
+the University of Lausanne. The position is for 18
+months and is available from October 1st or later.
+Applicants could have skills and interests in any of sev-
+eral areas of evolutionary ecology of plants (mating sys-
+tem evolution, pollination biology, population genet-
+ics).
+If interested, please contact
+Dr. G. Bernasconi Swiss NSF Professorial Fellow Cur-
+rent address: Institute of environmental Sciences Uni-
+versity of Zurich Winterthurerstr. 190 CH 8057 Zurich
+Switzerland Email: bernasco@uwinst.unizh.ch
+Application deadline: 15th August 2004 For application
+please send: CV, publication list, name and address of
+two referees.
+The Department of Ecology and Evolution of the
+University of Lausanne, Switzerland, provides a very
+lively intellectual and social environment ( http://-
+www.unil.ch/dee/page5090 en.html ).
+Lausanne, located in Switzerland at the shore of Lake
+Geneva, oﬀers very high quality of life and outstand-
+ingly beautiful surroundings (Alps, Jura mountains,
+Lake; see http://www.lausanne-tourisme.ch/ ).
+USheﬃeld ConservationGenetics
+UNIVERSITY OF SHEFFIELD
+DEPARTMENT OF ANIMAL & PLANT SCIENCESThe following post was advertised (with others) in New
+Scientist on 19 June:
+The UK Population Biology Network (UKPopNet) is
+a network of ﬁve Universities (Aberdeen, East Anglia,
+Leeds, Sheﬃeld, York) and the Centre for Ecology and
+Hydrology. It is funded by NERC with additional sup-
+port from English Nature to develop research in popu-
+lation biology in the UK. As part of a three-year pro-
+gramme of projects, network members are currently
+seeking to recruit staﬀ.
+This post will investigate the genetic signiﬁcance, sus-
+tainability and adaptive potential of declining popula-
+tions of plants and animals (primarily insects) using
+molecular markers. The appointee must have a PhD
+and experience in molecular and evolutionary genetics.
+The post is full time for 1 year initially and is avail-
+able from 1 October 2004. Funding is expected to be
+available for a further 2 years.
+For further details go to: http://www.shef.ac.uk/jobs/-
+jobdetails.php?ﬁle=job list&ID=2411&start=16
+Post reference no. PR1056
+Closing date 09 July 2004
+Informal enquiries may be addressed to Terry Burke
+(t.a.burke@sheﬃeld.ac.uk / +44(0)114 222 0096)
+– –
+USussex Postdoc
+The University of Sussex is seeking nominations for
+two 9-10 month Leverhulme Post-doc positions. These
+are open to non-UK citizens and can be taken up as
+late as feb 2006. Unfortunately we need to nominate
+someone by july 26th. If you are interested in being
+nominated to work with David Waxman, Joel Peck,
+Lindell Bromham or Adam Eyre-Walker within the
+Evolution Group at Sussex, then please contact Adam
+Eyre-Walker (a.c.eyre-walker@sussex.ac.uk). More de-
+tails about the group can be found at http://-
+www.lifesci.sussex.ac.uk/CSE/ and about the fellow-
+ship at http://www.leverhulme.org.uk/grants awards/-
+grants/visiting fellowships/ Adam Eyre-Walker Centre
+for the Study of Evolution & School of Biological Sci-
+ences University of Sussex Brighton BN1 9QG
+tel : 01273 678480 tel : 01273 678480August 1, 2004 EvolDir 45
+UWalesBangor
+LizardSpeciationGenetics
+UWales Bangor . Lizard Speciation Genetics
+Postdoctoral position in speciation/population genetics
+of Caribbean anoles.
+The BBSRC funded position in Prof R S Thorpe?s lab-
+oratory is available for three years from 1/10/04, or
+as soon as possible thereafter, for someone with a PhD
+in molecular ecology/evolution and experience of devel-
+oping/screening nuclear markers such as microsatellites
+and SNPS. The post involves substantial ﬁeldwork in
+the southern Lesser Antilles, molecular laboratory work
+and data analysis. Application forms from Human Re-
+sources, University of Wales Bangor, Gwynedd, LL57
+2DG. Closing date 19/08/04. Further information on
+http://biology.bangor.ac.uk/research/opportunities/ –
+Professor R S Thorpe School of Biological Sciences Uni-
+versity of Wales Bangor Gwynedd LL57 2UW
+Tel 01248 382312 Fax 01248 371644 email
+r.s.thorpe@bangor.ac.uk
+“Prof. R S Thorpe” <r.s.thorpe@bangor.ac.uk >
+WashingtonU EvolBiolThis is a second notice, but note the addition of a
+second position. ———- 2 POSTDOCTORAL FEL-
+LOWS WASHINGTON UNIVERSITY in ST. LOUIS
+TYSON RESEARCH CENTER Washington Univer-
+sity in St. Louis, Missouri invites applications for two
+[2] Postdoctoral Fellowships in Ecology, Environmental
+Sciences, or Evolutionary Biology to be based at the
+Tyson Research Center, a 2,000-acre tract of land lo-
+cated 20 miles from campus. The fellows will be respon-
+sible for developing research programs independently or
+in conjunction with Washington University faculty and
+involving undergraduates in research conducted at the
+Center. In addition, the fellows will be expected to
+teach one course during the school year. One fellow
+will teach Conservation Biology, and this position can
+start no later than Jan. 1, 2005. The other fellow will
+teach a course to be determined later and can start
+no later than June 2005. More information on Tyson
+can be found at http://www.biology.wustl.edu/tyson/-
+. Applicants should include a curriculum vitae and a
+statement of the research to be conducted at the Center,
+and arrange to have two letters of recommendation sent
+on the applicant’s behalf. In addition, state which posi-
+tion and start time interests you most, and what sort of
+ﬂexibility you have. If applying for the second position,
+also include a brief statement of the course you might
+teach. All materials should be sent electronically to
+Jonathan Losos, Ph.D., (losos@biology.wustl.edu), and
+to Jon Chase, Ph.D. (jchase@biology2.wustl.edu). Ap-
+plicant review will begin July 31 and continue until the
+positions are ﬁlled. Washington University is an Equal
+Opportunity Employer.
+Jonathan Chase <jchase@biology2.wustl.edu >
+WorkshopsCourses
+ColdSpringHarbor ComputationalGenomics Nov5-11
+46
+Denmark Hybridization Nov27-30 . . . . . . . . . . . . . . . . . 46UFribourg ExperimentalEvol Oct4-5 . . . . . . . . . . . . . . 4746 EvolDir August 1, 2004
+ColdSpringHarbor
+ComputationalGenomics Nov5-11
+Course announcement - Application deadline, July 15,
+2004
+===
+Cold Spring Harbor COMPUTATIONAL GENOMICS
+NOVEMBER 5 - 11, 2003
+INSTRUCTORS:
+Pearson, William, Ph.D., University of Virginia, Char-
+lottesville, VA Smith, Randall, Ph.D., SmithKline
+Beecham Pharmaceuticals, King of Prussia, PA
+Beyond BLAST and FASTA - This course presents
+a comprehensive overview of the theory and practice
+of computational methods for gene identiﬁcation and
+characterization from DNA sequence data. The course
+focuses on approaches for extracting the maximum
+amount of information from protein and DNA sequence
+similarity through sequence database searches, statisti-
+cal analysis, and multiple sequence alignment. Addi-
+tional topics include gene recognition (exon/intron pre-
+diction), identifying signals in unaligned sequences, and
+integration of genetic and sequence information in bio-
+logical databases. The course combines lectures with
+hands-on exercises; students are encouraged to pose
+challenging sequence analysis problems using their own
+data. The course makes extensive use of local WWW
+pages to present problem sets and the computing tools
+to solve them. Students use Windows and Mac work-
+stations attached to a UNIX server; participants should
+be comfortable using the Unix operating system and a
+Unix text editor.
+The course is designed for biologists seeking advanced
+training in biological sequence analysis, computational
+biology core resource directors and staﬀ, and for scien-
+tists in other disciplines, such as computer science, who
+wish to survey current research problems in biological
+sequence analysis.
+The primary focus of the Computational Genomics
+Course is the theory and practice of algorithms used
+in computational biology, with the goal of using cur-
+rent methods more eﬀectively and developing new al-
+gorithms. Students more interested in the practical as-
+pects of software development are encouraged to ap-
+ply to the Cold Spring Harbor Bioinformatics - Writing
+Software for Genome Research Course.
+For additional information and the lecture schedule andproblem sets for the 2003 course, see:
+http://www.people.virginia.edu/˜wrp/cshl03
+===
+To apply to the course, ﬁll out the form at:
+http://meetings.cshl.org/course app.htm
+===
+Denmark Hybridization Nov27-30
+First Announcement of Workshop and Ph.D. course:
+“Natural hybridization and introgression: from ge-
+nomics to ecology” Denmark, November 27. -30. 2004
+The goal of this workshop is to discuss genetics, ge-
+nomics and ecology of hybridization and gene intro-
+gression. We will concentrate on newer ﬁndings on the
+eﬀects of speciﬁc genes and -interactions, genotype x en-
+vironment interactions, changes in genomes subsequent
+to hybridization, gene expression, regulation etc. The
+role of hybridization in evolution is more debated and
+empirically better supported than ever, due to new in-
+sights into genetics, genomics and ecology of hybrids. It
+is now widely recognized that hybridization may have
+a variety of evolutionary and ecological consequences,
+and a major goal is to understand their frequencies,
+conditions and mechanisms. At the same time, hy-
+bridization and introgression is becoming increasingly
+relevant for human management of e.g. survival of in-
+digenous populations, invasive species, genetically mod-
+iﬁed organisms, maintenance of genetic resources, etc.
+Three invited speakers will take part in the workshop:
+Allison Snow, Professor at Dept. of Evolution, Ecol-
+ogy, and Organismal Biology, Ohio State University
+(http://www.biosci.ohio-state.edu/ ˜ asnowlab/-
+allison.htm <http://www.biosci.ohio-state.edu/-
+˜ asnowlab/allison.htm ): “Eﬀects of hybridization
+between crops and their weedy relatives: the po-
+tential for rapid evolutionary change.” Michael
+Arnold, Professor at Dept. of Genetics, University
+of Georgia ( http://www.genetics.uga.edu/faculty/-
+bio-Arnold .html <http://www.genetics.uga.edu/-
+faculty/bio-Arnold .html ), “Natural Hybridization and
+evolution: from genetics to ecology and back again”.
+Andreas Madlung, Assistant Professor at Biology
+Department, University of Puget Sound ( <http:/-
+/www.ups.edu/biology/faculty/madlung.htm >):
+“Genomic structure and stability, epigenetic changesAugust 1, 2004 EvolDir 47
+and transposon activity in auto- and allopolyploid
+hybrids of Arabidopsis.”
+In addition, there will be oral and poster presentations
+by participating researchers and Ph.D. students. But
+most importantly, there will be plenty of time for dis-
+cussion and exchange of ideas.
+The course will take place at a course facility ca. 50
+km north of Copenhagen. Participation fee, including
+room and board, will be 270 EUR maximum, possi-
+bly lower. Travel at the participants own expense. A
+maximum of 30 persons can take part in the work-
+shop. Students will receive a certiﬁcate stating their
+participation (active, if presenting research, or pas-
+sive) to be used for university credits. For prelimi-
+nary registration (to be conﬁrmed later), send an e-
+mail to Mette Hansen, mha@kvl.dk. Please indicate
+whether you would like to give an oral presentation
+or poster , and enclose a brief abstract of its content
+(please note: only few presentations will be accepted).
+For more information, contact thure.hauser@risoe.dk
+<mailto:thure.hauser@risoe.dk >, fax: +45 4677 4160.
+Organizing committee: Thure Hauser, Senior Scientist,
+RisøNational Lab.; Christian Damgaard, Senior Scien-
+tist, National Environmental Research Inst.; Erik Kjær,
+Professor, Forest Genetics, Royal Veterinary and Agri-
+cultural Univ.; Dorte Bekkevold, Scientist, and Einar
+Eg Nielsen, Senior Scientist, Danish Institute for Fish-
+eries Research.
+UFribourg ExperimentalEvol Oct4-5
+Experimental Evolution Workshop 4-5 October 2004
+Application deadline extended!
+Fribourg Ecology & Evolution Days 2004
+University of Fribourg, Departement of Biology, Fri-
+bourg, Switzerland,
+http://www.unifr.ch/biol/ecology/expevo04/-
+index.html When does natural selection favor
+the evolution of ecological specialization as opposed to
+a generalist lifestyle, and why? Does conﬂict betweenthe sexes lead to an evolutionary arms-race? What
+factors aﬀect the evolution of parasite virulence? Is
+mutation rate molded by evolution? Is evolution
+repeatable and reversible? Studying evolution in real
+time under experimental conditions is a powerful way
+of addressing these questions.
+This workshop will bring together several invited speak-
+ers and a number of younger researchers using exper-
+imental evolution to address diverse questions. The
+talks will be followed by plenary discussion. The sym-
+posium will be free (no registration fee).
+Conﬁrmed invited speakers: * James B. Anderson (Uni-
+versity of Toronto, Canada) * Graham Bell (McGill
+University, Montreal, Canada) * Angus Buckling (Uni-
+versity of Bath, UK) * Santiago Elena (University of
+Valencia, Spain) * William Rice (University of Cali-
+fornia, Santa Barbara, USA) * Gregory Velicer (Max-
+Planck Institute of Developmental Biology, T¨ ubingen,
+Germany)
+We have time for about 15 contributed talks of 20 min.
+The workshop is supported by the University of
+Fribourg, Switzerland and the TROISI `EME CY-
+CLE de CONF ´ERENCE UNIVERSITAIRE DE
+SUISSE OCCIDENTALE. ( http://www.cuso.ch/3e-
+cycle/biologie.html )
+Organizers: Tadeusz Kawecki & Dieter Ebert Uni-
+versity of Fribourg, Departement of Biology, Fri-
+bourg, Switzerland Email: tadeusz.kawecki@unifr.ch
+dieter.ebert@unifr.ch
+For more information on the workshop and for reg-
+istration check: http://www.unifr.ch/biol/ecology/-
+expevo04/index.html For more information on Ecol-
+ogy and Evolution in Fribourg check: http://-
+www.unifr.ch/biol/ecology/index.html –
+Dieter Ebert [ Mailto:dieter.ebert@unifr.ch ] Universit´ e
+de Fribourg, Departement de Biologie, Ecologie et Evo-
+lution, Chemin du Musee 10 1700 Fribourg, Switzer-
+land http://www.unifr.ch/biol/ecology/index.html Tel.
++41-(0)26-300 88 69, Fax +41-(0)26-300 96 98
+Please visit the web-page dedicated to the late W.D.
+(Bill) Hamilton: http://www.unifr.ch/biol/ecology/-
+hamilton/hamilton.html http://www.unifr.ch/biol/-
+ecology/hamilton/hamilton.html
+Instructions48 EvolDir August 1, 2004
+Instructions: To be added to the EvolDir mailing list please send an email message to Golding@McMaster.CA. At
+this time provide a binary six letter code that determines which messages will be mailed to you. These are listed
+in the same order as presented here — Conferences; Graduate Student Positions; Jobs; Other; Post-doctoral
+positions; WorkshopsCourses. For example to receive the listings that concern conferences and post-doctoral
+positions this would be 100010. Messages are categorized on the basis of their subject headings. If this subject
+heading is not successfully parsed, the message will be sent to me at Golding@McMaster.CA. In addition, if it
+originates from ‘blackballed’ addresses it will be sent to me at Golding@McMaster.CA. These messages will only
+be read and dealt with when I have time. The code 000000 has all channels turned oﬀ and hence gets only a
+once monthly notifcation of the availability of a monthly review pdf ﬁle.
+To be removed from the EvolDir mailing list please send an email message to Golding@McMaster.CA. Note that
+‘on vacation’, etc, style messages are automatically ﬁltered and should not be transmitted to the list (I hope),
+but should you wish to avoid the e-mail’s your code can be temporarily changed to 000000.
+To send messages to the EvolDir direct them to the email evoldir@evol.biology.McMaster.CA. Do not include
+encoded attachments and do not send it as Word ﬁles, as HTML ﬁles, as L ATEX ﬁles, Excel ﬁles, etc. . . . plain
+old ASCII will work great and can be read by everyone. Add a subject header that contains one of the keywords
+“Conference, Grad, Job, Other:, Postdoc, Workshop” and then the message stands a better chance of being
+correctly parsed.
+The message will be stored until the middle of the night (local time). At a predetermined time, the collected
+messages will be captured and then processed by programs and ﬁlters. So please do not expect an instant
+response.
+Afterward
+This program is an attempt to automatically process a broad variety of e-mail messages. Most preformating is collapsed to save
+space. At the current time, many features may be incorrectly handled and some email messages may be positively mauled. Although
+this is being produced by L ATEX do not try to embed L ATEX or T EX in your message (or other formats) since my program will strip
+these from the message.

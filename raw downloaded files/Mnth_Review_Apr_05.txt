@@ -6144,4 +6144,190 @@ week program is designed for established investigators,
 postdoctoral fellows, and advanced graduate students
 with prior experience in molecular evolution and com-
 parative genomics. Scientists with a strong interest in
-molecular evolution, systemat
+molecular evolution, systematics, and population ge-
+netics are encouraged to apply. Enrollment is limited
+to 60 students, and 15 students will be admitted to
+an extended topics session for the purpose of analyz-
+ing their research data sets. Many participants ﬁnd the
+extended topics session to be especially useful.
+Topics to be covered include:
+* Databases and sequence matching: database search-
+ing: protein sequence versus protein structure; homol-
+ogy; mathematical, statistical, and theoretical aspects
+of sequence database searches * Phylogenetic analysis:
+theoretical, mathematical and statistical bases; sam-
+pling properties of sequence data; Bayesian analysis,
+hypothesis testing * Character analysis in a phylo-
+genetic context: analysis of quantitative and discrete
+characters; hypothesis testing * Maximum likelihood
+theory and practice in phylogenetics and population ge-
+netics: coalescent theory; maximum likelihood estima-
+tion of population genetic parameters * Bayesian meth-
+ods in phylogenetic analysis * Molecular evolution inte-
+grated at diﬀerent levels: population biology; biogeog-
+raphy; ecology; systematics and conservation * Molec-
+ular evolution and development: gene duplication and
+divergence; gene family organization; coordinated ex-
+pression in evolution * Comparative genomics: genome
+content; genome structure; genome evolution * Trans-
+posable elements: types; history; evolutionary dynam-
+ics; as a major component of genomes
+Preliminary List of Faculty -
+Peter Beerli Joseph Bielawski Michael Cummings
+Scott Edwards Joseph Felsenstein Claire Fraser Mark
+Holder Mary Kuhner Paul Lewis Axel Meyer Michael
+Miyamoto William Pearson David Rand Margaret Ri-
+ley David Swoﬀord Steven Thompson Paul Turner
+Daniel Voytas Anne Yoder Shozo Yokoyama
+Preliminary list of Teaching Assistants -
+Carlos Daniel Cadena Kelly Dyer Johanna Fehling Amy74 EvolDir April 1, 2005
+Lawton-Rauh Naiara Rodriquez-Ezpeleta
+Partial funding support for the Workshop comes from
+the National Aeronautics and Space Administration
+(NASA).
+Fee: $2000 (room and board at no additional charge),
+plus an additional $750 for the extended topics session.
+Application Form at http://www.mbl.edu/education/-
+admissions/applications/ Further information at
+http://workshop.molecularevolution.org/
+TrinityCollege
+ComparativeGenomics Sep18-20
+CALL FOR PAPERS Deadline: May 15, 2005
+Third Annual RECOMB Satellite meeting on Compar-
+ative Genomics
+September 18-20, 2005, Trinity College Dublin, Ireland
+MEETING WEBSITE: http://www.gen.tcd.ie/-
+recomb cg/ PROGRAM CO-CHAIRS: Daniel Huson,
+Center for Bioinformatics, Tuebingen University Aoife
+McLysaght, Trinity College, Dublin
+ORGANIZERS: Daniel Huson, Center for Bioinformat-
+ics, Tuebingen University Jens Lagergren, Stockholm
+Bioinformatics Center & KTH Aoife McLysaght, Trin-
+ity College, Dublin David Sankoﬀ, University of Ot-
+tawa, Canada
+THEME AND SCOPE: Large-scale genome sequenc-
+ing projects are generating vast amounts of data for a
+multitude of organisms including mammals and other
+vertebrates, invertebrates, fungi, plants, bacteria, and
+viruses. As the data increase so do the opportunities
+and the challenges for scientists to interpret them. By
+endeavouring to make sense of the process and pattern
+of genome evolution, comparative genomics lies at the
+forefront of this challenge.
+The core of comparative genome analysis is the estab-
+lishment of the correspondence between genes (orthol-
+ogy analysis) or other genomic features in diﬀerent or-
+ganisms. It is these intergenomic maps that make it
+possible to trace the evolutionary processes responsible
+for the divergence of two genomes. A multitude of evo-
+lutionary events acting at various organizational levels
+shape genome evolution. At the lowest level, point mu-
+tations aﬀect individual nucleotides. At a higher level,
+large chromosomal segments undergo duplication, lat-eral transfer, inversion, transposition, deletion and in-
+sertion. Ultimately, whole genomes are involved in pro-
+cesses of hybridization, polyploidization and endosym-
+biosis, often leading to rapid speciation. The complex-
+ity of genome evolution poses many exciting challenges
+to developers of mathematical models and algorithms,
+who have recourse to a spectrum of algorithmic, sta-
+tistical and mathematical techniques, ranging from ex-
+act, heuristic, ﬁxed parameter and approximation al-
+gorithms for problems based on parsimony models to
+Monte Carlo Markov Chain algorithms for Bayesian
+analysis of problems based on probabilistic models.
+The RECOMB Satellite Workshop on Comparative Ge-
+nomics is a forum on all aspects and components of this
+ﬁeld, ranging from new quantitative discoveries about
+genome structure and process to theorems on the com-
+plexity of computational problems inspired by genome
+comparison.
+SUBMISSION GUIDELINES: Papers submitted for re-
+view should represent original, previously unpublished
+work. At the time the paper is submitted to the confer-
+ence, and for the entire review period, the paper should
+not be under review by any other conference or scien-
+tiﬁc journal.
+Successful submissions will be invited for a 25-minute
+presentation, and the paper will be printed in the
+conference proceedings, which will be published by
+Springer in the “Lecture Notes in Bioinformatics” se-
+ries.
+Papers should not exceed 10 pages (all inclusive) and
+must be submitted via the conference website http:/-
+/www.gen.tcd.ie/recomb cg/. KEY DATES: May 15,
+2005 Paper submission deadline June 12, 2005 Notiﬁ-
+cation of paper acceptance June 19, 2005 Poster sub-
+mission deadline June 26, 2005 Final manuscript due
+REGISTRATION: Please register via the con-
+ference website http://www.gen.tcd.ie/recomb cg/
+mclysaga@tcd.ie mclysaga@tcd.ie
+UAlgarve MolEvol May6-12
+Workshop on Molecular Evolution
+The Biodiversity and Conservation Group (BioCon) of
+the Center for Marine Sciences of the University of Al-
+garve is pleased to announce the Workshop on Molecu-
+lar Evolution to be held from 6-12 May 2005. Lecturers:
+David Swoﬀord, Gavin Naylor and Mark Holder fromApril 1, 2005 EvolDir 75
+Florida State University, USA Place: Quarteira, Al-
+garve, Portugal Application deadline: 31 March 2005
+Notiﬁcation of acceptance: 11 April 2005 Payment
+deadline: 25 April 2005 Fee: 1200 all inclusive Course
+Fee, room (in twin bedroom) & board (breakfast, lunch
+and dinner) as well as all documentation provided at
+no additional charge. The course fees do not include
+travel or other subsistence costs. The organizing com-
+mittee is trying to organize transport from the airport
+to the meeting place. Alternatively students may ar-
+range their own accommodation, meals and transport
+from the airport to the meeting place, and the course fee
+will be 600. The course will consist of lectures, demon-
+strations of software implementing the concepts, and
+labs in which students will use software on their own
+computers to analyze both example data and their own
+data. Topics covered: Estimating phylogenies - dis-
+tance and character-based (parsimony, likelihood and
+Bayesian) approaches - assessing conﬁdence - supertree
+and split-based methods. Models - how do we choosethe an appropriate model - dealing with data from het-
+erogeneous or non-stationary processes - inconsistency
+Uses of inferred trees - ancestral characters state recon-
+struction - inferring aspects of the evolutionary process
+- biogeography - estimating divergence times
+How to apply Eligible participants:
+This workshop is intended for last year PhD students
+or post-docs, with a basic knowledge of phylogenetics.
+Students must have their own datasets to analyze. Stu-
+dents must bring a laptop (Mac or PC) to work on dur-
+ing the workshop.
+The organization will try to maximize the participa-
+tion of diﬀerent laboratories and the greatest number
+of European countries.
+To apply send an email to rcastil@ualg.pt, subject
+Workshop.
+Rita Castilho <rcastil@ualg.pt >
+Instructions
+Instructions: To be added to the EvolDir mailing list please send an email message to Golding@McMaster.CA. At
+this time provide a binary six letter code that determines which messages will be mailed to you. These are listed
+in the same order as presented here — Conferences; Graduate Student Positions; Jobs; Other; Post-doctoral
+positions; WorkshopsCourses. For example to receive the listings that concern conferences and post-doctoral
+positions this would be 100010. Messages are categorized on the basis of their subject headings. If this subject
+heading is not successfully parsed, the message will be sent to me at Golding@McMaster.CA. In addition, if it
+originates from ‘blackballed’ addresses it will be sent to me at Golding@McMaster.CA. These messages will only
+be read and dealt with when I have time. The code 000000 has all channels turned oﬀ and hence gets only a
+once monthly notifcation of the availability of a monthly review pdf ﬁle.
+To be removed from the EvolDir mailing list please send an email message to Golding@McMaster.CA. Note that
+‘on vacation’, etc, style messages are automatically ﬁltered and should not be transmitted to the list (I hope),
+but should you wish to avoid the e-mail’s your code can be temporarily changed to 000000.
+To send messages to the EvolDir direct them to the email evoldir@evol.biology.McMaster.CA. Do not include
+encoded attachments and do not send it as Word ﬁles, as HTML ﬁles, as L ATEX ﬁles, Excel ﬁles, etc. . . . plain
+old ASCII will work great and can be read by everyone. Add a subject header that contains the correct category
+“Conference:, Graduate position:, Job:, Other:, Postdoc:, Workshop:” and then the message stands a better
+chance of being correctly parsed. Note that the colon is mandatory.
+The message will be stored until the middle of the night (local time). At a predetermined time, the collected
+messages will be captured and then processed by programs and ﬁlters. If the message is caught by one of the
+ﬁlters (e.g. a subject header is not correctly formated) the message will be send to me at Golding@McMaster.CA
+and processed later. In either case, please do not expect an instant response.76 EvolDir April 1, 2005
+Afterward
+This program is an attempt to automatically process a broad variety of e-mail messages. Most preformating is collapsed to save
+space. At the current time, many features may be incorrectly handled and some email messages may be positively mauled. Although
+this is being produced by L ATEX do not try to embed L ATEX or T EX in your message (or other formats) since my program will strip
+these from the message.
