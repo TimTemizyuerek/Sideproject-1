@@ -3,6 +3,7 @@ import os
 import requests
 from urllib.parse import urljoin
 from bs4 import BeautifulSoup
+## import textract come back to it during optimisation
 
 ## packages and modules for Tims code
 import PyPDF2  ## handles pdf files
@@ -60,28 +61,56 @@ for link in soup.select("a[href$='.pdf']"):
 ## extract PhD position section from all files
 for n in fnmatch.filter(os.listdir(folder_location), '*.txt*'):
 
-    ## load individual file and make into a pdf object
+    ## load individual file and make into a txt object
     runner_file_location = (folder_location + "/" + fnmatch.filter(os.listdir(folder_location), '*.txt*')[n])
-    runner_file = open(runner_file_location, 'rb')
+    runner_file = open(runner_file_location, 'r')
     all_in_one_string = runner_file.read()
     
     ## find second "GradStudentPositions"
-    second_GradStudentPositions_index = [i for i in range(len(all_in_one_string)) if all_in_one_string.startswith(b"\nGradStudentPositions", i)][1]
+    second_GradStudentPositions_index = [i for i in range(len(all_in_one_string)) if all_in_one_string.startswith("\nGradStudentPositions", i)][1]
     ## find second "Jobs"
-    second_Jobs_index = [i for i in range(len(all_in_one_string)) if all_in_one_string.startswith(b"\nJobs", i)][1]
+    second_Jobs_index = [i for i in range(len(all_in_one_string)) if all_in_one_string.startswith("\nJobs", i)][1]
     
     ## extract relevant text
     all_GradStudentPositions_string = all_in_one_string[second_GradStudentPositions_index:second_Jobs_index]
 
-    ## no name can be after this index
-    end_of_PhD_names = [i for i in range(len(all_GradStudentPositions_string)) if all_GradStudentPositions_string.startswith(b" . . . ", i)][-1]
+    ## no name can be after this index (problem: miss lasts position)
+    end_of_PhD_names = [i for i in range(len(all_GradStudentPositions_string)) if all_GradStudentPositions_string.startswith(" . . . ", i)][-1]
 
     ## extract table of content
-    PhD_table_of_content = all_GradStudentPositions_string[:end_of_PhD_names].split(b"\n")
+    PhD_table_of_content = all_GradStudentPositions_string[:end_of_PhD_names]
     
+    ## find instances of \n to cut up PhD positions (problem: what if the position does not start with a \n)
+    indices_of_PhD_start_and_end_points = [i for i in range(len(PhD_table_of_content)) if PhD_table_of_content.startswith("\n", i)][1:]
+        
+    ## extract PhD position names
+    PhD_names = [None]*(len(indices_of_PhD_start_and_end_points)-1)
+    for n in range(len(indices_of_PhD_start_and_end_points)-1):
 
+        ## nth position
+        runner = str(PhD_table_of_content[indices_of_PhD_start_and_end_points[n]:indices_of_PhD_start_and_end_points[n+1]])
+        
+        ## find first and last index (problem: if the PhD name is longer than the page, there are additional \ns)
+        runner_first = runner.find("\\n")
+        runner_last = runner.find(" .")
+        
+        ## extract clean name
+        PhD_names[n] = runner[runner_first+2:runner_last]
+    
+    ## extract full PhD texts
+
+    ## WIP
+    for n in range(len(PhD_names)):
+
+        [i for i in range(len(all_GradStudentPositions_string)) if all_GradStudentPositions_string.startswith(PhD_names[n], i)][-1]    
+
+        runner_start = all_GradStudentPositions_string.find(PhD_names[n])
+        runner_last = all_GradStudentPositions_string.find(PhD_names[n+1])
 
     ## bookmark
+
+
+
 
 
 
