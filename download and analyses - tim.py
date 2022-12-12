@@ -11,6 +11,7 @@ from PyPDF2 import PdfFileWriter ## handles pdf file
 import fnmatch ## count files in directory
 import re
 import pandas as pd
+import numpy as np
 
 ## custom functions
 
@@ -61,15 +62,17 @@ for link in soup.select("a[href$='.pdf']"):
 
 ## create output dataframe
 
-file_ID, PhD_ID, totalwordcount, word1, word2, ... wordn
-
-output_df = pd.DataFrame(columns = ['fileID', 'PhDID', 'word1', 'word2', 'word3'],index = ['R1', 'R2', 'R3', 'R4', 'R5'])
+list_of_words = ["research","biology","letter", "application", "email", "starting"]
+output_df = pd.DataFrame(columns = ['fileID', 'PhDID', *list_of_words])
 
 ## extract PhD position section from all files
-for n in fnmatch.filter(os.listdir(folder_location), '*.txt*'):
+for n,name in enumerate(fnmatch.filter(os.listdir(folder_location), '*.txt*')):
 
+    ## safe file name for df later
+    df_filename = fnmatch.filter(os.listdir(folder_location), '*.txt*')[n]
+    
     ## load individual file and make into a txt object
-    runner_file_location = (folder_location + "/" + fnmatch.filter(os.listdir(folder_location), '*.txt*')[n])
+    runner_file_location = (folder_location + "/" + df_filename)
     runner_file = open(runner_file_location, 'r', encoding="utf8")
     all_in_one_string = runner_file.read()
     all_in_one_string = all_in_one_string.replace(" ","")
@@ -108,24 +111,36 @@ for n in fnmatch.filter(os.listdir(folder_location), '*.txt*'):
     
     ## create a version of the text without \n, as it makes searching for PhD positions impossible
     clean_all_GradStudentPositions_string = all_GradStudentPositions_string.replace("\n","")
-    ## get rid of spaces as well
-    clean_all_GradStudentPositions_string = clean_all_GradStudentPositions_string.replace(" ","")
 
     ## extract full PhD texts and look for words
     for n in range(len(PhD_names)-1):
 
         ## start point
-        runner_first = [i for i in range(len(clean_all_GradStudentPositions_string)) if clean_all_GradStudentPositions_string.startswith(PhD_names[n], i)][1]
+        runner_first = [i for i in range(len(clean_all_GradStudentPositions_string)) if clean_all_GradStudentPositions_string.startswith(PhD_names[n], i)]
         ## end point
-        runner_last = [i for i in range(len(clean_all_GradStudentPositions_string)) if clean_all_GradStudentPositions_string.startswith(PhD_names[n+1], i)][1]
-        
-        ## extract full PhD text
-        runner_PhD = clean_all_GradStudentPositions_string[runner_first:runner_last]
+        runner_last = [i for i in range(len(clean_all_GradStudentPositions_string)) if clean_all_GradStudentPositions_string.startswith(PhD_names[n+1], i)]
+
+        ## make watertight
+        if len(runner_first) == 2 and len(runner_last) == 2:
+            first_index = runner_first[1]
+            last_index = runner_last[1]
+        elif len(runner_first) == 2 and len(runner_last) != 2:
+            first_index = runner_first[1]
+            last_index = runner_last[int(np.argwhere((np.array(runner_last) - runner_first[1] >= 0) == True)[0])]  ## make it more pretty
+        elif len(runner_first) != 2 and len(runner_last) == 2:
+            first_index = runner_first[int(np.argwhere((np.arange(len(runner_first))%(len(runner_first)/2) == 0) == True)[1])] ## make it more pretty
+            last_index = runner_last[1]
+        else:
+            pass
+    
+     ## extract full PhD text
+        runner_PhD = clean_all_GradStudentPositions_string[first_index:last_index]
 
         ## search within PhD text
-        words_to_look_for = "research"
-        print(len([i for i in range(len(runner_PhD)) if runner_PhD.startswith(words_to_look_for, i)]))
+        word_count_all = [None]*(len(list_of_words))
+        for i,words in enumerate(list_of_words):
+            word_count_all[i] = len([i for i in range(len(runner_PhD)) if runner_PhD.startswith(words, i)])
 
-
-    ## build output row
-
+        ## assemble row to append to the df
+        runner_row = pd.Series([df_filename, PhD_names[n], *word_count_all], index=output_df.columns)
+        output_df = output_df.append(runner_row, ignore_index = True)
