@@ -35,7 +35,6 @@ def pdf_to_txt(pdf_file_location):
         runner_page = pageobj.extractText()
         runner_file.writelines(runner_page)
 
-
 ## set directories and ULR
 url = "https://evol.mcmaster.ca/cgi-bin/my_wrap/brian/evoldir/Archive/"
 #folder_location = 'C:/Users/akhil/Desktop'
@@ -58,7 +57,6 @@ for link in soup.select("a[href$='.pdf']"):
 ##     
 ##     ## do the transformation
 ##     pdf_to_txt(runner_file_location)
-
 
 ## create output dataframe
 
@@ -96,10 +94,10 @@ for n,name in enumerate(fnmatch.filter(os.listdir(folder_location), '*.txt*')):
     
     ## extract PhD position names
     PhD_names = [None]*(len(indices_of_PhD_start_and_end_points)-1)
-    for n in range(len(indices_of_PhD_start_and_end_points)-1):
+    for m in range(len(indices_of_PhD_start_and_end_points)-1):
 
         ## nth position
-        runner = str(PhD_table_of_content[indices_of_PhD_start_and_end_points[n]:indices_of_PhD_start_and_end_points[n+1]])
+        runner = str(PhD_table_of_content[indices_of_PhD_start_and_end_points[m]:indices_of_PhD_start_and_end_points[m+1]])
         
         ## find first instance of "\n"
         runner_first = runner.find("\\n")
@@ -107,18 +105,18 @@ for n,name in enumerate(fnmatch.filter(os.listdir(folder_location), '*.txt*')):
         runner_last = runner.find("..")
         
         ## extract clean names
-        PhD_names[n] = runner[runner_first+2:runner_last]
+        PhD_names[m] = runner[runner_first+2:runner_last]
     
     ## create a version of the text without \n, as it makes searching for PhD positions impossible
     clean_all_GradStudentPositions_string = all_GradStudentPositions_string.replace("\n","")
 
     ## extract full PhD texts and look for words
-    for n in range(len(PhD_names)-1):
+    for k in range(len(PhD_names)-1):
 
         ## start point
-        runner_first = [i for i in range(len(clean_all_GradStudentPositions_string)) if clean_all_GradStudentPositions_string.startswith(PhD_names[n], i)]
+        runner_first = [i for i in range(len(clean_all_GradStudentPositions_string)) if clean_all_GradStudentPositions_string.startswith(PhD_names[k], i)]
         ## end point
-        runner_last = [i for i in range(len(clean_all_GradStudentPositions_string)) if clean_all_GradStudentPositions_string.startswith(PhD_names[n+1], i)]
+        runner_last = [i for i in range(len(clean_all_GradStudentPositions_string)) if clean_all_GradStudentPositions_string.startswith(PhD_names[k+1], i)]
 
         ## make watertight
         if len(runner_first) == 2 and len(runner_last) == 2:
@@ -142,5 +140,5 @@ for n,name in enumerate(fnmatch.filter(os.listdir(folder_location), '*.txt*')):
             word_count_all[i] = len([i for i in range(len(runner_PhD)) if runner_PhD.startswith(words, i)])
 
         ## assemble row to append to the df
-        runner_row = pd.Series([df_filename, PhD_names[n], *word_count_all], index=output_df.columns)
+        runner_row = pd.Series([df_filename, PhD_names[k], *word_count_all], index=output_df.columns)
         output_df = output_df.append(runner_row, ignore_index = True)
